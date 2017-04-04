@@ -1,663 +1,663 @@
 <svg height="10558" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="10558" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-04 10:35:55 +0000  8500039 byte  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-04 10:35:55 +0000    11358 byte  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-04 10:35:55 +0000  1417174 byte  bin/BrowserSystem.js</tspan>
-<tspan x="10" y="74">  3.  2017-04-04 10:35:55 +0000   139950 byte  bin/traceur-runtime.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-04 10:35:55 +0000  1415799 byte  bin/traceur.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-04 10:35:55 +0000  2672684 byte  bin/traceur.js.map</tspan>
-<tspan x="10" y="122">  6.  2017-04-04 10:35:55 +0000     9629 byte  dist/commonjs/Compiler.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-04 10:35:55 +0000     3336 byte  dist/commonjs/HTMLImportTranscoder.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-04 10:35:55 +0000    14537 byte  dist/commonjs/Options.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-04 10:35:55 +0000     4659 byte  dist/commonjs/WebPageTranscoder.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-04 10:35:55 +0000       45 byte  dist/commonjs/bootstrap.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-04 10:35:55 +0000      521 byte  dist/commonjs/browser/System.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-04 10:35:55 +0000     2487 byte  dist/commonjs/codegeneration/AlphaRenamer.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-04 10:35:55 +0000     3919 byte  dist/commonjs/codegeneration/AmdTransformer.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-04 10:35:55 +0000    11213 byte  dist/commonjs/codegeneration/AnnotationsTransform\</tspan>
+<tspan x="10" y="26">  0.  2017-04-04 10:37:17 +0000  8500039 byte  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-04 10:37:17 +0000    11358 byte  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-04 10:37:17 +0000  1417174 byte  bin/BrowserSystem.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-04 10:37:17 +0000   139950 byte  bin/traceur-runtime.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-04 10:37:17 +0000  1415799 byte  bin/traceur.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-04 10:37:17 +0000  2672684 byte  bin/traceur.js.map</tspan>
+<tspan x="10" y="122">  6.  2017-04-04 10:37:17 +0000     9629 byte  dist/commonjs/Compiler.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-04 10:37:17 +0000     3336 byte  dist/commonjs/HTMLImportTranscoder.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-04 10:37:17 +0000    14537 byte  dist/commonjs/Options.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-04 10:37:17 +0000     4659 byte  dist/commonjs/WebPageTranscoder.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-04 10:37:17 +0000       45 byte  dist/commonjs/bootstrap.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-04 10:37:17 +0000      521 byte  dist/commonjs/browser/System.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-04 10:37:17 +0000     2487 byte  dist/commonjs/codegeneration/AlphaRenamer.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-04 10:37:17 +0000     3919 byte  dist/commonjs/codegeneration/AmdTransformer.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-04 10:37:17 +0000    11213 byte  dist/commonjs/codegeneration/AnnotationsTransform\</tspan>
 <tspan x="10" y="266">er.js</tspan>
-<tspan x="10" y="282"> 15.  2017-04-04 10:35:55 +0000     2012 byte  dist/commonjs/codegeneration/ArrayComprehensionTr\</tspan>
+<tspan x="10" y="282"> 15.  2017-04-04 10:37:17 +0000     2012 byte  dist/commonjs/codegeneration/ArrayComprehensionTr\</tspan>
 <tspan x="10" y="298">ansformer.js</tspan>
-<tspan x="10" y="314"> 16.  2017-04-04 10:35:55 +0000     5730 byte  dist/commonjs/codegeneration/ArrowFunctionTransfo\</tspan>
+<tspan x="10" y="314"> 16.  2017-04-04 10:37:17 +0000     5730 byte  dist/commonjs/codegeneration/ArrowFunctionTransfo\</tspan>
 <tspan x="10" y="330">rmer.js</tspan>
-<tspan x="10" y="346"> 17.  2017-04-04 10:35:55 +0000     4661 byte  dist/commonjs/codegeneration/AsyncGeneratorTransf\</tspan>
+<tspan x="10" y="346"> 17.  2017-04-04 10:37:17 +0000     4661 byte  dist/commonjs/codegeneration/AsyncGeneratorTransf\</tspan>
 <tspan x="10" y="362">ormPass.js</tspan>
-<tspan x="10" y="378"> 18.  2017-04-04 10:35:55 +0000     4627 byte  dist/commonjs/codegeneration/AsyncGeneratorTransf\</tspan>
+<tspan x="10" y="378"> 18.  2017-04-04 10:37:17 +0000     4627 byte  dist/commonjs/codegeneration/AsyncGeneratorTransf\</tspan>
 <tspan x="10" y="394">ormer.js</tspan>
-<tspan x="10" y="410"> 19.  2017-04-04 10:35:55 +0000     4724 byte  dist/commonjs/codegeneration/AsyncToGeneratorTran\</tspan>
+<tspan x="10" y="410"> 19.  2017-04-04 10:37:17 +0000     4724 byte  dist/commonjs/codegeneration/AsyncToGeneratorTran\</tspan>
 <tspan x="10" y="426">sformer.js</tspan>
-<tspan x="10" y="442"> 20.  2017-04-04 10:35:55 +0000    25593 byte  dist/commonjs/codegeneration/BlockBindingTransfor\</tspan>
+<tspan x="10" y="442"> 20.  2017-04-04 10:37:17 +0000    25593 byte  dist/commonjs/codegeneration/BlockBindingTransfor\</tspan>
 <tspan x="10" y="458">mer.js</tspan>
-<tspan x="10" y="474"> 21.  2017-04-04 10:35:55 +0000     9808 byte  dist/commonjs/codegeneration/ClassTransformer.js</tspan>
-<tspan x="10" y="490"> 22.  2017-04-04 10:35:55 +0000     3820 byte  dist/commonjs/codegeneration/CloneTreeTransformer\</tspan>
+<tspan x="10" y="474"> 21.  2017-04-04 10:37:17 +0000     9808 byte  dist/commonjs/codegeneration/ClassTransformer.js</tspan>
+<tspan x="10" y="490"> 22.  2017-04-04 10:37:17 +0000     3820 byte  dist/commonjs/codegeneration/CloneTreeTransformer\</tspan>
 <tspan x="10" y="506">.js</tspan>
-<tspan x="10" y="522"> 23.  2017-04-04 10:35:55 +0000     3375 byte  dist/commonjs/codegeneration/ClosureModuleTransfo\</tspan>
+<tspan x="10" y="522"> 23.  2017-04-04 10:37:17 +0000     3375 byte  dist/commonjs/codegeneration/ClosureModuleTransfo\</tspan>
 <tspan x="10" y="538">rmer.js</tspan>
-<tspan x="10" y="554"> 24.  2017-04-04 10:35:55 +0000     5694 byte  dist/commonjs/codegeneration/CommonJsModuleTransf\</tspan>
+<tspan x="10" y="554"> 24.  2017-04-04 10:37:17 +0000     5694 byte  dist/commonjs/codegeneration/CommonJsModuleTransf\</tspan>
 <tspan x="10" y="570">ormer.js</tspan>
-<tspan x="10" y="586"> 25.  2017-04-04 10:35:55 +0000     3308 byte  dist/commonjs/codegeneration/ComprehensionTransfo\</tspan>
+<tspan x="10" y="586"> 25.  2017-04-04 10:37:17 +0000     3308 byte  dist/commonjs/codegeneration/ComprehensionTransfo\</tspan>
 <tspan x="10" y="602">rmer.js</tspan>
-<tspan x="10" y="618"> 26.  2017-04-04 10:35:55 +0000     3225 byte  dist/commonjs/codegeneration/DefaultParametersTra\</tspan>
+<tspan x="10" y="618"> 26.  2017-04-04 10:37:17 +0000     3225 byte  dist/commonjs/codegeneration/DefaultParametersTra\</tspan>
 <tspan x="10" y="634">nsformer.js</tspan>
-<tspan x="10" y="650"> 27.  2017-04-04 10:35:55 +0000    19771 byte  dist/commonjs/codegeneration/DestructuringTransfo\</tspan>
+<tspan x="10" y="650"> 27.  2017-04-04 10:37:17 +0000    19771 byte  dist/commonjs/codegeneration/DestructuringTransfo\</tspan>
 <tspan x="10" y="666">rmer.js</tspan>
-<tspan x="10" y="682"> 28.  2017-04-04 10:35:55 +0000    22835 byte  dist/commonjs/codegeneration/ExplodeExpressionTra\</tspan>
+<tspan x="10" y="682"> 28.  2017-04-04 10:37:17 +0000    22835 byte  dist/commonjs/codegeneration/ExplodeExpressionTra\</tspan>
 <tspan x="10" y="698">nsformer.js</tspan>
-<tspan x="10" y="714"> 29.  2017-04-04 10:35:55 +0000     2124 byte  dist/commonjs/codegeneration/ExponentiationTransf\</tspan>
+<tspan x="10" y="714"> 29.  2017-04-04 10:37:17 +0000     2124 byte  dist/commonjs/codegeneration/ExponentiationTransf\</tspan>
 <tspan x="10" y="730">ormer.js</tspan>
-<tspan x="10" y="746"> 30.  2017-04-04 10:35:55 +0000     1018 byte  dist/commonjs/codegeneration/FindArguments.js</tspan>
-<tspan x="10" y="762"> 31.  2017-04-04 10:35:55 +0000     1474 byte  dist/commonjs/codegeneration/FindIdentifiers.js</tspan>
-<tspan x="10" y="778"> 32.  2017-04-04 10:35:55 +0000     1362 byte  dist/commonjs/codegeneration/FindInFunctionScope.\</tspan>
+<tspan x="10" y="746"> 30.  2017-04-04 10:37:17 +0000     1018 byte  dist/commonjs/codegeneration/FindArguments.js</tspan>
+<tspan x="10" y="762"> 31.  2017-04-04 10:37:17 +0000     1474 byte  dist/commonjs/codegeneration/FindIdentifiers.js</tspan>
+<tspan x="10" y="778"> 32.  2017-04-04 10:37:17 +0000     1362 byte  dist/commonjs/codegeneration/FindInFunctionScope.\</tspan>
 <tspan x="10" y="794">js</tspan>
-<tspan x="10" y="810"> 33.  2017-04-04 10:35:55 +0000     1281 byte  dist/commonjs/codegeneration/FindThisOrArguments.\</tspan>
+<tspan x="10" y="810"> 33.  2017-04-04 10:37:17 +0000     1281 byte  dist/commonjs/codegeneration/FindThisOrArguments.\</tspan>
 <tspan x="10" y="826">js</tspan>
-<tspan x="10" y="842"> 34.  2017-04-04 10:35:55 +0000     1400 byte  dist/commonjs/codegeneration/FindVisitor.js</tspan>
-<tspan x="10" y="858"> 35.  2017-04-04 10:35:55 +0000     9562 byte  dist/commonjs/codegeneration/FnExtractAbruptCompl\</tspan>
+<tspan x="10" y="842"> 34.  2017-04-04 10:37:17 +0000     1400 byte  dist/commonjs/codegeneration/FindVisitor.js</tspan>
+<tspan x="10" y="858"> 35.  2017-04-04 10:37:17 +0000     9562 byte  dist/commonjs/codegeneration/FnExtractAbruptCompl\</tspan>
 <tspan x="10" y="874">etions.js</tspan>
-<tspan x="10" y="890"> 36.  2017-04-04 10:35:55 +0000     4531 byte  dist/commonjs/codegeneration/ForOfTransformer.js</tspan>
-<tspan x="10" y="906"> 37.  2017-04-04 10:35:55 +0000     2106 byte  dist/commonjs/codegeneration/ForOnTransformer.js</tspan>
-<tspan x="10" y="922"> 38.  2017-04-04 10:35:55 +0000     8725 byte  dist/commonjs/codegeneration/FromOptionsTransform\</tspan>
+<tspan x="10" y="890"> 36.  2017-04-04 10:37:17 +0000     4531 byte  dist/commonjs/codegeneration/ForOfTransformer.js</tspan>
+<tspan x="10" y="906"> 37.  2017-04-04 10:37:17 +0000     2106 byte  dist/commonjs/codegeneration/ForOnTransformer.js</tspan>
+<tspan x="10" y="922"> 38.  2017-04-04 10:37:17 +0000     8725 byte  dist/commonjs/codegeneration/FromOptionsTransform\</tspan>
 <tspan x="10" y="938">er.js</tspan>
-<tspan x="10" y="954"> 39.  2017-04-04 10:35:55 +0000     1451 byte  dist/commonjs/codegeneration/GeneratorComprehensi\</tspan>
+<tspan x="10" y="954"> 39.  2017-04-04 10:37:17 +0000     1451 byte  dist/commonjs/codegeneration/GeneratorComprehensi\</tspan>
 <tspan x="10" y="970">onTransformer.js</tspan>
-<tspan x="10" y="986"> 40.  2017-04-04 10:35:55 +0000     6825 byte  dist/commonjs/codegeneration/GeneratorTransformPa\</tspan>
+<tspan x="10" y="986"> 40.  2017-04-04 10:37:17 +0000     6825 byte  dist/commonjs/codegeneration/GeneratorTransformPa\</tspan>
 <tspan x="10" y="1002">ss.js</tspan>
-<tspan x="10" y="1018"> 41.  2017-04-04 10:35:55 +0000     9297 byte  dist/commonjs/codegeneration/HoistVariablesTransf\</tspan>
+<tspan x="10" y="1018"> 41.  2017-04-04 10:37:17 +0000     9297 byte  dist/commonjs/codegeneration/HoistVariablesTransf\</tspan>
 <tspan x="10" y="1034">ormer.js</tspan>
-<tspan x="10" y="1050"> 42.  2017-04-04 10:35:55 +0000     5216 byte  dist/commonjs/codegeneration/ImportRuntimeTrait.j\</tspan>
+<tspan x="10" y="1050"> 42.  2017-04-04 10:37:17 +0000     5216 byte  dist/commonjs/codegeneration/ImportRuntimeTrait.j\</tspan>
 <tspan x="10" y="1066">s</tspan>
-<tspan x="10" y="1082"> 43.  2017-04-04 10:35:55 +0000     4329 byte  dist/commonjs/codegeneration/ImportSimplifyingTra\</tspan>
+<tspan x="10" y="1082"> 43.  2017-04-04 10:37:17 +0000     4329 byte  dist/commonjs/codegeneration/ImportSimplifyingTra\</tspan>
 <tspan x="10" y="1098">nsformer.js</tspan>
-<tspan x="10" y="1114"> 44.  2017-04-04 10:35:55 +0000     5597 byte  dist/commonjs/codegeneration/InlineES6ModuleTrans\</tspan>
+<tspan x="10" y="1114"> 44.  2017-04-04 10:37:17 +0000     5597 byte  dist/commonjs/codegeneration/InlineES6ModuleTrans\</tspan>
 <tspan x="10" y="1130">former.js</tspan>
-<tspan x="10" y="1146"> 45.  2017-04-04 10:35:55 +0000     1912 byte  dist/commonjs/codegeneration/InlineModuleTransfor\</tspan>
+<tspan x="10" y="1146"> 45.  2017-04-04 10:37:17 +0000     1912 byte  dist/commonjs/codegeneration/InlineModuleTransfor\</tspan>
 <tspan x="10" y="1162">mer.js</tspan>
-<tspan x="10" y="1178"> 46.  2017-04-04 10:35:55 +0000     9577 byte  dist/commonjs/codegeneration/InnerForOnTransforme\</tspan>
+<tspan x="10" y="1178"> 46.  2017-04-04 10:37:17 +0000     9577 byte  dist/commonjs/codegeneration/InnerForOnTransforme\</tspan>
 <tspan x="10" y="1194">r.js</tspan>
-<tspan x="10" y="1210"> 47.  2017-04-04 10:35:55 +0000    21324 byte  dist/commonjs/codegeneration/InstantiateModuleTra\</tspan>
+<tspan x="10" y="1210"> 47.  2017-04-04 10:37:17 +0000    21324 byte  dist/commonjs/codegeneration/InstantiateModuleTra\</tspan>
 <tspan x="10" y="1226">nsformer.js</tspan>
-<tspan x="10" y="1242"> 48.  2017-04-04 10:35:55 +0000     6679 byte  dist/commonjs/codegeneration/JsxTransformer.js</tspan>
-<tspan x="10" y="1258"> 49.  2017-04-04 10:35:55 +0000     1816 byte  dist/commonjs/codegeneration/MakeStrictTransforme\</tspan>
+<tspan x="10" y="1242"> 48.  2017-04-04 10:37:17 +0000     6679 byte  dist/commonjs/codegeneration/JsxTransformer.js</tspan>
+<tspan x="10" y="1258"> 49.  2017-04-04 10:37:17 +0000     1816 byte  dist/commonjs/codegeneration/MakeStrictTransforme\</tspan>
 <tspan x="10" y="1274">r.js</tspan>
-<tspan x="10" y="1290"> 50.  2017-04-04 10:35:55 +0000     2686 byte  dist/commonjs/codegeneration/MemberVariableConstr\</tspan>
+<tspan x="10" y="1290"> 50.  2017-04-04 10:37:17 +0000     2686 byte  dist/commonjs/codegeneration/MemberVariableConstr\</tspan>
 <tspan x="10" y="1306">uctorTransformer.js</tspan>
-<tspan x="10" y="1322"> 51.  2017-04-04 10:35:55 +0000     7314 byte  dist/commonjs/codegeneration/MemberVariableTransf\</tspan>
+<tspan x="10" y="1322"> 51.  2017-04-04 10:37:17 +0000     7314 byte  dist/commonjs/codegeneration/MemberVariableTransf\</tspan>
 <tspan x="10" y="1338">ormer.js</tspan>
-<tspan x="10" y="1354"> 52.  2017-04-04 10:35:55 +0000    13239 byte  dist/commonjs/codegeneration/ModuleTransformer.js</tspan>
-<tspan x="10" y="1370"> 53.  2017-04-04 10:35:55 +0000     1224 byte  dist/commonjs/codegeneration/MultiTransformer.js</tspan>
-<tspan x="10" y="1386"> 54.  2017-04-04 10:35:55 +0000     1837 byte  dist/commonjs/codegeneration/NumericLiteralTransf\</tspan>
+<tspan x="10" y="1354"> 52.  2017-04-04 10:37:17 +0000    13239 byte  dist/commonjs/codegeneration/ModuleTransformer.js</tspan>
+<tspan x="10" y="1370"> 53.  2017-04-04 10:37:17 +0000     1224 byte  dist/commonjs/codegeneration/MultiTransformer.js</tspan>
+<tspan x="10" y="1386"> 54.  2017-04-04 10:37:17 +0000     1837 byte  dist/commonjs/codegeneration/NumericLiteralTransf\</tspan>
 <tspan x="10" y="1402">ormer.js</tspan>
-<tspan x="10" y="1418"> 55.  2017-04-04 10:35:55 +0000     9721 byte  dist/commonjs/codegeneration/ObjectLiteralTransfo\</tspan>
+<tspan x="10" y="1418"> 55.  2017-04-04 10:37:17 +0000     9721 byte  dist/commonjs/codegeneration/ObjectLiteralTransfo\</tspan>
 <tspan x="10" y="1434">rmer.js</tspan>
-<tspan x="10" y="1450"> 56.  2017-04-04 10:35:55 +0000     2971 byte  dist/commonjs/codegeneration/ParameterTransformer\</tspan>
+<tspan x="10" y="1450"> 56.  2017-04-04 10:37:17 +0000     2971 byte  dist/commonjs/codegeneration/ParameterTransformer\</tspan>
 <tspan x="10" y="1466">.js</tspan>
-<tspan x="10" y="1482"> 57.  2017-04-04 10:35:55 +0000     6140 byte  dist/commonjs/codegeneration/ParenTrait.js</tspan>
-<tspan x="10" y="1498"> 58.  2017-04-04 10:35:55 +0000    24301 byte  dist/commonjs/codegeneration/ParseTreeFactory.js</tspan>
-<tspan x="10" y="1514"> 59.  2017-04-04 10:35:55 +0000    43154 byte  dist/commonjs/codegeneration/ParseTreeTransformer\</tspan>
+<tspan x="10" y="1482"> 57.  2017-04-04 10:37:17 +0000     6140 byte  dist/commonjs/codegeneration/ParenTrait.js</tspan>
+<tspan x="10" y="1498"> 58.  2017-04-04 10:37:17 +0000    24301 byte  dist/commonjs/codegeneration/ParseTreeFactory.js</tspan>
+<tspan x="10" y="1514"> 59.  2017-04-04 10:37:17 +0000    43154 byte  dist/commonjs/codegeneration/ParseTreeTransformer\</tspan>
 <tspan x="10" y="1530">.js</tspan>
-<tspan x="10" y="1546"> 60.  2017-04-04 10:35:55 +0000    11164 byte  dist/commonjs/codegeneration/PlaceholderParser.js</tspan>
-<tspan x="10" y="1562"> 61.  2017-04-04 10:35:55 +0000     1135 byte  dist/commonjs/codegeneration/PrependStatements.js</tspan>
-<tspan x="10" y="1578"> 62.  2017-04-04 10:35:55 +0000     4483 byte  dist/commonjs/codegeneration/ProperTailCallTransf\</tspan>
+<tspan x="10" y="1546"> 60.  2017-04-04 10:37:17 +0000    11164 byte  dist/commonjs/codegeneration/PlaceholderParser.js</tspan>
+<tspan x="10" y="1562"> 61.  2017-04-04 10:37:17 +0000     1135 byte  dist/commonjs/codegeneration/PrependStatements.js</tspan>
+<tspan x="10" y="1578"> 62.  2017-04-04 10:37:17 +0000     4483 byte  dist/commonjs/codegeneration/ProperTailCallTransf\</tspan>
 <tspan x="10" y="1594">ormer.js</tspan>
-<tspan x="10" y="1610"> 63.  2017-04-04 10:35:55 +0000     1368 byte  dist/commonjs/codegeneration/PropertyNameShorthan\</tspan>
+<tspan x="10" y="1610"> 63.  2017-04-04 10:37:17 +0000     1368 byte  dist/commonjs/codegeneration/PropertyNameShorthan\</tspan>
 <tspan x="10" y="1626">dTransformer.js</tspan>
-<tspan x="10" y="1642"> 64.  2017-04-04 10:35:55 +0000     2565 byte  dist/commonjs/codegeneration/PureES6Transformer.j\</tspan>
+<tspan x="10" y="1642"> 64.  2017-04-04 10:37:17 +0000     2565 byte  dist/commonjs/codegeneration/PureES6Transformer.j\</tspan>
 <tspan x="10" y="1658">s</tspan>
-<tspan x="10" y="1674"> 65.  2017-04-04 10:35:55 +0000     1860 byte  dist/commonjs/codegeneration/RegularExpressionTra\</tspan>
+<tspan x="10" y="1674"> 65.  2017-04-04 10:37:17 +0000     1860 byte  dist/commonjs/codegeneration/RegularExpressionTra\</tspan>
 <tspan x="10" y="1690">nsformer.js</tspan>
-<tspan x="10" y="1706"> 66.  2017-04-04 10:35:55 +0000     2923 byte  dist/commonjs/codegeneration/RestParameterTransfo\</tspan>
+<tspan x="10" y="1706"> 66.  2017-04-04 10:37:17 +0000     2923 byte  dist/commonjs/codegeneration/RestParameterTransfo\</tspan>
 <tspan x="10" y="1722">rmer.js</tspan>
-<tspan x="10" y="1738"> 67.  2017-04-04 10:35:55 +0000     2979 byte  dist/commonjs/codegeneration/RewriteTailCallsTran\</tspan>
+<tspan x="10" y="1738"> 67.  2017-04-04 10:37:17 +0000     2979 byte  dist/commonjs/codegeneration/RewriteTailCallsTran\</tspan>
 <tspan x="10" y="1754">sformer.js</tspan>
-<tspan x="10" y="1770"> 68.  2017-04-04 10:35:55 +0000     6419 byte  dist/commonjs/codegeneration/RewriteTailExpressio\</tspan>
+<tspan x="10" y="1770"> 68.  2017-04-04 10:37:17 +0000     6419 byte  dist/commonjs/codegeneration/RewriteTailExpressio\</tspan>
 <tspan x="10" y="1786">nsTransformer.js</tspan>
-<tspan x="10" y="1802"> 69.  2017-04-04 10:35:55 +0000     7788 byte  dist/commonjs/codegeneration/ScopeTransformer.js</tspan>
-<tspan x="10" y="1818"> 70.  2017-04-04 10:35:55 +0000     3104 byte  dist/commonjs/codegeneration/SkipFunctionsTransfo\</tspan>
+<tspan x="10" y="1802"> 69.  2017-04-04 10:37:17 +0000     7788 byte  dist/commonjs/codegeneration/ScopeTransformer.js</tspan>
+<tspan x="10" y="1818"> 70.  2017-04-04 10:37:17 +0000     3104 byte  dist/commonjs/codegeneration/SkipFunctionsTransfo\</tspan>
 <tspan x="10" y="1834">rmerTrait.js</tspan>
-<tspan x="10" y="1850"> 71.  2017-04-04 10:35:55 +0000     2976 byte  dist/commonjs/codegeneration/SpreadPropertiesTran\</tspan>
+<tspan x="10" y="1850"> 71.  2017-04-04 10:37:17 +0000     2976 byte  dist/commonjs/codegeneration/SpreadPropertiesTran\</tspan>
 <tspan x="10" y="1866">sformer.js</tspan>
-<tspan x="10" y="1882"> 72.  2017-04-04 10:35:55 +0000     6161 byte  dist/commonjs/codegeneration/SpreadTransformer.js</tspan>
-<tspan x="10" y="1898"> 73.  2017-04-04 10:35:55 +0000    12545 byte  dist/commonjs/codegeneration/SuperTransformer.js</tspan>
-<tspan x="10" y="1914"> 74.  2017-04-04 10:35:55 +0000     4157 byte  dist/commonjs/codegeneration/SymbolTransformer.js</tspan>
-<tspan x="10" y="1930"> 75.  2017-04-04 10:35:55 +0000     6740 byte  dist/commonjs/codegeneration/TempVarTransformer.j\</tspan>
+<tspan x="10" y="1882"> 72.  2017-04-04 10:37:17 +0000     6161 byte  dist/commonjs/codegeneration/SpreadTransformer.js</tspan>
+<tspan x="10" y="1898"> 73.  2017-04-04 10:37:17 +0000    12545 byte  dist/commonjs/codegeneration/SuperTransformer.js</tspan>
+<tspan x="10" y="1914"> 74.  2017-04-04 10:37:17 +0000     4157 byte  dist/commonjs/codegeneration/SymbolTransformer.js</tspan>
+<tspan x="10" y="1930"> 75.  2017-04-04 10:37:17 +0000     6740 byte  dist/commonjs/codegeneration/TempVarTransformer.j\</tspan>
 <tspan x="10" y="1946">s</tspan>
-<tspan x="10" y="1962"> 76.  2017-04-04 10:35:55 +0000     7401 byte  dist/commonjs/codegeneration/TemplateLiteralTrans\</tspan>
+<tspan x="10" y="1962"> 76.  2017-04-04 10:37:17 +0000     7401 byte  dist/commonjs/codegeneration/TemplateLiteralTrans\</tspan>
 <tspan x="10" y="1978">former.js</tspan>
-<tspan x="10" y="1994"> 77.  2017-04-04 10:35:55 +0000     2258 byte  dist/commonjs/codegeneration/TypeToExpressionTran\</tspan>
+<tspan x="10" y="1994"> 77.  2017-04-04 10:37:17 +0000     2258 byte  dist/commonjs/codegeneration/TypeToExpressionTran\</tspan>
 <tspan x="10" y="2010">sformer.js</tspan>
-<tspan x="10" y="2026"> 78.  2017-04-04 10:35:55 +0000     4020 byte  dist/commonjs/codegeneration/TypeTransformer.js</tspan>
-<tspan x="10" y="2042"> 79.  2017-04-04 10:35:55 +0000     2306 byte  dist/commonjs/codegeneration/UnicodeEscapeSequenc\</tspan>
+<tspan x="10" y="2026"> 78.  2017-04-04 10:37:17 +0000     4020 byte  dist/commonjs/codegeneration/TypeTransformer.js</tspan>
+<tspan x="10" y="2042"> 79.  2017-04-04 10:37:17 +0000     2306 byte  dist/commonjs/codegeneration/UnicodeEscapeSequenc\</tspan>
 <tspan x="10" y="2058">eTransformer.js</tspan>
-<tspan x="10" y="2074"> 80.  2017-04-04 10:35:55 +0000      704 byte  dist/commonjs/codegeneration/UniqueIdentifierGene\</tspan>
+<tspan x="10" y="2074"> 80.  2017-04-04 10:37:17 +0000      704 byte  dist/commonjs/codegeneration/UniqueIdentifierGene\</tspan>
 <tspan x="10" y="2090">rator.js</tspan>
-<tspan x="10" y="2106"> 81.  2017-04-04 10:35:55 +0000      924 byte  dist/commonjs/codegeneration/alphaRenameThisAndAr\</tspan>
+<tspan x="10" y="2106"> 81.  2017-04-04 10:37:17 +0000      924 byte  dist/commonjs/codegeneration/alphaRenameThisAndAr\</tspan>
 <tspan x="10" y="2122">guments.js</tspan>
-<tspan x="10" y="2138"> 82.  2017-04-04 10:35:55 +0000     1819 byte  dist/commonjs/codegeneration/assignmentOperatorTo\</tspan>
+<tspan x="10" y="2138"> 82.  2017-04-04 10:37:17 +0000     1819 byte  dist/commonjs/codegeneration/assignmentOperatorTo\</tspan>
 <tspan x="10" y="2154">BinaryOperator.js</tspan>
-<tspan x="10" y="2170"> 83.  2017-04-04 10:35:55 +0000     6611 byte  dist/commonjs/codegeneration/generator/AsyncTrans\</tspan>
+<tspan x="10" y="2170"> 83.  2017-04-04 10:37:17 +0000     6611 byte  dist/commonjs/codegeneration/generator/AsyncTrans\</tspan>
 <tspan x="10" y="2186">former.js</tspan>
-<tspan x="10" y="2202"> 84.  2017-04-04 10:35:55 +0000     2045 byte  dist/commonjs/codegeneration/generator/AwaitState\</tspan>
+<tspan x="10" y="2202"> 84.  2017-04-04 10:37:17 +0000     2045 byte  dist/commonjs/codegeneration/generator/AwaitState\</tspan>
 <tspan x="10" y="2218">.js</tspan>
-<tspan x="10" y="2234"> 85.  2017-04-04 10:35:55 +0000     2874 byte  dist/commonjs/codegeneration/generator/BreakConti\</tspan>
+<tspan x="10" y="2234"> 85.  2017-04-04 10:37:17 +0000     2874 byte  dist/commonjs/codegeneration/generator/BreakConti\</tspan>
 <tspan x="10" y="2250">nueTransformer.js</tspan>
-<tspan x="10" y="2266"> 86.  2017-04-04 10:35:55 +0000     1676 byte  dist/commonjs/codegeneration/generator/BreakState\</tspan>
+<tspan x="10" y="2266"> 86.  2017-04-04 10:37:17 +0000     1676 byte  dist/commonjs/codegeneration/generator/BreakState\</tspan>
 <tspan x="10" y="2282">.js</tspan>
-<tspan x="10" y="2298"> 87.  2017-04-04 10:35:55 +0000    36871 byte  dist/commonjs/codegeneration/generator/CPSTransfo\</tspan>
+<tspan x="10" y="2298"> 87.  2017-04-04 10:37:17 +0000    36871 byte  dist/commonjs/codegeneration/generator/CPSTransfo\</tspan>
 <tspan x="10" y="2314">rmer.js</tspan>
-<tspan x="10" y="2330"> 88.  2017-04-04 10:35:55 +0000     1315 byte  dist/commonjs/codegeneration/generator/CatchState\</tspan>
+<tspan x="10" y="2330"> 88.  2017-04-04 10:37:17 +0000     1315 byte  dist/commonjs/codegeneration/generator/CatchState\</tspan>
 <tspan x="10" y="2346">.js</tspan>
-<tspan x="10" y="2362"> 89.  2017-04-04 10:35:55 +0000     2038 byte  dist/commonjs/codegeneration/generator/Conditiona\</tspan>
+<tspan x="10" y="2362"> 89.  2017-04-04 10:37:17 +0000     2038 byte  dist/commonjs/codegeneration/generator/Conditiona\</tspan>
 <tspan x="10" y="2378">lState.js</tspan>
-<tspan x="10" y="2394"> 90.  2017-04-04 10:35:55 +0000     1556 byte  dist/commonjs/codegeneration/generator/ContinueSt\</tspan>
+<tspan x="10" y="2394"> 90.  2017-04-04 10:37:17 +0000     1556 byte  dist/commonjs/codegeneration/generator/ContinueSt\</tspan>
 <tspan x="10" y="2410">ate.js</tspan>
-<tspan x="10" y="2426"> 91.  2017-04-04 10:35:55 +0000     1016 byte  dist/commonjs/codegeneration/generator/EndState.j\</tspan>
+<tspan x="10" y="2426"> 91.  2017-04-04 10:37:17 +0000     1016 byte  dist/commonjs/codegeneration/generator/EndState.j\</tspan>
 <tspan x="10" y="2442">s</tspan>
-<tspan x="10" y="2458"> 92.  2017-04-04 10:35:55 +0000     1386 byte  dist/commonjs/codegeneration/generator/FallThroug\</tspan>
+<tspan x="10" y="2458"> 92.  2017-04-04 10:37:17 +0000     1386 byte  dist/commonjs/codegeneration/generator/FallThroug\</tspan>
 <tspan x="10" y="2474">hState.js</tspan>
-<tspan x="10" y="2490"> 93.  2017-04-04 10:35:55 +0000     1243 byte  dist/commonjs/codegeneration/generator/FinallyFal\</tspan>
+<tspan x="10" y="2490"> 93.  2017-04-04 10:37:17 +0000     1243 byte  dist/commonjs/codegeneration/generator/FinallyFal\</tspan>
 <tspan x="10" y="2506">lThroughState.js</tspan>
-<tspan x="10" y="2522"> 94.  2017-04-04 10:35:55 +0000     1276 byte  dist/commonjs/codegeneration/generator/FinallySta\</tspan>
+<tspan x="10" y="2522"> 94.  2017-04-04 10:37:17 +0000     1276 byte  dist/commonjs/codegeneration/generator/FinallySta\</tspan>
 <tspan x="10" y="2538">te.js</tspan>
-<tspan x="10" y="2554"> 95.  2017-04-04 10:35:55 +0000     5062 byte  dist/commonjs/codegeneration/generator/ForInTrans\</tspan>
+<tspan x="10" y="2554"> 95.  2017-04-04 10:37:17 +0000     5062 byte  dist/commonjs/codegeneration/generator/ForInTrans\</tspan>
 <tspan x="10" y="2570">formPass.js</tspan>
-<tspan x="10" y="2586"> 96.  2017-04-04 10:35:55 +0000     8057 byte  dist/commonjs/codegeneration/generator/GeneratorT\</tspan>
+<tspan x="10" y="2586"> 96.  2017-04-04 10:37:17 +0000     8057 byte  dist/commonjs/codegeneration/generator/GeneratorT\</tspan>
 <tspan x="10" y="2602">ransformer.js</tspan>
-<tspan x="10" y="2618"> 97.  2017-04-04 10:35:55 +0000     1670 byte  dist/commonjs/codegeneration/generator/ReturnStat\</tspan>
+<tspan x="10" y="2618"> 97.  2017-04-04 10:37:17 +0000     1670 byte  dist/commonjs/codegeneration/generator/ReturnStat\</tspan>
 <tspan x="10" y="2634">e.js</tspan>
-<tspan x="10" y="2650"> 98.  2017-04-04 10:35:55 +0000     3131 byte  dist/commonjs/codegeneration/generator/State.js</tspan>
-<tspan x="10" y="2666"> 99.  2017-04-04 10:35:55 +0000      679 byte  dist/commonjs/codegeneration/generator/StateAlloc\</tspan>
+<tspan x="10" y="2650"> 98.  2017-04-04 10:37:17 +0000     3131 byte  dist/commonjs/codegeneration/generator/State.js</tspan>
+<tspan x="10" y="2666"> 99.  2017-04-04 10:37:17 +0000      679 byte  dist/commonjs/codegeneration/generator/StateAlloc\</tspan>
 <tspan x="10" y="2682">ator.js</tspan>
-<tspan x="10" y="2698">100.  2017-04-04 10:35:55 +0000     2275 byte  dist/commonjs/codegeneration/generator/SwitchStat\</tspan>
+<tspan x="10" y="2698">100.  2017-04-04 10:37:17 +0000     2275 byte  dist/commonjs/codegeneration/generator/SwitchStat\</tspan>
 <tspan x="10" y="2714">e.js</tspan>
-<tspan x="10" y="2730">101.  2017-04-04 10:35:55 +0000     1110 byte  dist/commonjs/codegeneration/generator/TryState.j\</tspan>
+<tspan x="10" y="2730">101.  2017-04-04 10:37:17 +0000     1110 byte  dist/commonjs/codegeneration/generator/TryState.j\</tspan>
 <tspan x="10" y="2746">s</tspan>
-<tspan x="10" y="2762">102.  2017-04-04 10:35:55 +0000     1467 byte  dist/commonjs/codegeneration/generator/YieldState\</tspan>
+<tspan x="10" y="2762">102.  2017-04-04 10:37:17 +0000     1467 byte  dist/commonjs/codegeneration/generator/YieldState\</tspan>
 <tspan x="10" y="2778">.js</tspan>
-<tspan x="10" y="2794">103.  2017-04-04 10:35:55 +0000      641 byte  dist/commonjs/codegeneration/globalThis.js</tspan>
-<tspan x="10" y="2810">104.  2017-04-04 10:35:55 +0000     1300 byte  dist/commonjs/codegeneration/module/AttachModuleN\</tspan>
+<tspan x="10" y="2794">103.  2017-04-04 10:37:17 +0000      641 byte  dist/commonjs/codegeneration/globalThis.js</tspan>
+<tspan x="10" y="2810">104.  2017-04-04 10:37:17 +0000     1300 byte  dist/commonjs/codegeneration/module/AttachModuleN\</tspan>
 <tspan x="10" y="2826">ameTransformer.js</tspan>
-<tspan x="10" y="2842">105.  2017-04-04 10:35:55 +0000     1546 byte  dist/commonjs/codegeneration/module/DirectExportV\</tspan>
+<tspan x="10" y="2842">105.  2017-04-04 10:37:17 +0000     1546 byte  dist/commonjs/codegeneration/module/DirectExportV\</tspan>
 <tspan x="10" y="2858">isitor.js</tspan>
-<tspan x="10" y="2874">106.  2017-04-04 10:35:55 +0000      812 byte  dist/commonjs/codegeneration/module/ExportListBui\</tspan>
+<tspan x="10" y="2874">106.  2017-04-04 10:37:17 +0000      812 byte  dist/commonjs/codegeneration/module/ExportListBui\</tspan>
 <tspan x="10" y="2890">lder.js</tspan>
-<tspan x="10" y="2906">107.  2017-04-04 10:35:55 +0000     3146 byte  dist/commonjs/codegeneration/module/ExportVisitor\</tspan>
+<tspan x="10" y="2906">107.  2017-04-04 10:37:17 +0000     3146 byte  dist/commonjs/codegeneration/module/ExportVisitor\</tspan>
 <tspan x="10" y="2922">.js</tspan>
-<tspan x="10" y="2938">108.  2017-04-04 10:35:55 +0000     1207 byte  dist/commonjs/codegeneration/module/ModuleSpecifi\</tspan>
+<tspan x="10" y="2938">108.  2017-04-04 10:37:17 +0000     1207 byte  dist/commonjs/codegeneration/module/ModuleSpecifi\</tspan>
 <tspan x="10" y="2954">erVisitor.js</tspan>
-<tspan x="10" y="2970">109.  2017-04-04 10:35:55 +0000     1992 byte  dist/commonjs/codegeneration/module/ModuleSymbol.\</tspan>
+<tspan x="10" y="2970">109.  2017-04-04 10:37:17 +0000     1992 byte  dist/commonjs/codegeneration/module/ModuleSymbol.\</tspan>
 <tspan x="10" y="2986">js</tspan>
-<tspan x="10" y="3002">110.  2017-04-04 10:35:55 +0000     2124 byte  dist/commonjs/codegeneration/module/ModuleVisitor\</tspan>
+<tspan x="10" y="3002">110.  2017-04-04 10:37:17 +0000     2124 byte  dist/commonjs/codegeneration/module/ModuleVisitor\</tspan>
 <tspan x="10" y="3018">.js</tspan>
-<tspan x="10" y="3034">111.  2017-04-04 10:35:55 +0000     3106 byte  dist/commonjs/codegeneration/module/ValidationVis\</tspan>
+<tspan x="10" y="3034">111.  2017-04-04 10:37:17 +0000     3106 byte  dist/commonjs/codegeneration/module/ValidationVis\</tspan>
 <tspan x="10" y="3050">itor.js</tspan>
-<tspan x="10" y="3066">112.  2017-04-04 10:35:55 +0000      687 byte  dist/commonjs/codegeneration/module/createModuleE\</tspan>
+<tspan x="10" y="3066">112.  2017-04-04 10:37:17 +0000      687 byte  dist/commonjs/codegeneration/module/createModuleE\</tspan>
 <tspan x="10" y="3082">valuationStatement.js</tspan>
-<tspan x="10" y="3098">113.  2017-04-04 10:35:55 +0000     1014 byte  dist/commonjs/codegeneration/scopeContainsThis.js</tspan>
-<tspan x="10" y="3114">114.  2017-04-04 10:35:55 +0000     2870 byte  dist/commonjs/compiler-imports.js</tspan>
-<tspan x="10" y="3130">115.  2017-04-04 10:35:55 +0000     1333 byte  dist/commonjs/loader/InlineLoaderCompiler.js</tspan>
-<tspan x="10" y="3146">116.  2017-04-04 10:35:55 +0000    16709 byte  dist/commonjs/loader/InternalLoader.js</tspan>
-<tspan x="10" y="3162">117.  2017-04-04 10:35:55 +0000     2500 byte  dist/commonjs/loader/Loader.js</tspan>
-<tspan x="10" y="3178">118.  2017-04-04 10:35:55 +0000     4025 byte  dist/commonjs/loader/LoaderCompiler.js</tspan>
-<tspan x="10" y="3194">119.  2017-04-04 10:35:55 +0000      233 byte  dist/commonjs/loader/ModuleStore.js</tspan>
-<tspan x="10" y="3210">120.  2017-04-04 10:35:55 +0000     8033 byte  dist/commonjs/loader/ModuleStoreImpl.js</tspan>
-<tspan x="10" y="3226">121.  2017-04-04 10:35:55 +0000     1640 byte  dist/commonjs/loader/NodeTraceurLoader.js</tspan>
-<tspan x="10" y="3242">122.  2017-04-04 10:35:55 +0000     9470 byte  dist/commonjs/loader/TraceurLoader.js</tspan>
-<tspan x="10" y="3258">123.  2017-04-04 10:35:55 +0000      956 byte  dist/commonjs/loader/loader-imports.js</tspan>
-<tspan x="10" y="3274">124.  2017-04-04 10:35:55 +0000     1939 byte  dist/commonjs/loader/system-map.js</tspan>
-<tspan x="10" y="3290">125.  2017-04-04 10:35:55 +0000      203 byte  dist/commonjs/loader/version.js</tspan>
-<tspan x="10" y="3306">126.  2017-04-04 10:35:55 +0000      791 byte  dist/commonjs/loader/webLoader.js</tspan>
-<tspan x="10" y="3322">127.  2017-04-04 10:35:55 +0000     1690 byte  dist/commonjs/node/NodeCompiler.js</tspan>
-<tspan x="10" y="3338">128.  2017-04-04 10:35:55 +0000     2066 byte  dist/commonjs/node/NodeLoaderCompiler.js</tspan>
-<tspan x="10" y="3354">129.  2017-04-04 10:35:55 +0000      263 byte  dist/commonjs/node/System.js</tspan>
-<tspan x="10" y="3370">130.  2017-04-04 10:35:55 +0000     1211 byte  dist/commonjs/node/api.js</tspan>
-<tspan x="10" y="3386">131.  2017-04-04 10:35:55 +0000     5144 byte  dist/commonjs/node/command.js</tspan>
-<tspan x="10" y="3402">132.  2017-04-04 10:35:55 +0000      857 byte  dist/commonjs/node/compileAllJsFilesInDir.js</tspan>
-<tspan x="10" y="3418">133.  2017-04-04 10:35:55 +0000     1394 byte  dist/commonjs/node/deferred.js</tspan>
-<tspan x="10" y="3434">134.  2017-04-04 10:35:55 +0000     1349 byte  dist/commonjs/node/file-util.js</tspan>
-<tspan x="10" y="3450">135.  2017-04-04 10:35:55 +0000     2226 byte  dist/commonjs/node/get-dependencies.js</tspan>
-<tspan x="10" y="3466">136.  2017-04-04 10:35:55 +0000      460 byte  dist/commonjs/node/interpreter.js</tspan>
-<tspan x="10" y="3482">137.  2017-04-04 10:35:55 +0000      526 byte  dist/commonjs/node/nodeLoader.js</tspan>
-<tspan x="10" y="3498">138.  2017-04-04 10:35:55 +0000     3635 byte  dist/commonjs/node/recursiveModuleCompile.js</tspan>
-<tspan x="10" y="3514">139.  2017-04-04 10:35:55 +0000     1489 byte  dist/commonjs/node/require.js</tspan>
-<tspan x="10" y="3530">140.  2017-04-04 10:35:55 +0000      372 byte  dist/commonjs/node/to-amd-compiler.js</tspan>
-<tspan x="10" y="3546">141.  2017-04-04 10:35:55 +0000      380 byte  dist/commonjs/node/to-closure-compiler.js</tspan>
-<tspan x="10" y="3562">142.  2017-04-04 10:35:55 +0000      382 byte  dist/commonjs/node/to-commonjs-compiler.js</tspan>
-<tspan x="10" y="3578">143.  2017-04-04 10:35:55 +0000      468 byte  dist/commonjs/node/traceur.js</tspan>
-<tspan x="10" y="3594">144.  2017-04-04 10:35:55 +0000     5635 byte  dist/commonjs/outputgeneration/ParseTreeMapWriter\</tspan>
+<tspan x="10" y="3098">113.  2017-04-04 10:37:17 +0000     1014 byte  dist/commonjs/codegeneration/scopeContainsThis.js</tspan>
+<tspan x="10" y="3114">114.  2017-04-04 10:37:17 +0000     2870 byte  dist/commonjs/compiler-imports.js</tspan>
+<tspan x="10" y="3130">115.  2017-04-04 10:37:17 +0000     1333 byte  dist/commonjs/loader/InlineLoaderCompiler.js</tspan>
+<tspan x="10" y="3146">116.  2017-04-04 10:37:17 +0000    16709 byte  dist/commonjs/loader/InternalLoader.js</tspan>
+<tspan x="10" y="3162">117.  2017-04-04 10:37:17 +0000     2500 byte  dist/commonjs/loader/Loader.js</tspan>
+<tspan x="10" y="3178">118.  2017-04-04 10:37:17 +0000     4025 byte  dist/commonjs/loader/LoaderCompiler.js</tspan>
+<tspan x="10" y="3194">119.  2017-04-04 10:37:17 +0000      233 byte  dist/commonjs/loader/ModuleStore.js</tspan>
+<tspan x="10" y="3210">120.  2017-04-04 10:37:17 +0000     8033 byte  dist/commonjs/loader/ModuleStoreImpl.js</tspan>
+<tspan x="10" y="3226">121.  2017-04-04 10:37:17 +0000     1640 byte  dist/commonjs/loader/NodeTraceurLoader.js</tspan>
+<tspan x="10" y="3242">122.  2017-04-04 10:37:17 +0000     9470 byte  dist/commonjs/loader/TraceurLoader.js</tspan>
+<tspan x="10" y="3258">123.  2017-04-04 10:37:17 +0000      956 byte  dist/commonjs/loader/loader-imports.js</tspan>
+<tspan x="10" y="3274">124.  2017-04-04 10:37:17 +0000     1939 byte  dist/commonjs/loader/system-map.js</tspan>
+<tspan x="10" y="3290">125.  2017-04-04 10:37:17 +0000      203 byte  dist/commonjs/loader/version.js</tspan>
+<tspan x="10" y="3306">126.  2017-04-04 10:37:17 +0000      791 byte  dist/commonjs/loader/webLoader.js</tspan>
+<tspan x="10" y="3322">127.  2017-04-04 10:37:17 +0000     1690 byte  dist/commonjs/node/NodeCompiler.js</tspan>
+<tspan x="10" y="3338">128.  2017-04-04 10:37:17 +0000     2066 byte  dist/commonjs/node/NodeLoaderCompiler.js</tspan>
+<tspan x="10" y="3354">129.  2017-04-04 10:37:17 +0000      263 byte  dist/commonjs/node/System.js</tspan>
+<tspan x="10" y="3370">130.  2017-04-04 10:37:17 +0000     1211 byte  dist/commonjs/node/api.js</tspan>
+<tspan x="10" y="3386">131.  2017-04-04 10:37:17 +0000     5144 byte  dist/commonjs/node/command.js</tspan>
+<tspan x="10" y="3402">132.  2017-04-04 10:37:17 +0000      857 byte  dist/commonjs/node/compileAllJsFilesInDir.js</tspan>
+<tspan x="10" y="3418">133.  2017-04-04 10:37:17 +0000     1394 byte  dist/commonjs/node/deferred.js</tspan>
+<tspan x="10" y="3434">134.  2017-04-04 10:37:17 +0000     1349 byte  dist/commonjs/node/file-util.js</tspan>
+<tspan x="10" y="3450">135.  2017-04-04 10:37:17 +0000     2226 byte  dist/commonjs/node/get-dependencies.js</tspan>
+<tspan x="10" y="3466">136.  2017-04-04 10:37:17 +0000      460 byte  dist/commonjs/node/interpreter.js</tspan>
+<tspan x="10" y="3482">137.  2017-04-04 10:37:17 +0000      526 byte  dist/commonjs/node/nodeLoader.js</tspan>
+<tspan x="10" y="3498">138.  2017-04-04 10:37:17 +0000     3635 byte  dist/commonjs/node/recursiveModuleCompile.js</tspan>
+<tspan x="10" y="3514">139.  2017-04-04 10:37:17 +0000     1489 byte  dist/commonjs/node/require.js</tspan>
+<tspan x="10" y="3530">140.  2017-04-04 10:37:17 +0000      372 byte  dist/commonjs/node/to-amd-compiler.js</tspan>
+<tspan x="10" y="3546">141.  2017-04-04 10:37:17 +0000      380 byte  dist/commonjs/node/to-closure-compiler.js</tspan>
+<tspan x="10" y="3562">142.  2017-04-04 10:37:17 +0000      382 byte  dist/commonjs/node/to-commonjs-compiler.js</tspan>
+<tspan x="10" y="3578">143.  2017-04-04 10:37:17 +0000      468 byte  dist/commonjs/node/traceur.js</tspan>
+<tspan x="10" y="3594">144.  2017-04-04 10:37:17 +0000     5635 byte  dist/commonjs/outputgeneration/ParseTreeMapWriter\</tspan>
 <tspan x="10" y="3610">.js</tspan>
-<tspan x="10" y="3626">145.  2017-04-04 10:35:55 +0000    36453 byte  dist/commonjs/outputgeneration/ParseTreeWriter.js</tspan>
-<tspan x="10" y="3642">146.  2017-04-04 10:35:55 +0000    42873 byte  dist/commonjs/outputgeneration/SourceMapIntegrati\</tspan>
+<tspan x="10" y="3626">145.  2017-04-04 10:37:17 +0000    36453 byte  dist/commonjs/outputgeneration/ParseTreeWriter.js</tspan>
+<tspan x="10" y="3642">146.  2017-04-04 10:37:17 +0000    42873 byte  dist/commonjs/outputgeneration/SourceMapIntegrati\</tspan>
 <tspan x="10" y="3658">on.js</tspan>
-<tspan x="10" y="3674">147.  2017-04-04 10:35:55 +0000     1169 byte  dist/commonjs/outputgeneration/TreeWriter.js</tspan>
-<tspan x="10" y="3690">148.  2017-04-04 10:35:55 +0000    64540 byte  dist/commonjs/outputgeneration/regexpuRewritePatt\</tspan>
+<tspan x="10" y="3674">147.  2017-04-04 10:37:17 +0000     1169 byte  dist/commonjs/outputgeneration/TreeWriter.js</tspan>
+<tspan x="10" y="3690">148.  2017-04-04 10:37:17 +0000    64540 byte  dist/commonjs/outputgeneration/regexpuRewritePatt\</tspan>
 <tspan x="10" y="3706">ern.js</tspan>
-<tspan x="10" y="3722">149.  2017-04-04 10:35:55 +0000     1327 byte  dist/commonjs/outputgeneration/toSource.js</tspan>
-<tspan x="10" y="3738">150.  2017-04-04 10:35:55 +0000      882 byte  dist/commonjs/runtime/async.js</tspan>
-<tspan x="10" y="3754">151.  2017-04-04 10:35:55 +0000      379 byte  dist/commonjs/runtime/checkObjectCoercible.js</tspan>
-<tspan x="10" y="3770">152.  2017-04-04 10:35:55 +0000      582 byte  dist/commonjs/runtime/classes.js</tspan>
-<tspan x="10" y="3786">153.  2017-04-04 10:35:55 +0000      254 byte  dist/commonjs/runtime/destructuring.js</tspan>
-<tspan x="10" y="3802">154.  2017-04-04 10:35:55 +0000      234 byte  dist/commonjs/runtime/exportStar.js</tspan>
-<tspan x="10" y="3818">155.  2017-04-04 10:35:55 +0000     1070 byte  dist/commonjs/runtime/frozen-data.js</tspan>
-<tspan x="10" y="3834">156.  2017-04-04 10:35:55 +0000      550 byte  dist/commonjs/runtime/generators.js</tspan>
-<tspan x="10" y="3850">157.  2017-04-04 10:35:55 +0000       82 byte  dist/commonjs/runtime/global-imports.js</tspan>
-<tspan x="10" y="3866">158.  2017-04-04 10:35:55 +0000      301 byte  dist/commonjs/runtime/has-native-symbols.js</tspan>
-<tspan x="10" y="3882">159.  2017-04-04 10:35:55 +0000      258 byte  dist/commonjs/runtime/jsx.js</tspan>
-<tspan x="10" y="3898">160.  2017-04-04 10:35:55 +0000     6094 byte  dist/commonjs/runtime/modules/async.js</tspan>
-<tspan x="10" y="3914">161.  2017-04-04 10:35:55 +0000      258 byte  dist/commonjs/runtime/modules/asyncWrap.js</tspan>
-<tspan x="10" y="3930">162.  2017-04-04 10:35:55 +0000      272 byte  dist/commonjs/runtime/modules/call.js</tspan>
-<tspan x="10" y="3946">163.  2017-04-04 10:35:55 +0000      273 byte  dist/commonjs/runtime/modules/construct.js</tspan>
-<tspan x="10" y="3962">164.  2017-04-04 10:35:55 +0000      282 byte  dist/commonjs/runtime/modules/continuation.js</tspan>
-<tspan x="10" y="3978">165.  2017-04-04 10:35:55 +0000      262 byte  dist/commonjs/runtime/modules/createAsyncGenerato\</tspan>
+<tspan x="10" y="3722">149.  2017-04-04 10:37:17 +0000     1327 byte  dist/commonjs/outputgeneration/toSource.js</tspan>
+<tspan x="10" y="3738">150.  2017-04-04 10:37:17 +0000      882 byte  dist/commonjs/runtime/async.js</tspan>
+<tspan x="10" y="3754">151.  2017-04-04 10:37:17 +0000      379 byte  dist/commonjs/runtime/checkObjectCoercible.js</tspan>
+<tspan x="10" y="3770">152.  2017-04-04 10:37:17 +0000      582 byte  dist/commonjs/runtime/classes.js</tspan>
+<tspan x="10" y="3786">153.  2017-04-04 10:37:17 +0000      254 byte  dist/commonjs/runtime/destructuring.js</tspan>
+<tspan x="10" y="3802">154.  2017-04-04 10:37:17 +0000      234 byte  dist/commonjs/runtime/exportStar.js</tspan>
+<tspan x="10" y="3818">155.  2017-04-04 10:37:17 +0000     1070 byte  dist/commonjs/runtime/frozen-data.js</tspan>
+<tspan x="10" y="3834">156.  2017-04-04 10:37:17 +0000      550 byte  dist/commonjs/runtime/generators.js</tspan>
+<tspan x="10" y="3850">157.  2017-04-04 10:37:17 +0000       82 byte  dist/commonjs/runtime/global-imports.js</tspan>
+<tspan x="10" y="3866">158.  2017-04-04 10:37:17 +0000      301 byte  dist/commonjs/runtime/has-native-symbols.js</tspan>
+<tspan x="10" y="3882">159.  2017-04-04 10:37:17 +0000      258 byte  dist/commonjs/runtime/jsx.js</tspan>
+<tspan x="10" y="3898">160.  2017-04-04 10:37:17 +0000     6094 byte  dist/commonjs/runtime/modules/async.js</tspan>
+<tspan x="10" y="3914">161.  2017-04-04 10:37:17 +0000      258 byte  dist/commonjs/runtime/modules/asyncWrap.js</tspan>
+<tspan x="10" y="3930">162.  2017-04-04 10:37:17 +0000      272 byte  dist/commonjs/runtime/modules/call.js</tspan>
+<tspan x="10" y="3946">163.  2017-04-04 10:37:17 +0000      273 byte  dist/commonjs/runtime/modules/construct.js</tspan>
+<tspan x="10" y="3962">164.  2017-04-04 10:37:17 +0000      282 byte  dist/commonjs/runtime/modules/continuation.js</tspan>
+<tspan x="10" y="3978">165.  2017-04-04 10:37:17 +0000      262 byte  dist/commonjs/runtime/modules/createAsyncGenerato\</tspan>
 <tspan x="10" y="3994">rInstance.js</tspan>
-<tspan x="10" y="4010">166.  2017-04-04 10:35:55 +0000     2189 byte  dist/commonjs/runtime/modules/createClass.js</tspan>
-<tspan x="10" y="4026">167.  2017-04-04 10:35:55 +0000      258 byte  dist/commonjs/runtime/modules/createDecoratedGene\</tspan>
+<tspan x="10" y="4010">166.  2017-04-04 10:37:17 +0000     2189 byte  dist/commonjs/runtime/modules/createClass.js</tspan>
+<tspan x="10" y="4026">167.  2017-04-04 10:37:17 +0000      258 byte  dist/commonjs/runtime/modules/createDecoratedGene\</tspan>
 <tspan x="10" y="4042">rator.js</tspan>
-<tspan x="10" y="4058">168.  2017-04-04 10:35:55 +0000      272 byte  dist/commonjs/runtime/modules/createGeneratorInst\</tspan>
+<tspan x="10" y="4058">168.  2017-04-04 10:37:17 +0000      272 byte  dist/commonjs/runtime/modules/createGeneratorInst\</tspan>
 <tspan x="10" y="4074">ance.js</tspan>
-<tspan x="10" y="4090">169.  2017-04-04 10:35:55 +0000      596 byte  dist/commonjs/runtime/modules/createPrivateName.j\</tspan>
+<tspan x="10" y="4090">169.  2017-04-04 10:37:17 +0000      596 byte  dist/commonjs/runtime/modules/createPrivateName.j\</tspan>
 <tspan x="10" y="4106">s</tspan>
-<tspan x="10" y="4122">170.  2017-04-04 10:35:55 +0000     1067 byte  dist/commonjs/runtime/modules/exportStar.js</tspan>
-<tspan x="10" y="4138">171.  2017-04-04 10:35:55 +0000     8206 byte  dist/commonjs/runtime/modules/generators.js</tspan>
-<tspan x="10" y="4154">172.  2017-04-04 10:35:55 +0000      649 byte  dist/commonjs/runtime/modules/getTemplateObject.j\</tspan>
+<tspan x="10" y="4122">170.  2017-04-04 10:37:17 +0000     1067 byte  dist/commonjs/runtime/modules/exportStar.js</tspan>
+<tspan x="10" y="4138">171.  2017-04-04 10:37:17 +0000     8206 byte  dist/commonjs/runtime/modules/generators.js</tspan>
+<tspan x="10" y="4154">172.  2017-04-04 10:37:17 +0000      649 byte  dist/commonjs/runtime/modules/getTemplateObject.j\</tspan>
 <tspan x="10" y="4170">s</tspan>
-<tspan x="10" y="4186">173.  2017-04-04 10:35:55 +0000      260 byte  dist/commonjs/runtime/modules/initAsyncGeneratorF\</tspan>
+<tspan x="10" y="4186">173.  2017-04-04 10:37:17 +0000      260 byte  dist/commonjs/runtime/modules/initAsyncGeneratorF\</tspan>
 <tspan x="10" y="4202">unction.js</tspan>
-<tspan x="10" y="4218">174.  2017-04-04 10:35:55 +0000      270 byte  dist/commonjs/runtime/modules/initGeneratorFuncti\</tspan>
+<tspan x="10" y="4218">174.  2017-04-04 10:37:17 +0000      270 byte  dist/commonjs/runtime/modules/initGeneratorFuncti\</tspan>
 <tspan x="10" y="4234">on.js</tspan>
-<tspan x="10" y="4250">175.  2017-04-04 10:35:55 +0000      289 byte  dist/commonjs/runtime/modules/initTailRecursiveFu\</tspan>
+<tspan x="10" y="4250">175.  2017-04-04 10:37:17 +0000      289 byte  dist/commonjs/runtime/modules/initTailRecursiveFu\</tspan>
 <tspan x="10" y="4266">nction.js</tspan>
-<tspan x="10" y="4282">176.  2017-04-04 10:35:55 +0000      340 byte  dist/commonjs/runtime/modules/iteratorToArray.js</tspan>
-<tspan x="10" y="4298">177.  2017-04-04 10:35:55 +0000      248 byte  dist/commonjs/runtime/modules/observeForEach.js</tspan>
-<tspan x="10" y="4314">178.  2017-04-04 10:35:55 +0000     3194 byte  dist/commonjs/runtime/modules/properTailCalls.js</tspan>
-<tspan x="10" y="4330">179.  2017-04-04 10:35:55 +0000      242 byte  dist/commonjs/runtime/modules/schedule.js</tspan>
-<tspan x="10" y="4346">180.  2017-04-04 10:35:55 +0000      717 byte  dist/commonjs/runtime/modules/spawn.js</tspan>
-<tspan x="10" y="4362">181.  2017-04-04 10:35:55 +0000      832 byte  dist/commonjs/runtime/modules/spread.js</tspan>
-<tspan x="10" y="4378">182.  2017-04-04 10:35:55 +0000     1170 byte  dist/commonjs/runtime/modules/spreadProperties.js</tspan>
-<tspan x="10" y="4394">183.  2017-04-04 10:35:55 +0000      248 byte  dist/commonjs/runtime/modules/superConstructor.js</tspan>
-<tspan x="10" y="4410">184.  2017-04-04 10:35:55 +0000      572 byte  dist/commonjs/runtime/modules/superDescriptor.js</tspan>
-<tspan x="10" y="4426">185.  2017-04-04 10:35:55 +0000      656 byte  dist/commonjs/runtime/modules/superGet.js</tspan>
-<tspan x="10" y="4442">186.  2017-04-04 10:35:55 +0000      654 byte  dist/commonjs/runtime/modules/superSet.js</tspan>
-<tspan x="10" y="4458">187.  2017-04-04 10:35:55 +0000     3741 byte  dist/commonjs/runtime/modules/symbols.js</tspan>
-<tspan x="10" y="4474">188.  2017-04-04 10:35:55 +0000      246 byte  dist/commonjs/runtime/modules/typeof.js</tspan>
-<tspan x="10" y="4490">189.  2017-04-04 10:35:55 +0000      342 byte  dist/commonjs/runtime/new-unique-string.js</tspan>
-<tspan x="10" y="4506">190.  2017-04-04 10:35:55 +0000      385 byte  dist/commonjs/runtime/polyfills-imports.js</tspan>
-<tspan x="10" y="4522">191.  2017-04-04 10:35:55 +0000     4714 byte  dist/commonjs/runtime/polyfills/Array.js</tspan>
-<tspan x="10" y="4538">192.  2017-04-04 10:35:55 +0000     2600 byte  dist/commonjs/runtime/polyfills/ArrayIterator.js</tspan>
-<tspan x="10" y="4554">193.  2017-04-04 10:35:55 +0000     9368 byte  dist/commonjs/runtime/polyfills/Map.js</tspan>
-<tspan x="10" y="4570">194.  2017-04-04 10:35:55 +0000    11137 byte  dist/commonjs/runtime/polyfills/MapImpl.js</tspan>
-<tspan x="10" y="4586">195.  2017-04-04 10:35:55 +0000     6142 byte  dist/commonjs/runtime/polyfills/Math.js</tspan>
-<tspan x="10" y="4602">196.  2017-04-04 10:35:55 +0000     2126 byte  dist/commonjs/runtime/polyfills/Number.js</tspan>
-<tspan x="10" y="4618">197.  2017-04-04 10:35:55 +0000     1554 byte  dist/commonjs/runtime/polyfills/Object.js</tspan>
-<tspan x="10" y="4634">198.  2017-04-04 10:35:55 +0000     7636 byte  dist/commonjs/runtime/polyfills/Promise.js</tspan>
-<tspan x="10" y="4650">199.  2017-04-04 10:35:55 +0000     5138 byte  dist/commonjs/runtime/polyfills/Set.js</tspan>
-<tspan x="10" y="4666">200.  2017-04-04 10:35:55 +0000     6263 byte  dist/commonjs/runtime/polyfills/SetImpl.js</tspan>
-<tspan x="10" y="4682">201.  2017-04-04 10:35:55 +0000     5905 byte  dist/commonjs/runtime/polyfills/String.js</tspan>
-<tspan x="10" y="4698">202.  2017-04-04 10:35:55 +0000     2494 byte  dist/commonjs/runtime/polyfills/StringIterator.js</tspan>
-<tspan x="10" y="4714">203.  2017-04-04 10:35:55 +0000     3890 byte  dist/commonjs/runtime/polyfills/SymbolImpl.js</tspan>
-<tspan x="10" y="4730">204.  2017-04-04 10:35:55 +0000     2892 byte  dist/commonjs/runtime/polyfills/WeakMap.js</tspan>
-<tspan x="10" y="4746">205.  2017-04-04 10:35:55 +0000     2592 byte  dist/commonjs/runtime/polyfills/WeakSet.js</tspan>
-<tspan x="10" y="4762">206.  2017-04-04 10:35:55 +0000      534 byte  dist/commonjs/runtime/polyfills/assign.js</tspan>
-<tspan x="10" y="4778">207.  2017-04-04 10:35:55 +0000     2872 byte  dist/commonjs/runtime/polyfills/fround.js</tspan>
-<tspan x="10" y="4794">208.  2017-04-04 10:35:55 +0000      245 byte  dist/commonjs/runtime/polyfills/polyfills.js</tspan>
-<tspan x="10" y="4810">209.  2017-04-04 10:35:55 +0000     4358 byte  dist/commonjs/runtime/polyfills/utils.js</tspan>
-<tspan x="10" y="4826">210.  2017-04-04 10:35:55 +0000     2147 byte  dist/commonjs/runtime/private-symbol.js</tspan>
-<tspan x="10" y="4842">211.  2017-04-04 10:35:55 +0000     1214 byte  dist/commonjs/runtime/private-weak-map.js</tspan>
-<tspan x="10" y="4858">212.  2017-04-04 10:35:55 +0000     1224 byte  dist/commonjs/runtime/private.js</tspan>
-<tspan x="10" y="4874">213.  2017-04-04 10:35:55 +0000      610 byte  dist/commonjs/runtime/properTailCalls.js</tspan>
-<tspan x="10" y="4890">214.  2017-04-04 10:35:55 +0000      580 byte  dist/commonjs/runtime/relativeRequire.js</tspan>
-<tspan x="10" y="4906">215.  2017-04-04 10:35:55 +0000      334 byte  dist/commonjs/runtime/runtime-modules.js</tspan>
-<tspan x="10" y="4922">216.  2017-04-04 10:35:55 +0000      554 byte  dist/commonjs/runtime/runtime.js</tspan>
-<tspan x="10" y="4938">217.  2017-04-04 10:35:55 +0000      214 byte  dist/commonjs/runtime/spawn.js</tspan>
-<tspan x="10" y="4954">218.  2017-04-04 10:35:55 +0000      218 byte  dist/commonjs/runtime/spread.js</tspan>
-<tspan x="10" y="4970">219.  2017-04-04 10:35:55 +0000      628 byte  dist/commonjs/runtime/std/Map.js</tspan>
-<tspan x="10" y="4986">220.  2017-04-04 10:35:55 +0000      673 byte  dist/commonjs/runtime/std/Symbol.js</tspan>
-<tspan x="10" y="5002">221.  2017-04-04 10:35:55 +0000      208 byte  dist/commonjs/runtime/symbols.js</tspan>
-<tspan x="10" y="5018">222.  2017-04-04 10:35:55 +0000      262 byte  dist/commonjs/runtime/template.js</tspan>
-<tspan x="10" y="5034">223.  2017-04-04 10:35:55 +0000     3570 byte  dist/commonjs/runtime/url.js</tspan>
-<tspan x="10" y="5050">224.  2017-04-04 10:35:55 +0000     3099 byte  dist/commonjs/semantics/ConstChecker.js</tspan>
-<tspan x="10" y="5066">225.  2017-04-04 10:35:55 +0000     2250 byte  dist/commonjs/semantics/ConstructorValidator.js</tspan>
-<tspan x="10" y="5082">226.  2017-04-04 10:35:55 +0000     1342 byte  dist/commonjs/semantics/FreeVariableChecker.js</tspan>
-<tspan x="10" y="5098">227.  2017-04-04 10:35:55 +0000     4680 byte  dist/commonjs/semantics/Scope.js</tspan>
-<tspan x="10" y="5114">228.  2017-04-04 10:35:55 +0000     3872 byte  dist/commonjs/semantics/ScopeChainBuilder.js</tspan>
-<tspan x="10" y="5130">229.  2017-04-04 10:35:55 +0000     2959 byte  dist/commonjs/semantics/ScopeChainBuilderWithRefe\</tspan>
+<tspan x="10" y="4282">176.  2017-04-04 10:37:17 +0000      340 byte  dist/commonjs/runtime/modules/iteratorToArray.js</tspan>
+<tspan x="10" y="4298">177.  2017-04-04 10:37:17 +0000      248 byte  dist/commonjs/runtime/modules/observeForEach.js</tspan>
+<tspan x="10" y="4314">178.  2017-04-04 10:37:17 +0000     3194 byte  dist/commonjs/runtime/modules/properTailCalls.js</tspan>
+<tspan x="10" y="4330">179.  2017-04-04 10:37:17 +0000      242 byte  dist/commonjs/runtime/modules/schedule.js</tspan>
+<tspan x="10" y="4346">180.  2017-04-04 10:37:17 +0000      717 byte  dist/commonjs/runtime/modules/spawn.js</tspan>
+<tspan x="10" y="4362">181.  2017-04-04 10:37:17 +0000      832 byte  dist/commonjs/runtime/modules/spread.js</tspan>
+<tspan x="10" y="4378">182.  2017-04-04 10:37:17 +0000     1170 byte  dist/commonjs/runtime/modules/spreadProperties.js</tspan>
+<tspan x="10" y="4394">183.  2017-04-04 10:37:17 +0000      248 byte  dist/commonjs/runtime/modules/superConstructor.js</tspan>
+<tspan x="10" y="4410">184.  2017-04-04 10:37:17 +0000      572 byte  dist/commonjs/runtime/modules/superDescriptor.js</tspan>
+<tspan x="10" y="4426">185.  2017-04-04 10:37:17 +0000      656 byte  dist/commonjs/runtime/modules/superGet.js</tspan>
+<tspan x="10" y="4442">186.  2017-04-04 10:37:17 +0000      654 byte  dist/commonjs/runtime/modules/superSet.js</tspan>
+<tspan x="10" y="4458">187.  2017-04-04 10:37:17 +0000     3741 byte  dist/commonjs/runtime/modules/symbols.js</tspan>
+<tspan x="10" y="4474">188.  2017-04-04 10:37:17 +0000      246 byte  dist/commonjs/runtime/modules/typeof.js</tspan>
+<tspan x="10" y="4490">189.  2017-04-04 10:37:17 +0000      342 byte  dist/commonjs/runtime/new-unique-string.js</tspan>
+<tspan x="10" y="4506">190.  2017-04-04 10:37:17 +0000      385 byte  dist/commonjs/runtime/polyfills-imports.js</tspan>
+<tspan x="10" y="4522">191.  2017-04-04 10:37:17 +0000     4714 byte  dist/commonjs/runtime/polyfills/Array.js</tspan>
+<tspan x="10" y="4538">192.  2017-04-04 10:37:17 +0000     2600 byte  dist/commonjs/runtime/polyfills/ArrayIterator.js</tspan>
+<tspan x="10" y="4554">193.  2017-04-04 10:37:17 +0000     9368 byte  dist/commonjs/runtime/polyfills/Map.js</tspan>
+<tspan x="10" y="4570">194.  2017-04-04 10:37:17 +0000    11137 byte  dist/commonjs/runtime/polyfills/MapImpl.js</tspan>
+<tspan x="10" y="4586">195.  2017-04-04 10:37:17 +0000     6142 byte  dist/commonjs/runtime/polyfills/Math.js</tspan>
+<tspan x="10" y="4602">196.  2017-04-04 10:37:17 +0000     2126 byte  dist/commonjs/runtime/polyfills/Number.js</tspan>
+<tspan x="10" y="4618">197.  2017-04-04 10:37:17 +0000     1554 byte  dist/commonjs/runtime/polyfills/Object.js</tspan>
+<tspan x="10" y="4634">198.  2017-04-04 10:37:17 +0000     7636 byte  dist/commonjs/runtime/polyfills/Promise.js</tspan>
+<tspan x="10" y="4650">199.  2017-04-04 10:37:17 +0000     5138 byte  dist/commonjs/runtime/polyfills/Set.js</tspan>
+<tspan x="10" y="4666">200.  2017-04-04 10:37:17 +0000     6263 byte  dist/commonjs/runtime/polyfills/SetImpl.js</tspan>
+<tspan x="10" y="4682">201.  2017-04-04 10:37:17 +0000     5905 byte  dist/commonjs/runtime/polyfills/String.js</tspan>
+<tspan x="10" y="4698">202.  2017-04-04 10:37:17 +0000     2494 byte  dist/commonjs/runtime/polyfills/StringIterator.js</tspan>
+<tspan x="10" y="4714">203.  2017-04-04 10:37:17 +0000     3890 byte  dist/commonjs/runtime/polyfills/SymbolImpl.js</tspan>
+<tspan x="10" y="4730">204.  2017-04-04 10:37:17 +0000     2892 byte  dist/commonjs/runtime/polyfills/WeakMap.js</tspan>
+<tspan x="10" y="4746">205.  2017-04-04 10:37:17 +0000     2592 byte  dist/commonjs/runtime/polyfills/WeakSet.js</tspan>
+<tspan x="10" y="4762">206.  2017-04-04 10:37:17 +0000      534 byte  dist/commonjs/runtime/polyfills/assign.js</tspan>
+<tspan x="10" y="4778">207.  2017-04-04 10:37:17 +0000     2872 byte  dist/commonjs/runtime/polyfills/fround.js</tspan>
+<tspan x="10" y="4794">208.  2017-04-04 10:37:17 +0000      245 byte  dist/commonjs/runtime/polyfills/polyfills.js</tspan>
+<tspan x="10" y="4810">209.  2017-04-04 10:37:17 +0000     4358 byte  dist/commonjs/runtime/polyfills/utils.js</tspan>
+<tspan x="10" y="4826">210.  2017-04-04 10:37:17 +0000     2147 byte  dist/commonjs/runtime/private-symbol.js</tspan>
+<tspan x="10" y="4842">211.  2017-04-04 10:37:17 +0000     1214 byte  dist/commonjs/runtime/private-weak-map.js</tspan>
+<tspan x="10" y="4858">212.  2017-04-04 10:37:17 +0000     1224 byte  dist/commonjs/runtime/private.js</tspan>
+<tspan x="10" y="4874">213.  2017-04-04 10:37:17 +0000      610 byte  dist/commonjs/runtime/properTailCalls.js</tspan>
+<tspan x="10" y="4890">214.  2017-04-04 10:37:17 +0000      580 byte  dist/commonjs/runtime/relativeRequire.js</tspan>
+<tspan x="10" y="4906">215.  2017-04-04 10:37:17 +0000      334 byte  dist/commonjs/runtime/runtime-modules.js</tspan>
+<tspan x="10" y="4922">216.  2017-04-04 10:37:17 +0000      554 byte  dist/commonjs/runtime/runtime.js</tspan>
+<tspan x="10" y="4938">217.  2017-04-04 10:37:17 +0000      214 byte  dist/commonjs/runtime/spawn.js</tspan>
+<tspan x="10" y="4954">218.  2017-04-04 10:37:17 +0000      218 byte  dist/commonjs/runtime/spread.js</tspan>
+<tspan x="10" y="4970">219.  2017-04-04 10:37:17 +0000      628 byte  dist/commonjs/runtime/std/Map.js</tspan>
+<tspan x="10" y="4986">220.  2017-04-04 10:37:17 +0000      673 byte  dist/commonjs/runtime/std/Symbol.js</tspan>
+<tspan x="10" y="5002">221.  2017-04-04 10:37:17 +0000      208 byte  dist/commonjs/runtime/symbols.js</tspan>
+<tspan x="10" y="5018">222.  2017-04-04 10:37:17 +0000      262 byte  dist/commonjs/runtime/template.js</tspan>
+<tspan x="10" y="5034">223.  2017-04-04 10:37:17 +0000     3570 byte  dist/commonjs/runtime/url.js</tspan>
+<tspan x="10" y="5050">224.  2017-04-04 10:37:17 +0000     3099 byte  dist/commonjs/semantics/ConstChecker.js</tspan>
+<tspan x="10" y="5066">225.  2017-04-04 10:37:17 +0000     2250 byte  dist/commonjs/semantics/ConstructorValidator.js</tspan>
+<tspan x="10" y="5082">226.  2017-04-04 10:37:17 +0000     1342 byte  dist/commonjs/semantics/FreeVariableChecker.js</tspan>
+<tspan x="10" y="5098">227.  2017-04-04 10:37:17 +0000     4680 byte  dist/commonjs/semantics/Scope.js</tspan>
+<tspan x="10" y="5114">228.  2017-04-04 10:37:17 +0000     3872 byte  dist/commonjs/semantics/ScopeChainBuilder.js</tspan>
+<tspan x="10" y="5130">229.  2017-04-04 10:37:17 +0000     2959 byte  dist/commonjs/semantics/ScopeChainBuilderWithRefe\</tspan>
 <tspan x="10" y="5146">rences.js</tspan>
-<tspan x="10" y="5162">230.  2017-04-04 10:35:55 +0000     1047 byte  dist/commonjs/semantics/ScopeReferences.js</tspan>
-<tspan x="10" y="5178">231.  2017-04-04 10:35:55 +0000     6178 byte  dist/commonjs/semantics/ScopeVisitor.js</tspan>
-<tspan x="10" y="5194">232.  2017-04-04 10:35:55 +0000     1033 byte  dist/commonjs/semantics/VariableBinder.js</tspan>
-<tspan x="10" y="5210">233.  2017-04-04 10:35:55 +0000     1427 byte  dist/commonjs/semantics/bindingsInDestructuringPa\</tspan>
+<tspan x="10" y="5162">230.  2017-04-04 10:37:17 +0000     1047 byte  dist/commonjs/semantics/ScopeReferences.js</tspan>
+<tspan x="10" y="5178">231.  2017-04-04 10:37:17 +0000     6178 byte  dist/commonjs/semantics/ScopeVisitor.js</tspan>
+<tspan x="10" y="5194">232.  2017-04-04 10:37:17 +0000     1033 byte  dist/commonjs/semantics/VariableBinder.js</tspan>
+<tspan x="10" y="5210">233.  2017-04-04 10:37:17 +0000     1427 byte  dist/commonjs/semantics/bindingsInDestructuringPa\</tspan>
 <tspan x="10" y="5226">ttern.js</tspan>
-<tspan x="10" y="5242">234.  2017-04-04 10:35:55 +0000     1389 byte  dist/commonjs/semantics/isTreeStrict.js</tspan>
-<tspan x="10" y="5258">235.  2017-04-04 10:35:55 +0000     1690 byte  dist/commonjs/semantics/util.js</tspan>
-<tspan x="10" y="5274">236.  2017-04-04 10:35:55 +0000     1182 byte  dist/commonjs/staticsemantics/PropName.js</tspan>
-<tspan x="10" y="5290">237.  2017-04-04 10:35:55 +0000      967 byte  dist/commonjs/staticsemantics/isValidSimpleAssign\</tspan>
+<tspan x="10" y="5242">234.  2017-04-04 10:37:17 +0000     1389 byte  dist/commonjs/semantics/isTreeStrict.js</tspan>
+<tspan x="10" y="5258">235.  2017-04-04 10:37:17 +0000     1690 byte  dist/commonjs/semantics/util.js</tspan>
+<tspan x="10" y="5274">236.  2017-04-04 10:37:17 +0000     1182 byte  dist/commonjs/staticsemantics/PropName.js</tspan>
+<tspan x="10" y="5290">237.  2017-04-04 10:37:17 +0000      967 byte  dist/commonjs/staticsemantics/isValidSimpleAssign\</tspan>
 <tspan x="10" y="5306">mentTarget.js</tspan>
-<tspan x="10" y="5322">238.  2017-04-04 10:35:55 +0000     3280 byte  dist/commonjs/staticsemantics/validateParameters.\</tspan>
+<tspan x="10" y="5322">238.  2017-04-04 10:37:17 +0000     3280 byte  dist/commonjs/staticsemantics/validateParameters.\</tspan>
 <tspan x="10" y="5338">js</tspan>
-<tspan x="10" y="5354">239.  2017-04-04 10:35:55 +0000      933 byte  dist/commonjs/syntax/IdentifierToken.js</tspan>
-<tspan x="10" y="5370">240.  2017-04-04 10:35:55 +0000      963 byte  dist/commonjs/syntax/JsxIdentifierToken.js</tspan>
-<tspan x="10" y="5386">241.  2017-04-04 10:35:55 +0000     1044 byte  dist/commonjs/syntax/KeywordToken.js</tspan>
-<tspan x="10" y="5402">242.  2017-04-04 10:35:55 +0000     1381 byte  dist/commonjs/syntax/Keywords.js</tspan>
-<tspan x="10" y="5418">243.  2017-04-04 10:35:55 +0000     2758 byte  dist/commonjs/syntax/LineNumberTable.js</tspan>
-<tspan x="10" y="5434">244.  2017-04-04 10:35:55 +0000     4992 byte  dist/commonjs/syntax/LiteralToken.js</tspan>
-<tspan x="10" y="5450">245.  2017-04-04 10:35:55 +0000    29680 byte  dist/commonjs/syntax/ParseTreeValidator.js</tspan>
-<tspan x="10" y="5466">246.  2017-04-04 10:35:55 +0000    14175 byte  dist/commonjs/syntax/ParseTreeVisitor.js</tspan>
-<tspan x="10" y="5482">247.  2017-04-04 10:35:55 +0000   116339 byte  dist/commonjs/syntax/Parser.js</tspan>
-<tspan x="10" y="5498">248.  2017-04-04 10:35:55 +0000     4522 byte  dist/commonjs/syntax/PredefinedName.js</tspan>
-<tspan x="10" y="5514">249.  2017-04-04 10:35:55 +0000    29806 byte  dist/commonjs/syntax/Scanner.js</tspan>
-<tspan x="10" y="5530">250.  2017-04-04 10:35:55 +0000      699 byte  dist/commonjs/syntax/SourceFile.js</tspan>
-<tspan x="10" y="5546">251.  2017-04-04 10:35:55 +0000     1900 byte  dist/commonjs/syntax/Token.js</tspan>
-<tspan x="10" y="5562">252.  2017-04-04 10:35:55 +0000    12839 byte  dist/commonjs/syntax/TokenType.js</tspan>
-<tspan x="10" y="5578">253.  2017-04-04 10:35:55 +0000    11452 byte  dist/commonjs/syntax/trees/ParseTree.js</tspan>
-<tspan x="10" y="5594">254.  2017-04-04 10:35:55 +0000    18979 byte  dist/commonjs/syntax/trees/ParseTreeType.js</tspan>
-<tspan x="10" y="5610">255.  2017-04-04 10:35:55 +0000    88181 byte  dist/commonjs/syntax/trees/ParseTrees.js</tspan>
-<tspan x="10" y="5626">256.  2017-04-04 10:35:55 +0000     4007 byte  dist/commonjs/syntax/trees/StateMachine.js</tspan>
-<tspan x="10" y="5642">257.  2017-04-04 10:35:55 +0000    14172 byte  dist/commonjs/syntax/unicode-tables.js</tspan>
-<tspan x="10" y="5658">258.  2017-04-04 10:35:55 +0000      259 byte  dist/commonjs/traceur-import.js</tspan>
-<tspan x="10" y="5674">259.  2017-04-04 10:35:55 +0000      627 byte  dist/commonjs/traceur.js</tspan>
-<tspan x="10" y="5690">260.  2017-04-04 10:35:55 +0000     1135 byte  dist/commonjs/util-imports.js</tspan>
-<tspan x="10" y="5706">261.  2017-04-04 10:35:55 +0000     1574 byte  dist/commonjs/util/CollectingErrorReporter.js</tspan>
-<tspan x="10" y="5722">262.  2017-04-04 10:35:55 +0000     1483 byte  dist/commonjs/util/ErrorReporter.js</tspan>
-<tspan x="10" y="5738">263.  2017-04-04 10:35:55 +0000      877 byte  dist/commonjs/util/JSON.js</tspan>
-<tspan x="10" y="5754">264.  2017-04-04 10:35:55 +0000      884 byte  dist/commonjs/util/MutedErrorReporter.js</tspan>
-<tspan x="10" y="5770">265.  2017-04-04 10:35:55 +0000     1107 byte  dist/commonjs/util/SourcePosition.js</tspan>
-<tspan x="10" y="5786">266.  2017-04-04 10:35:55 +0000      699 byte  dist/commonjs/util/SourceRange.js</tspan>
-<tspan x="10" y="5802">267.  2017-04-04 10:35:55 +0000     1438 byte  dist/commonjs/util/StringMap.js</tspan>
-<tspan x="10" y="5818">268.  2017-04-04 10:35:55 +0000     1250 byte  dist/commonjs/util/StringSet.js</tspan>
-<tspan x="10" y="5834">269.  2017-04-04 10:35:55 +0000     1006 byte  dist/commonjs/util/SyntaxErrorReporter.js</tspan>
-<tspan x="10" y="5850">270.  2017-04-04 10:35:55 +0000      279 byte  dist/commonjs/util/assert.js</tspan>
-<tspan x="10" y="5866">271.  2017-04-04 10:35:55 +0000     1632 byte  dist/commonjs/util/parseProlog.js</tspan>
-<tspan x="10" y="5882">272.  2017-04-04 10:35:55 +0000      700 byte  dist/commonjs/util/url.js</tspan>
-<tspan x="10" y="5898">273.  2017-04-04 10:35:55 +0000     9605 byte  package.json</tspan>
-<tspan x="10" y="5914">274.  2017-04-04 10:35:55 +0000    11105 byte  src/Compiler.js</tspan>
-<tspan x="10" y="5930">275.  2017-04-04 10:35:55 +0000     3396 byte  src/HTMLImportTranscoder.js</tspan>
-<tspan x="10" y="5946">276.  2017-04-04 10:35:55 +0000    16354 byte  src/Options.js</tspan>
-<tspan x="10" y="5962">277.  2017-04-04 10:35:55 +0000     4418 byte  src/WebPageTranscoder.js</tspan>
-<tspan x="10" y="5978">278.  2017-04-04 10:35:55 +0000      651 byte  src/bootstrap.js</tspan>
-<tspan x="10" y="5994">279.  2017-04-04 10:35:55 +0000      953 byte  src/browser/System.js</tspan>
-<tspan x="10" y="6010">280.  2017-04-04 10:35:55 +0000     3795 byte  src/codegeneration/AlphaRenamer.js</tspan>
-<tspan x="10" y="6026">281.  2017-04-04 10:35:55 +0000     3042 byte  src/codegeneration/AmdTransformer.js</tspan>
-<tspan x="10" y="6042">282.  2017-04-04 10:35:55 +0000    10539 byte  src/codegeneration/AnnotationsTransformer.js</tspan>
-<tspan x="10" y="6058">283.  2017-04-04 10:35:55 +0000     2485 byte  src/codegeneration/ArrayComprehensionTransformer.\</tspan>
+<tspan x="10" y="5354">239.  2017-04-04 10:37:17 +0000      933 byte  dist/commonjs/syntax/IdentifierToken.js</tspan>
+<tspan x="10" y="5370">240.  2017-04-04 10:37:17 +0000      963 byte  dist/commonjs/syntax/JsxIdentifierToken.js</tspan>
+<tspan x="10" y="5386">241.  2017-04-04 10:37:17 +0000     1044 byte  dist/commonjs/syntax/KeywordToken.js</tspan>
+<tspan x="10" y="5402">242.  2017-04-04 10:37:17 +0000     1381 byte  dist/commonjs/syntax/Keywords.js</tspan>
+<tspan x="10" y="5418">243.  2017-04-04 10:37:17 +0000     2758 byte  dist/commonjs/syntax/LineNumberTable.js</tspan>
+<tspan x="10" y="5434">244.  2017-04-04 10:37:17 +0000     4992 byte  dist/commonjs/syntax/LiteralToken.js</tspan>
+<tspan x="10" y="5450">245.  2017-04-04 10:37:17 +0000    29680 byte  dist/commonjs/syntax/ParseTreeValidator.js</tspan>
+<tspan x="10" y="5466">246.  2017-04-04 10:37:17 +0000    14175 byte  dist/commonjs/syntax/ParseTreeVisitor.js</tspan>
+<tspan x="10" y="5482">247.  2017-04-04 10:37:17 +0000   116339 byte  dist/commonjs/syntax/Parser.js</tspan>
+<tspan x="10" y="5498">248.  2017-04-04 10:37:17 +0000     4522 byte  dist/commonjs/syntax/PredefinedName.js</tspan>
+<tspan x="10" y="5514">249.  2017-04-04 10:37:17 +0000    29806 byte  dist/commonjs/syntax/Scanner.js</tspan>
+<tspan x="10" y="5530">250.  2017-04-04 10:37:17 +0000      699 byte  dist/commonjs/syntax/SourceFile.js</tspan>
+<tspan x="10" y="5546">251.  2017-04-04 10:37:17 +0000     1900 byte  dist/commonjs/syntax/Token.js</tspan>
+<tspan x="10" y="5562">252.  2017-04-04 10:37:17 +0000    12839 byte  dist/commonjs/syntax/TokenType.js</tspan>
+<tspan x="10" y="5578">253.  2017-04-04 10:37:17 +0000    11452 byte  dist/commonjs/syntax/trees/ParseTree.js</tspan>
+<tspan x="10" y="5594">254.  2017-04-04 10:37:17 +0000    18979 byte  dist/commonjs/syntax/trees/ParseTreeType.js</tspan>
+<tspan x="10" y="5610">255.  2017-04-04 10:37:17 +0000    88181 byte  dist/commonjs/syntax/trees/ParseTrees.js</tspan>
+<tspan x="10" y="5626">256.  2017-04-04 10:37:17 +0000     4007 byte  dist/commonjs/syntax/trees/StateMachine.js</tspan>
+<tspan x="10" y="5642">257.  2017-04-04 10:37:17 +0000    14172 byte  dist/commonjs/syntax/unicode-tables.js</tspan>
+<tspan x="10" y="5658">258.  2017-04-04 10:37:17 +0000      259 byte  dist/commonjs/traceur-import.js</tspan>
+<tspan x="10" y="5674">259.  2017-04-04 10:37:17 +0000      627 byte  dist/commonjs/traceur.js</tspan>
+<tspan x="10" y="5690">260.  2017-04-04 10:37:17 +0000     1135 byte  dist/commonjs/util-imports.js</tspan>
+<tspan x="10" y="5706">261.  2017-04-04 10:37:17 +0000     1574 byte  dist/commonjs/util/CollectingErrorReporter.js</tspan>
+<tspan x="10" y="5722">262.  2017-04-04 10:37:17 +0000     1483 byte  dist/commonjs/util/ErrorReporter.js</tspan>
+<tspan x="10" y="5738">263.  2017-04-04 10:37:17 +0000      877 byte  dist/commonjs/util/JSON.js</tspan>
+<tspan x="10" y="5754">264.  2017-04-04 10:37:17 +0000      884 byte  dist/commonjs/util/MutedErrorReporter.js</tspan>
+<tspan x="10" y="5770">265.  2017-04-04 10:37:17 +0000     1107 byte  dist/commonjs/util/SourcePosition.js</tspan>
+<tspan x="10" y="5786">266.  2017-04-04 10:37:17 +0000      699 byte  dist/commonjs/util/SourceRange.js</tspan>
+<tspan x="10" y="5802">267.  2017-04-04 10:37:17 +0000     1438 byte  dist/commonjs/util/StringMap.js</tspan>
+<tspan x="10" y="5818">268.  2017-04-04 10:37:17 +0000     1250 byte  dist/commonjs/util/StringSet.js</tspan>
+<tspan x="10" y="5834">269.  2017-04-04 10:37:17 +0000     1006 byte  dist/commonjs/util/SyntaxErrorReporter.js</tspan>
+<tspan x="10" y="5850">270.  2017-04-04 10:37:17 +0000      279 byte  dist/commonjs/util/assert.js</tspan>
+<tspan x="10" y="5866">271.  2017-04-04 10:37:17 +0000     1632 byte  dist/commonjs/util/parseProlog.js</tspan>
+<tspan x="10" y="5882">272.  2017-04-04 10:37:17 +0000      700 byte  dist/commonjs/util/url.js</tspan>
+<tspan x="10" y="5898">273.  2017-04-04 10:37:17 +0000     9605 byte  package.json</tspan>
+<tspan x="10" y="5914">274.  2017-04-04 10:37:17 +0000    11105 byte  src/Compiler.js</tspan>
+<tspan x="10" y="5930">275.  2017-04-04 10:37:17 +0000     3396 byte  src/HTMLImportTranscoder.js</tspan>
+<tspan x="10" y="5946">276.  2017-04-04 10:37:17 +0000    16354 byte  src/Options.js</tspan>
+<tspan x="10" y="5962">277.  2017-04-04 10:37:17 +0000     4418 byte  src/WebPageTranscoder.js</tspan>
+<tspan x="10" y="5978">278.  2017-04-04 10:37:17 +0000      651 byte  src/bootstrap.js</tspan>
+<tspan x="10" y="5994">279.  2017-04-04 10:37:17 +0000      953 byte  src/browser/System.js</tspan>
+<tspan x="10" y="6010">280.  2017-04-04 10:37:17 +0000     3795 byte  src/codegeneration/AlphaRenamer.js</tspan>
+<tspan x="10" y="6026">281.  2017-04-04 10:37:17 +0000     3042 byte  src/codegeneration/AmdTransformer.js</tspan>
+<tspan x="10" y="6042">282.  2017-04-04 10:37:17 +0000    10539 byte  src/codegeneration/AnnotationsTransformer.js</tspan>
+<tspan x="10" y="6058">283.  2017-04-04 10:37:17 +0000     2485 byte  src/codegeneration/ArrayComprehensionTransformer.\</tspan>
 <tspan x="10" y="6074">js</tspan>
-<tspan x="10" y="6090">284.  2017-04-04 10:35:55 +0000     6175 byte  src/codegeneration/ArrowFunctionTransformer.js</tspan>
-<tspan x="10" y="6106">285.  2017-04-04 10:35:55 +0000     4337 byte  src/codegeneration/AsyncGeneratorTransformPass.js</tspan>
-<tspan x="10" y="6122">286.  2017-04-04 10:35:55 +0000     4229 byte  src/codegeneration/AsyncGeneratorTransformer.js</tspan>
-<tspan x="10" y="6138">287.  2017-04-04 10:35:55 +0000     3766 byte  src/codegeneration/AsyncToGeneratorTransformer.js</tspan>
-<tspan x="10" y="6154">288.  2017-04-04 10:35:55 +0000    26818 byte  src/codegeneration/BlockBindingTransformer.js</tspan>
-<tspan x="10" y="6170">289.  2017-04-04 10:35:55 +0000     9401 byte  src/codegeneration/ClassTransformer.js</tspan>
-<tspan x="10" y="6186">290.  2017-04-04 10:35:55 +0000     4210 byte  src/codegeneration/CloneTreeTransformer.js</tspan>
-<tspan x="10" y="6202">291.  2017-04-04 10:35:55 +0000     2928 byte  src/codegeneration/ClosureModuleTransformer.js</tspan>
-<tspan x="10" y="6218">292.  2017-04-04 10:35:55 +0000     4698 byte  src/codegeneration/CommonJsModuleTransformer.js</tspan>
-<tspan x="10" y="6234">293.  2017-04-04 10:35:55 +0000     3474 byte  src/codegeneration/ComprehensionTransformer.js</tspan>
-<tspan x="10" y="6250">294.  2017-04-04 10:35:55 +0000     3291 byte  src/codegeneration/DefaultParametersTransformer.j\</tspan>
+<tspan x="10" y="6090">284.  2017-04-04 10:37:17 +0000     6175 byte  src/codegeneration/ArrowFunctionTransformer.js</tspan>
+<tspan x="10" y="6106">285.  2017-04-04 10:37:17 +0000     4337 byte  src/codegeneration/AsyncGeneratorTransformPass.js</tspan>
+<tspan x="10" y="6122">286.  2017-04-04 10:37:17 +0000     4229 byte  src/codegeneration/AsyncGeneratorTransformer.js</tspan>
+<tspan x="10" y="6138">287.  2017-04-04 10:37:17 +0000     3766 byte  src/codegeneration/AsyncToGeneratorTransformer.js</tspan>
+<tspan x="10" y="6154">288.  2017-04-04 10:37:17 +0000    26818 byte  src/codegeneration/BlockBindingTransformer.js</tspan>
+<tspan x="10" y="6170">289.  2017-04-04 10:37:17 +0000     9401 byte  src/codegeneration/ClassTransformer.js</tspan>
+<tspan x="10" y="6186">290.  2017-04-04 10:37:17 +0000     4210 byte  src/codegeneration/CloneTreeTransformer.js</tspan>
+<tspan x="10" y="6202">291.  2017-04-04 10:37:17 +0000     2928 byte  src/codegeneration/ClosureModuleTransformer.js</tspan>
+<tspan x="10" y="6218">292.  2017-04-04 10:37:17 +0000     4698 byte  src/codegeneration/CommonJsModuleTransformer.js</tspan>
+<tspan x="10" y="6234">293.  2017-04-04 10:37:17 +0000     3474 byte  src/codegeneration/ComprehensionTransformer.js</tspan>
+<tspan x="10" y="6250">294.  2017-04-04 10:37:17 +0000     3291 byte  src/codegeneration/DefaultParametersTransformer.j\</tspan>
 <tspan x="10" y="6266">s</tspan>
-<tspan x="10" y="6282">295.  2017-04-04 10:35:55 +0000    21592 byte  src/codegeneration/DestructuringTransformer.js</tspan>
-<tspan x="10" y="6298">296.  2017-04-04 10:35:55 +0000    24522 byte  src/codegeneration/ExplodeExpressionTransformer.j\</tspan>
+<tspan x="10" y="6282">295.  2017-04-04 10:37:17 +0000    21592 byte  src/codegeneration/DestructuringTransformer.js</tspan>
+<tspan x="10" y="6298">296.  2017-04-04 10:37:17 +0000    24522 byte  src/codegeneration/ExplodeExpressionTransformer.j\</tspan>
 <tspan x="10" y="6314">s</tspan>
-<tspan x="10" y="6330">297.  2017-04-04 10:35:55 +0000     1493 byte  src/codegeneration/ExponentiationTransformer.js</tspan>
-<tspan x="10" y="6346">298.  2017-04-04 10:35:55 +0000      991 byte  src/codegeneration/FindArguments.js</tspan>
-<tspan x="10" y="6362">299.  2017-04-04 10:35:55 +0000     1963 byte  src/codegeneration/FindIdentifiers.js</tspan>
-<tspan x="10" y="6378">300.  2017-04-04 10:35:55 +0000     1513 byte  src/codegeneration/FindInFunctionScope.js</tspan>
-<tspan x="10" y="6394">301.  2017-04-04 10:35:55 +0000     1245 byte  src/codegeneration/FindThisOrArguments.js</tspan>
-<tspan x="10" y="6410">302.  2017-04-04 10:35:55 +0000     1800 byte  src/codegeneration/FindVisitor.js</tspan>
-<tspan x="10" y="6426">303.  2017-04-04 10:35:55 +0000     8660 byte  src/codegeneration/FnExtractAbruptCompletions.js</tspan>
-<tspan x="10" y="6442">304.  2017-04-04 10:35:55 +0000     3867 byte  src/codegeneration/ForOfTransformer.js</tspan>
-<tspan x="10" y="6458">305.  2017-04-04 10:35:55 +0000     2647 byte  src/codegeneration/ForOnTransformer.js</tspan>
-<tspan x="10" y="6474">306.  2017-04-04 10:35:55 +0000     9389 byte  src/codegeneration/FromOptionsTransformer.js</tspan>
-<tspan x="10" y="6490">307.  2017-04-04 10:35:55 +0000     1872 byte  src/codegeneration/GeneratorComprehensionTransfor\</tspan>
+<tspan x="10" y="6330">297.  2017-04-04 10:37:17 +0000     1493 byte  src/codegeneration/ExponentiationTransformer.js</tspan>
+<tspan x="10" y="6346">298.  2017-04-04 10:37:17 +0000      991 byte  src/codegeneration/FindArguments.js</tspan>
+<tspan x="10" y="6362">299.  2017-04-04 10:37:17 +0000     1963 byte  src/codegeneration/FindIdentifiers.js</tspan>
+<tspan x="10" y="6378">300.  2017-04-04 10:37:17 +0000     1513 byte  src/codegeneration/FindInFunctionScope.js</tspan>
+<tspan x="10" y="6394">301.  2017-04-04 10:37:17 +0000     1245 byte  src/codegeneration/FindThisOrArguments.js</tspan>
+<tspan x="10" y="6410">302.  2017-04-04 10:37:17 +0000     1800 byte  src/codegeneration/FindVisitor.js</tspan>
+<tspan x="10" y="6426">303.  2017-04-04 10:37:17 +0000     8660 byte  src/codegeneration/FnExtractAbruptCompletions.js</tspan>
+<tspan x="10" y="6442">304.  2017-04-04 10:37:17 +0000     3867 byte  src/codegeneration/ForOfTransformer.js</tspan>
+<tspan x="10" y="6458">305.  2017-04-04 10:37:17 +0000     2647 byte  src/codegeneration/ForOnTransformer.js</tspan>
+<tspan x="10" y="6474">306.  2017-04-04 10:37:17 +0000     9389 byte  src/codegeneration/FromOptionsTransformer.js</tspan>
+<tspan x="10" y="6490">307.  2017-04-04 10:37:17 +0000     1872 byte  src/codegeneration/GeneratorComprehensionTransfor\</tspan>
 <tspan x="10" y="6506">mer.js</tspan>
-<tspan x="10" y="6522">308.  2017-04-04 10:35:55 +0000     6386 byte  src/codegeneration/GeneratorTransformPass.js</tspan>
-<tspan x="10" y="6538">309.  2017-04-04 10:35:55 +0000     8995 byte  src/codegeneration/HoistVariablesTransformer.js</tspan>
-<tspan x="10" y="6554">310.  2017-04-04 10:35:55 +0000     4134 byte  src/codegeneration/ImportRuntimeTrait.js</tspan>
-<tspan x="10" y="6570">311.  2017-04-04 10:35:55 +0000     4018 byte  src/codegeneration/ImportSimplifyingTransformer.j\</tspan>
+<tspan x="10" y="6522">308.  2017-04-04 10:37:17 +0000     6386 byte  src/codegeneration/GeneratorTransformPass.js</tspan>
+<tspan x="10" y="6538">309.  2017-04-04 10:37:17 +0000     8995 byte  src/codegeneration/HoistVariablesTransformer.js</tspan>
+<tspan x="10" y="6554">310.  2017-04-04 10:37:17 +0000     4134 byte  src/codegeneration/ImportRuntimeTrait.js</tspan>
+<tspan x="10" y="6570">311.  2017-04-04 10:37:17 +0000     4018 byte  src/codegeneration/ImportSimplifyingTransformer.j\</tspan>
 <tspan x="10" y="6586">s</tspan>
-<tspan x="10" y="6602">312.  2017-04-04 10:35:55 +0000     6776 byte  src/codegeneration/InlineES6ModuleTransformer.js</tspan>
-<tspan x="10" y="6618">313.  2017-04-04 10:35:55 +0000     1719 byte  src/codegeneration/InlineModuleTransformer.js</tspan>
-<tspan x="10" y="6634">314.  2017-04-04 10:35:55 +0000     7932 byte  src/codegeneration/InnerForOnTransformer.js</tspan>
-<tspan x="10" y="6650">315.  2017-04-04 10:35:55 +0000    22674 byte  src/codegeneration/InstantiateModuleTransformer.j\</tspan>
+<tspan x="10" y="6602">312.  2017-04-04 10:37:17 +0000     6776 byte  src/codegeneration/InlineES6ModuleTransformer.js</tspan>
+<tspan x="10" y="6618">313.  2017-04-04 10:37:17 +0000     1719 byte  src/codegeneration/InlineModuleTransformer.js</tspan>
+<tspan x="10" y="6634">314.  2017-04-04 10:37:17 +0000     7932 byte  src/codegeneration/InnerForOnTransformer.js</tspan>
+<tspan x="10" y="6650">315.  2017-04-04 10:37:17 +0000    22674 byte  src/codegeneration/InstantiateModuleTransformer.j\</tspan>
 <tspan x="10" y="6666">s</tspan>
-<tspan x="10" y="6682">316.  2017-04-04 10:35:55 +0000     6424 byte  src/codegeneration/JsxTransformer.js</tspan>
-<tspan x="10" y="6698">317.  2017-04-04 10:35:55 +0000     1580 byte  src/codegeneration/MakeStrictTransformer.js</tspan>
-<tspan x="10" y="6714">318.  2017-04-04 10:35:55 +0000     2601 byte  src/codegeneration/MemberVariableConstructorTrans\</tspan>
+<tspan x="10" y="6682">316.  2017-04-04 10:37:17 +0000     6424 byte  src/codegeneration/JsxTransformer.js</tspan>
+<tspan x="10" y="6698">317.  2017-04-04 10:37:17 +0000     1580 byte  src/codegeneration/MakeStrictTransformer.js</tspan>
+<tspan x="10" y="6714">318.  2017-04-04 10:37:17 +0000     2601 byte  src/codegeneration/MemberVariableConstructorTrans\</tspan>
 <tspan x="10" y="6730">former.js</tspan>
-<tspan x="10" y="6746">319.  2017-04-04 10:35:55 +0000     6630 byte  src/codegeneration/MemberVariableTransformer.js</tspan>
-<tspan x="10" y="6762">320.  2017-04-04 10:35:55 +0000    11220 byte  src/codegeneration/ModuleTransformer.js</tspan>
-<tspan x="10" y="6778">321.  2017-04-04 10:35:55 +0000     1814 byte  src/codegeneration/MultiTransformer.js</tspan>
-<tspan x="10" y="6794">322.  2017-04-04 10:35:55 +0000     1601 byte  src/codegeneration/NumericLiteralTransformer.js</tspan>
-<tspan x="10" y="6810">323.  2017-04-04 10:35:55 +0000    10477 byte  src/codegeneration/ObjectLiteralTransformer.js</tspan>
-<tspan x="10" y="6826">324.  2017-04-04 10:35:55 +0000     2680 byte  src/codegeneration/ParameterTransformer.js</tspan>
-<tspan x="10" y="6842">325.  2017-04-04 10:35:55 +0000     5739 byte  src/codegeneration/ParenTrait.js</tspan>
-<tspan x="10" y="6858">326.  2017-04-04 10:35:55 +0000    21541 byte  src/codegeneration/ParseTreeFactory.js</tspan>
-<tspan x="10" y="6874">327.  2017-04-04 10:35:55 +0000    36893 byte  src/codegeneration/ParseTreeTransformer.js</tspan>
-<tspan x="10" y="6890">328.  2017-04-04 10:35:55 +0000    10641 byte  src/codegeneration/PlaceholderParser.js</tspan>
-<tspan x="10" y="6906">329.  2017-04-04 10:35:55 +0000     1416 byte  src/codegeneration/PrependStatements.js</tspan>
-<tspan x="10" y="6922">330.  2017-04-04 10:35:55 +0000     4280 byte  src/codegeneration/ProperTailCallTransformer.js</tspan>
-<tspan x="10" y="6938">331.  2017-04-04 10:35:55 +0000     1212 byte  src/codegeneration/PropertyNameShorthandTransform\</tspan>
+<tspan x="10" y="6746">319.  2017-04-04 10:37:17 +0000     6630 byte  src/codegeneration/MemberVariableTransformer.js</tspan>
+<tspan x="10" y="6762">320.  2017-04-04 10:37:17 +0000    11220 byte  src/codegeneration/ModuleTransformer.js</tspan>
+<tspan x="10" y="6778">321.  2017-04-04 10:37:17 +0000     1814 byte  src/codegeneration/MultiTransformer.js</tspan>
+<tspan x="10" y="6794">322.  2017-04-04 10:37:17 +0000     1601 byte  src/codegeneration/NumericLiteralTransformer.js</tspan>
+<tspan x="10" y="6810">323.  2017-04-04 10:37:17 +0000    10477 byte  src/codegeneration/ObjectLiteralTransformer.js</tspan>
+<tspan x="10" y="6826">324.  2017-04-04 10:37:17 +0000     2680 byte  src/codegeneration/ParameterTransformer.js</tspan>
+<tspan x="10" y="6842">325.  2017-04-04 10:37:17 +0000     5739 byte  src/codegeneration/ParenTrait.js</tspan>
+<tspan x="10" y="6858">326.  2017-04-04 10:37:17 +0000    21541 byte  src/codegeneration/ParseTreeFactory.js</tspan>
+<tspan x="10" y="6874">327.  2017-04-04 10:37:17 +0000    36893 byte  src/codegeneration/ParseTreeTransformer.js</tspan>
+<tspan x="10" y="6890">328.  2017-04-04 10:37:17 +0000    10641 byte  src/codegeneration/PlaceholderParser.js</tspan>
+<tspan x="10" y="6906">329.  2017-04-04 10:37:17 +0000     1416 byte  src/codegeneration/PrependStatements.js</tspan>
+<tspan x="10" y="6922">330.  2017-04-04 10:37:17 +0000     4280 byte  src/codegeneration/ProperTailCallTransformer.js</tspan>
+<tspan x="10" y="6938">331.  2017-04-04 10:37:17 +0000     1212 byte  src/codegeneration/PropertyNameShorthandTransform\</tspan>
 <tspan x="10" y="6954">er.js</tspan>
-<tspan x="10" y="6970">332.  2017-04-04 10:35:55 +0000     2642 byte  src/codegeneration/PureES6Transformer.js</tspan>
-<tspan x="10" y="6986">333.  2017-04-04 10:35:55 +0000     1667 byte  src/codegeneration/RegularExpressionTransformer.j\</tspan>
+<tspan x="10" y="6970">332.  2017-04-04 10:37:17 +0000     2642 byte  src/codegeneration/PureES6Transformer.js</tspan>
+<tspan x="10" y="6986">333.  2017-04-04 10:37:17 +0000     1667 byte  src/codegeneration/RegularExpressionTransformer.j\</tspan>
 <tspan x="10" y="7002">s</tspan>
-<tspan x="10" y="7018">334.  2017-04-04 10:35:55 +0000     2533 byte  src/codegeneration/RestParameterTransformer.js</tspan>
-<tspan x="10" y="7034">335.  2017-04-04 10:35:55 +0000     2513 byte  src/codegeneration/RewriteTailCallsTransformer.js</tspan>
-<tspan x="10" y="7050">336.  2017-04-04 10:35:55 +0000     5645 byte  src/codegeneration/RewriteTailExpressionsTransfor\</tspan>
+<tspan x="10" y="7018">334.  2017-04-04 10:37:17 +0000     2533 byte  src/codegeneration/RestParameterTransformer.js</tspan>
+<tspan x="10" y="7034">335.  2017-04-04 10:37:17 +0000     2513 byte  src/codegeneration/RewriteTailCallsTransformer.js</tspan>
+<tspan x="10" y="7050">336.  2017-04-04 10:37:17 +0000     5645 byte  src/codegeneration/RewriteTailExpressionsTransfor\</tspan>
 <tspan x="10" y="7066">mer.js</tspan>
-<tspan x="10" y="7082">337.  2017-04-04 10:35:55 +0000     8448 byte  src/codegeneration/ScopeTransformer.js</tspan>
-<tspan x="10" y="7098">338.  2017-04-04 10:35:55 +0000     3170 byte  src/codegeneration/SkipFunctionsTransformerTrait.\</tspan>
+<tspan x="10" y="7082">337.  2017-04-04 10:37:17 +0000     8448 byte  src/codegeneration/ScopeTransformer.js</tspan>
+<tspan x="10" y="7098">338.  2017-04-04 10:37:17 +0000     3170 byte  src/codegeneration/SkipFunctionsTransformerTrait.\</tspan>
 <tspan x="10" y="7114">js</tspan>
-<tspan x="10" y="7130">339.  2017-04-04 10:35:55 +0000     2562 byte  src/codegeneration/SpreadPropertiesTransformer.js</tspan>
-<tspan x="10" y="7146">340.  2017-04-04 10:35:55 +0000     5855 byte  src/codegeneration/SpreadTransformer.js</tspan>
-<tspan x="10" y="7162">341.  2017-04-04 10:35:55 +0000    11835 byte  src/codegeneration/SuperTransformer.js</tspan>
-<tspan x="10" y="7178">342.  2017-04-04 10:35:55 +0000     4044 byte  src/codegeneration/SymbolTransformer.js</tspan>
-<tspan x="10" y="7194">343.  2017-04-04 10:35:55 +0000     7523 byte  src/codegeneration/TempVarTransformer.js</tspan>
-<tspan x="10" y="7210">344.  2017-04-04 10:35:55 +0000     8006 byte  src/codegeneration/TemplateLiteralTransformer.js</tspan>
-<tspan x="10" y="7226">345.  2017-04-04 10:35:55 +0000     1635 byte  src/codegeneration/TypeToExpressionTransformer.js</tspan>
-<tspan x="10" y="7242">346.  2017-04-04 10:35:55 +0000     3541 byte  src/codegeneration/TypeTransformer.js</tspan>
-<tspan x="10" y="7258">347.  2017-04-04 10:35:55 +0000     2070 byte  src/codegeneration/UnicodeEscapeSequenceTransform\</tspan>
+<tspan x="10" y="7130">339.  2017-04-04 10:37:17 +0000     2562 byte  src/codegeneration/SpreadPropertiesTransformer.js</tspan>
+<tspan x="10" y="7146">340.  2017-04-04 10:37:17 +0000     5855 byte  src/codegeneration/SpreadTransformer.js</tspan>
+<tspan x="10" y="7162">341.  2017-04-04 10:37:17 +0000    11835 byte  src/codegeneration/SuperTransformer.js</tspan>
+<tspan x="10" y="7178">342.  2017-04-04 10:37:17 +0000     4044 byte  src/codegeneration/SymbolTransformer.js</tspan>
+<tspan x="10" y="7194">343.  2017-04-04 10:37:17 +0000     7523 byte  src/codegeneration/TempVarTransformer.js</tspan>
+<tspan x="10" y="7210">344.  2017-04-04 10:37:17 +0000     8006 byte  src/codegeneration/TemplateLiteralTransformer.js</tspan>
+<tspan x="10" y="7226">345.  2017-04-04 10:37:17 +0000     1635 byte  src/codegeneration/TypeToExpressionTransformer.js</tspan>
+<tspan x="10" y="7242">346.  2017-04-04 10:37:17 +0000     3541 byte  src/codegeneration/TypeTransformer.js</tspan>
+<tspan x="10" y="7258">347.  2017-04-04 10:37:17 +0000     2070 byte  src/codegeneration/UnicodeEscapeSequenceTransform\</tspan>
 <tspan x="10" y="7274">er.js</tspan>
-<tspan x="10" y="7290">348.  2017-04-04 10:35:55 +0000      803 byte  src/codegeneration/UniqueIdentifierGenerator.js</tspan>
-<tspan x="10" y="7306">349.  2017-04-04 10:35:55 +0000     1264 byte  src/codegeneration/alphaRenameThisAndArguments.js</tspan>
-<tspan x="10" y="7322">350.  2017-04-04 10:35:55 +0000     1844 byte  src/codegeneration/assignmentOperatorToBinaryOper\</tspan>
+<tspan x="10" y="7290">348.  2017-04-04 10:37:17 +0000      803 byte  src/codegeneration/UniqueIdentifierGenerator.js</tspan>
+<tspan x="10" y="7306">349.  2017-04-04 10:37:17 +0000     1264 byte  src/codegeneration/alphaRenameThisAndArguments.js</tspan>
+<tspan x="10" y="7322">350.  2017-04-04 10:37:17 +0000     1844 byte  src/codegeneration/assignmentOperatorToBinaryOper\</tspan>
 <tspan x="10" y="7338">ator.js</tspan>
-<tspan x="10" y="7354">351.  2017-04-04 10:35:55 +0000     6924 byte  src/codegeneration/generator/AsyncTransformer.js</tspan>
-<tspan x="10" y="7370">352.  2017-04-04 10:35:55 +0000     2078 byte  src/codegeneration/generator/AwaitState.js</tspan>
-<tspan x="10" y="7386">353.  2017-04-04 10:35:55 +0000     4083 byte  src/codegeneration/generator/BreakContinueTransfo\</tspan>
+<tspan x="10" y="7354">351.  2017-04-04 10:37:17 +0000     6924 byte  src/codegeneration/generator/AsyncTransformer.js</tspan>
+<tspan x="10" y="7370">352.  2017-04-04 10:37:17 +0000     2078 byte  src/codegeneration/generator/AwaitState.js</tspan>
+<tspan x="10" y="7386">353.  2017-04-04 10:37:17 +0000     4083 byte  src/codegeneration/generator/BreakContinueTransfo\</tspan>
 <tspan x="10" y="7402">rmer.js</tspan>
-<tspan x="10" y="7418">354.  2017-04-04 10:35:55 +0000     2120 byte  src/codegeneration/generator/BreakState.js</tspan>
-<tspan x="10" y="7434">355.  2017-04-04 10:35:55 +0000    43562 byte  src/codegeneration/generator/CPSTransformer.js</tspan>
-<tspan x="10" y="7450">356.  2017-04-04 10:35:55 +0000     1867 byte  src/codegeneration/generator/CatchState.js</tspan>
-<tspan x="10" y="7466">357.  2017-04-04 10:35:55 +0000     2550 byte  src/codegeneration/generator/ConditionalState.js</tspan>
-<tspan x="10" y="7482">358.  2017-04-04 10:35:55 +0000     2017 byte  src/codegeneration/generator/ContinueState.js</tspan>
-<tspan x="10" y="7498">359.  2017-04-04 10:35:55 +0000     1177 byte  src/codegeneration/generator/EndState.js</tspan>
-<tspan x="10" y="7514">360.  2017-04-04 10:35:55 +0000     1623 byte  src/codegeneration/generator/FallThroughState.js</tspan>
-<tspan x="10" y="7530">361.  2017-04-04 10:35:55 +0000     1840 byte  src/codegeneration/generator/FinallyFallThroughSt\</tspan>
+<tspan x="10" y="7418">354.  2017-04-04 10:37:17 +0000     2120 byte  src/codegeneration/generator/BreakState.js</tspan>
+<tspan x="10" y="7434">355.  2017-04-04 10:37:17 +0000    43562 byte  src/codegeneration/generator/CPSTransformer.js</tspan>
+<tspan x="10" y="7450">356.  2017-04-04 10:37:17 +0000     1867 byte  src/codegeneration/generator/CatchState.js</tspan>
+<tspan x="10" y="7466">357.  2017-04-04 10:37:17 +0000     2550 byte  src/codegeneration/generator/ConditionalState.js</tspan>
+<tspan x="10" y="7482">358.  2017-04-04 10:37:17 +0000     2017 byte  src/codegeneration/generator/ContinueState.js</tspan>
+<tspan x="10" y="7498">359.  2017-04-04 10:37:17 +0000     1177 byte  src/codegeneration/generator/EndState.js</tspan>
+<tspan x="10" y="7514">360.  2017-04-04 10:37:17 +0000     1623 byte  src/codegeneration/generator/FallThroughState.js</tspan>
+<tspan x="10" y="7530">361.  2017-04-04 10:37:17 +0000     1840 byte  src/codegeneration/generator/FinallyFallThroughSt\</tspan>
 <tspan x="10" y="7546">ate.js</tspan>
-<tspan x="10" y="7562">362.  2017-04-04 10:35:55 +0000     1758 byte  src/codegeneration/generator/FinallyState.js</tspan>
-<tspan x="10" y="7578">363.  2017-04-04 10:35:55 +0000     5257 byte  src/codegeneration/generator/ForInTransformPass.j\</tspan>
+<tspan x="10" y="7562">362.  2017-04-04 10:37:17 +0000     1758 byte  src/codegeneration/generator/FinallyState.js</tspan>
+<tspan x="10" y="7578">363.  2017-04-04 10:37:17 +0000     5257 byte  src/codegeneration/generator/ForInTransformPass.j\</tspan>
 <tspan x="10" y="7594">s</tspan>
-<tspan x="10" y="7610">364.  2017-04-04 10:35:55 +0000     9672 byte  src/codegeneration/generator/GeneratorTransformer\</tspan>
+<tspan x="10" y="7610">364.  2017-04-04 10:37:17 +0000     9672 byte  src/codegeneration/generator/GeneratorTransformer\</tspan>
 <tspan x="10" y="7626">.js</tspan>
-<tspan x="10" y="7642">365.  2017-04-04 10:35:55 +0000     1451 byte  src/codegeneration/generator/ReturnState.js</tspan>
-<tspan x="10" y="7658">366.  2017-04-04 10:35:55 +0000     5044 byte  src/codegeneration/generator/State.js</tspan>
-<tspan x="10" y="7674">367.  2017-04-04 10:35:55 +0000      857 byte  src/codegeneration/generator/StateAllocator.js</tspan>
-<tspan x="10" y="7690">368.  2017-04-04 10:35:55 +0000     2810 byte  src/codegeneration/generator/SwitchState.js</tspan>
-<tspan x="10" y="7706">369.  2017-04-04 10:35:55 +0000     1766 byte  src/codegeneration/generator/TryState.js</tspan>
-<tspan x="10" y="7722">370.  2017-04-04 10:35:55 +0000     1969 byte  src/codegeneration/generator/YieldState.js</tspan>
-<tspan x="10" y="7738">371.  2017-04-04 10:35:55 +0000      789 byte  src/codegeneration/globalThis.js</tspan>
-<tspan x="10" y="7754">372.  2017-04-04 10:35:55 +0000     1190 byte  src/codegeneration/module/AttachModuleNameTransfo\</tspan>
+<tspan x="10" y="7642">365.  2017-04-04 10:37:17 +0000     1451 byte  src/codegeneration/generator/ReturnState.js</tspan>
+<tspan x="10" y="7658">366.  2017-04-04 10:37:17 +0000     5044 byte  src/codegeneration/generator/State.js</tspan>
+<tspan x="10" y="7674">367.  2017-04-04 10:37:17 +0000      857 byte  src/codegeneration/generator/StateAllocator.js</tspan>
+<tspan x="10" y="7690">368.  2017-04-04 10:37:17 +0000     2810 byte  src/codegeneration/generator/SwitchState.js</tspan>
+<tspan x="10" y="7706">369.  2017-04-04 10:37:17 +0000     1766 byte  src/codegeneration/generator/TryState.js</tspan>
+<tspan x="10" y="7722">370.  2017-04-04 10:37:17 +0000     1969 byte  src/codegeneration/generator/YieldState.js</tspan>
+<tspan x="10" y="7738">371.  2017-04-04 10:37:17 +0000      789 byte  src/codegeneration/globalThis.js</tspan>
+<tspan x="10" y="7754">372.  2017-04-04 10:37:17 +0000     1190 byte  src/codegeneration/module/AttachModuleNameTransfo\</tspan>
 <tspan x="10" y="7770">rmer.js</tspan>
-<tspan x="10" y="7786">373.  2017-04-04 10:35:55 +0000     1635 byte  src/codegeneration/module/DirectExportVisitor.js</tspan>
-<tspan x="10" y="7802">374.  2017-04-04 10:35:55 +0000     1539 byte  src/codegeneration/module/ExportListBuilder.js</tspan>
-<tspan x="10" y="7818">375.  2017-04-04 10:35:55 +0000     3218 byte  src/codegeneration/module/ExportVisitor.js</tspan>
-<tspan x="10" y="7834">376.  2017-04-04 10:35:55 +0000     1264 byte  src/codegeneration/module/ModuleSpecifierVisitor.\</tspan>
+<tspan x="10" y="7786">373.  2017-04-04 10:37:17 +0000     1635 byte  src/codegeneration/module/DirectExportVisitor.js</tspan>
+<tspan x="10" y="7802">374.  2017-04-04 10:37:17 +0000     1539 byte  src/codegeneration/module/ExportListBuilder.js</tspan>
+<tspan x="10" y="7818">375.  2017-04-04 10:37:17 +0000     3218 byte  src/codegeneration/module/ExportVisitor.js</tspan>
+<tspan x="10" y="7834">376.  2017-04-04 10:37:17 +0000     1264 byte  src/codegeneration/module/ModuleSpecifierVisitor.\</tspan>
 <tspan x="10" y="7850">js</tspan>
-<tspan x="10" y="7866">377.  2017-04-04 10:35:55 +0000     2197 byte  src/codegeneration/module/ModuleSymbol.js</tspan>
-<tspan x="10" y="7882">378.  2017-04-04 10:35:55 +0000     2275 byte  src/codegeneration/module/ModuleVisitor.js</tspan>
-<tspan x="10" y="7898">379.  2017-04-04 10:35:55 +0000     3444 byte  src/codegeneration/module/ValidationVisitor.js</tspan>
-<tspan x="10" y="7914">380.  2017-04-04 10:35:55 +0000      795 byte  src/codegeneration/module/createModuleEvaluationS\</tspan>
+<tspan x="10" y="7866">377.  2017-04-04 10:37:17 +0000     2197 byte  src/codegeneration/module/ModuleSymbol.js</tspan>
+<tspan x="10" y="7882">378.  2017-04-04 10:37:17 +0000     2275 byte  src/codegeneration/module/ModuleVisitor.js</tspan>
+<tspan x="10" y="7898">379.  2017-04-04 10:37:17 +0000     3444 byte  src/codegeneration/module/ValidationVisitor.js</tspan>
+<tspan x="10" y="7914">380.  2017-04-04 10:37:17 +0000      795 byte  src/codegeneration/module/createModuleEvaluationS\</tspan>
 <tspan x="10" y="7930">tatement.js</tspan>
-<tspan x="10" y="7946">381.  2017-04-04 10:35:55 +0000      916 byte  src/codegeneration/scopeContainsThis.js</tspan>
-<tspan x="10" y="7962">382.  2017-04-04 10:35:55 +0000     2284 byte  src/compiler-imports.js</tspan>
-<tspan x="10" y="7978">383.  2017-04-04 10:35:55 +0000     1218 byte  src/loader/InlineLoaderCompiler.js</tspan>
-<tspan x="10" y="7994">384.  2017-04-04 10:35:55 +0000    16754 byte  src/loader/InternalLoader.js</tspan>
-<tspan x="10" y="8010">385.  2017-04-04 10:35:55 +0000     2979 byte  src/loader/Loader.js</tspan>
-<tspan x="10" y="8026">386.  2017-04-04 10:35:55 +0000     4169 byte  src/loader/LoaderCompiler.js</tspan>
-<tspan x="10" y="8042">387.  2017-04-04 10:35:55 +0000      642 byte  src/loader/ModuleStore.js</tspan>
-<tspan x="10" y="8058">388.  2017-04-04 10:35:55 +0000     9397 byte  src/loader/ModuleStoreImpl.js</tspan>
-<tspan x="10" y="8074">389.  2017-04-04 10:35:55 +0000     1414 byte  src/loader/NodeTraceurLoader.js</tspan>
-<tspan x="10" y="8090">390.  2017-04-04 10:35:55 +0000    10060 byte  src/loader/TraceurLoader.js</tspan>
-<tspan x="10" y="8106">391.  2017-04-04 10:35:55 +0000     1139 byte  src/loader/loader-imports.js</tspan>
-<tspan x="10" y="8122">392.  2017-04-04 10:35:55 +0000     3250 byte  src/loader/system-map.js</tspan>
-<tspan x="10" y="8138">393.  2017-04-04 10:35:55 +0000       65 byte  src/loader/version.js</tspan>
-<tspan x="10" y="8154">394.  2017-04-04 10:35:55 +0000     1268 byte  src/loader/webLoader.js</tspan>
-<tspan x="10" y="8170">395.  2017-04-04 10:35:55 +0000     2534 byte  src/node/NodeCompiler.js</tspan>
-<tspan x="10" y="8186">396.  2017-04-04 10:35:55 +0000     2278 byte  src/node/NodeLoaderCompiler.js</tspan>
-<tspan x="10" y="8202">397.  2017-04-04 10:35:55 +0000      863 byte  src/node/System.js</tspan>
-<tspan x="10" y="8218">398.  2017-04-04 10:35:55 +0000     2172 byte  src/node/api.js</tspan>
-<tspan x="10" y="8234">399.  2017-04-04 10:35:55 +0000     6367 byte  src/node/command.js</tspan>
-<tspan x="10" y="8250">400.  2017-04-04 10:35:55 +0000     1461 byte  src/node/compileAllJsFilesInDir.js</tspan>
-<tspan x="10" y="8266">401.  2017-04-04 10:35:55 +0000     3351 byte  src/node/deferred.js</tspan>
-<tspan x="10" y="8282">402.  2017-04-04 10:35:55 +0000     2203 byte  src/node/file-util.js</tspan>
-<tspan x="10" y="8298">403.  2017-04-04 10:35:55 +0000     1556 byte  src/node/get-dependencies.js</tspan>
-<tspan x="10" y="8314">404.  2017-04-04 10:35:55 +0000     1163 byte  src/node/interpreter.js</tspan>
-<tspan x="10" y="8330">405.  2017-04-04 10:35:55 +0000     1149 byte  src/node/nodeLoader.js</tspan>
-<tspan x="10" y="8346">406.  2017-04-04 10:35:55 +0000     5597 byte  src/node/recursiveModuleCompile.js</tspan>
-<tspan x="10" y="8362">407.  2017-04-04 10:35:55 +0000     2095 byte  src/node/require.js</tspan>
-<tspan x="10" y="8378">408.  2017-04-04 10:35:55 +0000      985 byte  src/node/to-amd-compiler.js</tspan>
-<tspan x="10" y="8394">409.  2017-04-04 10:35:55 +0000      993 byte  src/node/to-closure-compiler.js</tspan>
-<tspan x="10" y="8410">410.  2017-04-04 10:35:55 +0000      997 byte  src/node/to-commonjs-compiler.js</tspan>
-<tspan x="10" y="8426">411.  2017-04-04 10:35:55 +0000     1092 byte  src/node/traceur.js</tspan>
-<tspan x="10" y="8442">412.  2017-04-04 10:35:55 +0000     5919 byte  src/outputgeneration/ParseTreeMapWriter.js</tspan>
-<tspan x="10" y="8458">413.  2017-04-04 10:35:55 +0000    37511 byte  src/outputgeneration/ParseTreeWriter.js</tspan>
-<tspan x="10" y="8474">414.  2017-04-04 10:35:55 +0000    76937 byte  src/outputgeneration/SourceMapIntegration.js</tspan>
-<tspan x="10" y="8490">415.  2017-04-04 10:35:55 +0000     2590 byte  src/outputgeneration/SourceMapIntegration.js-temp\</tspan>
+<tspan x="10" y="7946">381.  2017-04-04 10:37:17 +0000      916 byte  src/codegeneration/scopeContainsThis.js</tspan>
+<tspan x="10" y="7962">382.  2017-04-04 10:37:17 +0000     2284 byte  src/compiler-imports.js</tspan>
+<tspan x="10" y="7978">383.  2017-04-04 10:37:17 +0000     1218 byte  src/loader/InlineLoaderCompiler.js</tspan>
+<tspan x="10" y="7994">384.  2017-04-04 10:37:17 +0000    16754 byte  src/loader/InternalLoader.js</tspan>
+<tspan x="10" y="8010">385.  2017-04-04 10:37:17 +0000     2979 byte  src/loader/Loader.js</tspan>
+<tspan x="10" y="8026">386.  2017-04-04 10:37:17 +0000     4169 byte  src/loader/LoaderCompiler.js</tspan>
+<tspan x="10" y="8042">387.  2017-04-04 10:37:17 +0000      642 byte  src/loader/ModuleStore.js</tspan>
+<tspan x="10" y="8058">388.  2017-04-04 10:37:17 +0000     9397 byte  src/loader/ModuleStoreImpl.js</tspan>
+<tspan x="10" y="8074">389.  2017-04-04 10:37:17 +0000     1414 byte  src/loader/NodeTraceurLoader.js</tspan>
+<tspan x="10" y="8090">390.  2017-04-04 10:37:17 +0000    10060 byte  src/loader/TraceurLoader.js</tspan>
+<tspan x="10" y="8106">391.  2017-04-04 10:37:17 +0000     1139 byte  src/loader/loader-imports.js</tspan>
+<tspan x="10" y="8122">392.  2017-04-04 10:37:17 +0000     3250 byte  src/loader/system-map.js</tspan>
+<tspan x="10" y="8138">393.  2017-04-04 10:37:17 +0000       65 byte  src/loader/version.js</tspan>
+<tspan x="10" y="8154">394.  2017-04-04 10:37:17 +0000     1268 byte  src/loader/webLoader.js</tspan>
+<tspan x="10" y="8170">395.  2017-04-04 10:37:17 +0000     2534 byte  src/node/NodeCompiler.js</tspan>
+<tspan x="10" y="8186">396.  2017-04-04 10:37:17 +0000     2278 byte  src/node/NodeLoaderCompiler.js</tspan>
+<tspan x="10" y="8202">397.  2017-04-04 10:37:17 +0000      863 byte  src/node/System.js</tspan>
+<tspan x="10" y="8218">398.  2017-04-04 10:37:17 +0000     2172 byte  src/node/api.js</tspan>
+<tspan x="10" y="8234">399.  2017-04-04 10:37:17 +0000     6367 byte  src/node/command.js</tspan>
+<tspan x="10" y="8250">400.  2017-04-04 10:37:17 +0000     1461 byte  src/node/compileAllJsFilesInDir.js</tspan>
+<tspan x="10" y="8266">401.  2017-04-04 10:37:17 +0000     3351 byte  src/node/deferred.js</tspan>
+<tspan x="10" y="8282">402.  2017-04-04 10:37:17 +0000     2203 byte  src/node/file-util.js</tspan>
+<tspan x="10" y="8298">403.  2017-04-04 10:37:17 +0000     1556 byte  src/node/get-dependencies.js</tspan>
+<tspan x="10" y="8314">404.  2017-04-04 10:37:17 +0000     1163 byte  src/node/interpreter.js</tspan>
+<tspan x="10" y="8330">405.  2017-04-04 10:37:17 +0000     1149 byte  src/node/nodeLoader.js</tspan>
+<tspan x="10" y="8346">406.  2017-04-04 10:37:17 +0000     5597 byte  src/node/recursiveModuleCompile.js</tspan>
+<tspan x="10" y="8362">407.  2017-04-04 10:37:17 +0000     2095 byte  src/node/require.js</tspan>
+<tspan x="10" y="8378">408.  2017-04-04 10:37:17 +0000      985 byte  src/node/to-amd-compiler.js</tspan>
+<tspan x="10" y="8394">409.  2017-04-04 10:37:17 +0000      993 byte  src/node/to-closure-compiler.js</tspan>
+<tspan x="10" y="8410">410.  2017-04-04 10:37:17 +0000      997 byte  src/node/to-commonjs-compiler.js</tspan>
+<tspan x="10" y="8426">411.  2017-04-04 10:37:17 +0000     1092 byte  src/node/traceur.js</tspan>
+<tspan x="10" y="8442">412.  2017-04-04 10:37:17 +0000     5919 byte  src/outputgeneration/ParseTreeMapWriter.js</tspan>
+<tspan x="10" y="8458">413.  2017-04-04 10:37:17 +0000    37511 byte  src/outputgeneration/ParseTreeWriter.js</tspan>
+<tspan x="10" y="8474">414.  2017-04-04 10:37:17 +0000    76937 byte  src/outputgeneration/SourceMapIntegration.js</tspan>
+<tspan x="10" y="8490">415.  2017-04-04 10:37:17 +0000     2590 byte  src/outputgeneration/SourceMapIntegration.js-temp\</tspan>
 <tspan x="10" y="8506">late</tspan>
-<tspan x="10" y="8522">416.  2017-04-04 10:35:55 +0000     1446 byte  src/outputgeneration/TreeWriter.js</tspan>
-<tspan x="10" y="8538">417.  2017-04-04 10:35:55 +0000    87385 byte  src/outputgeneration/regexpuRewritePattern.js</tspan>
-<tspan x="10" y="8554">418.  2017-04-04 10:35:55 +0000     1682 byte  src/outputgeneration/regexpuRewritePattern.js-tem\</tspan>
+<tspan x="10" y="8522">416.  2017-04-04 10:37:17 +0000     1446 byte  src/outputgeneration/TreeWriter.js</tspan>
+<tspan x="10" y="8538">417.  2017-04-04 10:37:17 +0000    87385 byte  src/outputgeneration/regexpuRewritePattern.js</tspan>
+<tspan x="10" y="8554">418.  2017-04-04 10:37:17 +0000     1682 byte  src/outputgeneration/regexpuRewritePattern.js-tem\</tspan>
 <tspan x="10" y="8570">plate</tspan>
-<tspan x="10" y="8586">419.  2017-04-04 10:35:55 +0000     2062 byte  src/outputgeneration/toSource.js</tspan>
-<tspan x="10" y="8602">420.  2017-04-04 10:35:55 +0000     1251 byte  src/runtime/async.js</tspan>
-<tspan x="10" y="8618">421.  2017-04-04 10:35:55 +0000      883 byte  src/runtime/checkObjectCoercible.js</tspan>
-<tspan x="10" y="8634">422.  2017-04-04 10:35:55 +0000      972 byte  src/runtime/classes.js</tspan>
-<tspan x="10" y="8650">423.  2017-04-04 10:35:55 +0000      706 byte  src/runtime/destructuring.js</tspan>
-<tspan x="10" y="8666">424.  2017-04-04 10:35:55 +0000      686 byte  src/runtime/exportStar.js</tspan>
-<tspan x="10" y="8682">425.  2017-04-04 10:35:55 +0000     1227 byte  src/runtime/frozen-data.js</tspan>
-<tspan x="10" y="8698">426.  2017-04-04 10:35:55 +0000      961 byte  src/runtime/generators.js</tspan>
-<tspan x="10" y="8714">427.  2017-04-04 10:35:55 +0000      743 byte  src/runtime/global-imports.js</tspan>
-<tspan x="10" y="8730">428.  2017-04-04 10:35:55 +0000      728 byte  src/runtime/has-native-symbols.js</tspan>
-<tspan x="10" y="8746">429.  2017-04-04 10:35:55 +0000      710 byte  src/runtime/jsx.js</tspan>
-<tspan x="10" y="8762">430.  2017-04-04 10:35:55 +0000     4920 byte  src/runtime/modules/async.js</tspan>
-<tspan x="10" y="8778">431.  2017-04-04 10:35:55 +0000      649 byte  src/runtime/modules/asyncWrap.js</tspan>
-<tspan x="10" y="8794">432.  2017-04-04 10:35:55 +0000      653 byte  src/runtime/modules/call.js</tspan>
-<tspan x="10" y="8810">433.  2017-04-04 10:35:55 +0000      654 byte  src/runtime/modules/construct.js</tspan>
-<tspan x="10" y="8826">434.  2017-04-04 10:35:55 +0000      663 byte  src/runtime/modules/continuation.js</tspan>
-<tspan x="10" y="8842">435.  2017-04-04 10:35:55 +0000      663 byte  src/runtime/modules/createAsyncGeneratorInstance.\</tspan>
+<tspan x="10" y="8586">419.  2017-04-04 10:37:17 +0000     2062 byte  src/outputgeneration/toSource.js</tspan>
+<tspan x="10" y="8602">420.  2017-04-04 10:37:17 +0000     1251 byte  src/runtime/async.js</tspan>
+<tspan x="10" y="8618">421.  2017-04-04 10:37:17 +0000      883 byte  src/runtime/checkObjectCoercible.js</tspan>
+<tspan x="10" y="8634">422.  2017-04-04 10:37:17 +0000      972 byte  src/runtime/classes.js</tspan>
+<tspan x="10" y="8650">423.  2017-04-04 10:37:17 +0000      706 byte  src/runtime/destructuring.js</tspan>
+<tspan x="10" y="8666">424.  2017-04-04 10:37:17 +0000      686 byte  src/runtime/exportStar.js</tspan>
+<tspan x="10" y="8682">425.  2017-04-04 10:37:17 +0000     1227 byte  src/runtime/frozen-data.js</tspan>
+<tspan x="10" y="8698">426.  2017-04-04 10:37:17 +0000      961 byte  src/runtime/generators.js</tspan>
+<tspan x="10" y="8714">427.  2017-04-04 10:37:17 +0000      743 byte  src/runtime/global-imports.js</tspan>
+<tspan x="10" y="8730">428.  2017-04-04 10:37:17 +0000      728 byte  src/runtime/has-native-symbols.js</tspan>
+<tspan x="10" y="8746">429.  2017-04-04 10:37:17 +0000      710 byte  src/runtime/jsx.js</tspan>
+<tspan x="10" y="8762">430.  2017-04-04 10:37:17 +0000     4920 byte  src/runtime/modules/async.js</tspan>
+<tspan x="10" y="8778">431.  2017-04-04 10:37:17 +0000      649 byte  src/runtime/modules/asyncWrap.js</tspan>
+<tspan x="10" y="8794">432.  2017-04-04 10:37:17 +0000      653 byte  src/runtime/modules/call.js</tspan>
+<tspan x="10" y="8810">433.  2017-04-04 10:37:17 +0000      654 byte  src/runtime/modules/construct.js</tspan>
+<tspan x="10" y="8826">434.  2017-04-04 10:37:17 +0000      663 byte  src/runtime/modules/continuation.js</tspan>
+<tspan x="10" y="8842">435.  2017-04-04 10:37:17 +0000      663 byte  src/runtime/modules/createAsyncGeneratorInstance.\</tspan>
 <tspan x="10" y="8858">js</tspan>
-<tspan x="10" y="8874">436.  2017-04-04 10:35:55 +0000     2481 byte  src/runtime/modules/createClass.js</tspan>
-<tspan x="10" y="8890">437.  2017-04-04 10:35:55 +0000      659 byte  src/runtime/modules/createDecoratedGenerator.js</tspan>
-<tspan x="10" y="8906">438.  2017-04-04 10:35:55 +0000      663 byte  src/runtime/modules/createGeneratorInstance.js</tspan>
-<tspan x="10" y="8922">439.  2017-04-04 10:35:55 +0000     1132 byte  src/runtime/modules/createPrivateName.js</tspan>
-<tspan x="10" y="8938">440.  2017-04-04 10:35:55 +0000     1098 byte  src/runtime/modules/exportStar.js</tspan>
-<tspan x="10" y="8954">441.  2017-04-04 10:35:55 +0000     8757 byte  src/runtime/modules/generators.js</tspan>
-<tspan x="10" y="8970">442.  2017-04-04 10:35:55 +0000     1007 byte  src/runtime/modules/getTemplateObject.js</tspan>
-<tspan x="10" y="8986">443.  2017-04-04 10:35:55 +0000      661 byte  src/runtime/modules/initAsyncGeneratorFunction.js</tspan>
-<tspan x="10" y="9002">444.  2017-04-04 10:35:55 +0000      661 byte  src/runtime/modules/initGeneratorFunction.js</tspan>
-<tspan x="10" y="9018">445.  2017-04-04 10:35:55 +0000      670 byte  src/runtime/modules/initTailRecursiveFunction.js</tspan>
-<tspan x="10" y="9034">446.  2017-04-04 10:35:55 +0000      764 byte  src/runtime/modules/iteratorToArray.js</tspan>
-<tspan x="10" y="9050">447.  2017-04-04 10:35:55 +0000      649 byte  src/runtime/modules/observeForEach.js</tspan>
-<tspan x="10" y="9066">448.  2017-04-04 10:35:55 +0000     3639 byte  src/runtime/modules/properTailCalls.js</tspan>
-<tspan x="10" y="9082">449.  2017-04-04 10:35:55 +0000      643 byte  src/runtime/modules/schedule.js</tspan>
-<tspan x="10" y="9098">450.  2017-04-04 10:35:55 +0000     1149 byte  src/runtime/modules/spawn.js</tspan>
-<tspan x="10" y="9114">451.  2017-04-04 10:35:55 +0000     1208 byte  src/runtime/modules/spread.js</tspan>
-<tspan x="10" y="9130">452.  2017-04-04 10:35:55 +0000     1607 byte  src/runtime/modules/spreadProperties.js</tspan>
-<tspan x="10" y="9146">453.  2017-04-04 10:35:55 +0000      720 byte  src/runtime/modules/superConstructor.js</tspan>
-<tspan x="10" y="9162">454.  2017-04-04 10:35:55 +0000      938 byte  src/runtime/modules/superDescriptor.js</tspan>
-<tspan x="10" y="9178">455.  2017-04-04 10:35:55 +0000      947 byte  src/runtime/modules/superGet.js</tspan>
-<tspan x="10" y="9194">456.  2017-04-04 10:35:55 +0000      951 byte  src/runtime/modules/superSet.js</tspan>
-<tspan x="10" y="9210">457.  2017-04-04 10:35:55 +0000     5642 byte  src/runtime/modules/symbols.js</tspan>
-<tspan x="10" y="9226">458.  2017-04-04 10:35:55 +0000      643 byte  src/runtime/modules/typeof.js</tspan>
-<tspan x="10" y="9242">459.  2017-04-04 10:35:55 +0000      827 byte  src/runtime/new-unique-string.js</tspan>
-<tspan x="10" y="9258">460.  2017-04-04 10:35:55 +0000     1015 byte  src/runtime/polyfills-imports.js</tspan>
-<tspan x="10" y="9274">461.  2017-04-04 10:35:55 +0000     4340 byte  src/runtime/polyfills/Array.js</tspan>
-<tspan x="10" y="9290">462.  2017-04-04 10:35:55 +0000     2419 byte  src/runtime/polyfills/ArrayIterator.js</tspan>
-<tspan x="10" y="9306">463.  2017-04-04 10:35:55 +0000     5799 byte  src/runtime/polyfills/Map.js</tspan>
-<tspan x="10" y="9322">464.  2017-04-04 10:35:55 +0000     5814 byte  src/runtime/polyfills/Math.js</tspan>
-<tspan x="10" y="9338">465.  2017-04-04 10:35:55 +0000     1869 byte  src/runtime/polyfills/Number.js</tspan>
-<tspan x="10" y="9354">466.  2017-04-04 10:35:55 +0000     1583 byte  src/runtime/polyfills/Object.js</tspan>
-<tspan x="10" y="9370">467.  2017-04-04 10:35:55 +0000     7349 byte  src/runtime/polyfills/Promise.js</tspan>
-<tspan x="10" y="9386">468.  2017-04-04 10:35:55 +0000     2394 byte  src/runtime/polyfills/Set.js</tspan>
-<tspan x="10" y="9402">469.  2017-04-04 10:35:55 +0000     7146 byte  src/runtime/polyfills/String.js</tspan>
-<tspan x="10" y="9418">470.  2017-04-04 10:35:55 +0000     1979 byte  src/runtime/polyfills/StringIterator.js</tspan>
-<tspan x="10" y="9434">471.  2017-04-04 10:35:55 +0000     2403 byte  src/runtime/polyfills/WeakMap.js</tspan>
-<tspan x="10" y="9450">472.  2017-04-04 10:35:55 +0000     2188 byte  src/runtime/polyfills/WeakSet.js</tspan>
-<tspan x="10" y="9466">473.  2017-04-04 10:35:55 +0000      978 byte  src/runtime/polyfills/assign.js</tspan>
-<tspan x="10" y="9482">474.  2017-04-04 10:35:55 +0000     3617 byte  src/runtime/polyfills/fround.js</tspan>
-<tspan x="10" y="9498">475.  2017-04-04 10:35:55 +0000      921 byte  src/runtime/polyfills/polyfills.js</tspan>
-<tspan x="10" y="9514">476.  2017-04-04 10:35:55 +0000     3635 byte  src/runtime/polyfills/utils.js</tspan>
-<tspan x="10" y="9530">477.  2017-04-04 10:35:55 +0000     2156 byte  src/runtime/private-symbol.js</tspan>
-<tspan x="10" y="9546">478.  2017-04-04 10:35:55 +0000     1085 byte  src/runtime/private-weak-map.js</tspan>
-<tspan x="10" y="9562">479.  2017-04-04 10:35:55 +0000     1058 byte  src/runtime/private.js</tspan>
-<tspan x="10" y="9578">480.  2017-04-04 10:35:55 +0000     1000 byte  src/runtime/properTailCalls.js</tspan>
-<tspan x="10" y="9594">481.  2017-04-04 10:35:55 +0000     1503 byte  src/runtime/relativeRequire.js</tspan>
-<tspan x="10" y="9610">482.  2017-04-04 10:35:55 +0000      972 byte  src/runtime/runtime-modules.js</tspan>
-<tspan x="10" y="9626">483.  2017-04-04 10:35:55 +0000     1274 byte  src/runtime/runtime.js</tspan>
-<tspan x="10" y="9642">484.  2017-04-04 10:35:55 +0000      665 byte  src/runtime/spawn.js</tspan>
-<tspan x="10" y="9658">485.  2017-04-04 10:35:55 +0000      670 byte  src/runtime/spread.js</tspan>
-<tspan x="10" y="9674">486.  2017-04-04 10:35:55 +0000      660 byte  src/runtime/symbols.js</tspan>
-<tspan x="10" y="9690">487.  2017-04-04 10:35:55 +0000      714 byte  src/runtime/template.js</tspan>
-<tspan x="10" y="9706">488.  2017-04-04 10:35:55 +0000     9839 byte  src/runtime/url.js</tspan>
-<tspan x="10" y="9722">489.  2017-04-04 10:35:55 +0000     2656 byte  src/semantics/ConstChecker.js</tspan>
-<tspan x="10" y="9738">490.  2017-04-04 10:35:55 +0000     2029 byte  src/semantics/ConstructorValidator.js</tspan>
-<tspan x="10" y="9754">491.  2017-04-04 10:35:55 +0000     1347 byte  src/semantics/FreeVariableChecker.js</tspan>
-<tspan x="10" y="9770">492.  2017-04-04 10:35:55 +0000     4965 byte  src/semantics/Scope.js</tspan>
-<tspan x="10" y="9786">493.  2017-04-04 10:35:55 +0000     3397 byte  src/semantics/ScopeChainBuilder.js</tspan>
-<tspan x="10" y="9802">494.  2017-04-04 10:35:55 +0000     2417 byte  src/semantics/ScopeChainBuilderWithReferences.js</tspan>
-<tspan x="10" y="9818">495.  2017-04-04 10:35:55 +0000     1062 byte  src/semantics/ScopeReferences.js</tspan>
-<tspan x="10" y="9834">496.  2017-04-04 10:35:55 +0000     5028 byte  src/semantics/ScopeVisitor.js</tspan>
-<tspan x="10" y="9850">497.  2017-04-04 10:35:55 +0000     3201 byte  src/semantics/VariableBinder.js</tspan>
-<tspan x="10" y="9866">498.  2017-04-04 10:35:55 +0000     1309 byte  src/semantics/bindingsInDestructuringPattern.js</tspan>
-<tspan x="10" y="9882">499.  2017-04-04 10:35:55 +0000     1540 byte  src/semantics/isTreeStrict.js</tspan>
-<tspan x="10" y="9898">500.  2017-04-04 10:35:55 +0000     2025 byte  src/semantics/util.js</tspan>
-<tspan x="10" y="9914">501.  2017-04-04 10:35:55 +0000     1490 byte  src/staticsemantics/PropName.js</tspan>
-<tspan x="10" y="9930">502.  2017-04-04 10:35:55 +0000     1361 byte  src/staticsemantics/isValidSimpleAssignmentTarget\</tspan>
+<tspan x="10" y="8874">436.  2017-04-04 10:37:17 +0000     2481 byte  src/runtime/modules/createClass.js</tspan>
+<tspan x="10" y="8890">437.  2017-04-04 10:37:17 +0000      659 byte  src/runtime/modules/createDecoratedGenerator.js</tspan>
+<tspan x="10" y="8906">438.  2017-04-04 10:37:17 +0000      663 byte  src/runtime/modules/createGeneratorInstance.js</tspan>
+<tspan x="10" y="8922">439.  2017-04-04 10:37:17 +0000     1132 byte  src/runtime/modules/createPrivateName.js</tspan>
+<tspan x="10" y="8938">440.  2017-04-04 10:37:17 +0000     1098 byte  src/runtime/modules/exportStar.js</tspan>
+<tspan x="10" y="8954">441.  2017-04-04 10:37:17 +0000     8757 byte  src/runtime/modules/generators.js</tspan>
+<tspan x="10" y="8970">442.  2017-04-04 10:37:17 +0000     1007 byte  src/runtime/modules/getTemplateObject.js</tspan>
+<tspan x="10" y="8986">443.  2017-04-04 10:37:17 +0000      661 byte  src/runtime/modules/initAsyncGeneratorFunction.js</tspan>
+<tspan x="10" y="9002">444.  2017-04-04 10:37:17 +0000      661 byte  src/runtime/modules/initGeneratorFunction.js</tspan>
+<tspan x="10" y="9018">445.  2017-04-04 10:37:17 +0000      670 byte  src/runtime/modules/initTailRecursiveFunction.js</tspan>
+<tspan x="10" y="9034">446.  2017-04-04 10:37:17 +0000      764 byte  src/runtime/modules/iteratorToArray.js</tspan>
+<tspan x="10" y="9050">447.  2017-04-04 10:37:17 +0000      649 byte  src/runtime/modules/observeForEach.js</tspan>
+<tspan x="10" y="9066">448.  2017-04-04 10:37:17 +0000     3639 byte  src/runtime/modules/properTailCalls.js</tspan>
+<tspan x="10" y="9082">449.  2017-04-04 10:37:17 +0000      643 byte  src/runtime/modules/schedule.js</tspan>
+<tspan x="10" y="9098">450.  2017-04-04 10:37:17 +0000     1149 byte  src/runtime/modules/spawn.js</tspan>
+<tspan x="10" y="9114">451.  2017-04-04 10:37:17 +0000     1208 byte  src/runtime/modules/spread.js</tspan>
+<tspan x="10" y="9130">452.  2017-04-04 10:37:17 +0000     1607 byte  src/runtime/modules/spreadProperties.js</tspan>
+<tspan x="10" y="9146">453.  2017-04-04 10:37:17 +0000      720 byte  src/runtime/modules/superConstructor.js</tspan>
+<tspan x="10" y="9162">454.  2017-04-04 10:37:17 +0000      938 byte  src/runtime/modules/superDescriptor.js</tspan>
+<tspan x="10" y="9178">455.  2017-04-04 10:37:17 +0000      947 byte  src/runtime/modules/superGet.js</tspan>
+<tspan x="10" y="9194">456.  2017-04-04 10:37:17 +0000      951 byte  src/runtime/modules/superSet.js</tspan>
+<tspan x="10" y="9210">457.  2017-04-04 10:37:17 +0000     5642 byte  src/runtime/modules/symbols.js</tspan>
+<tspan x="10" y="9226">458.  2017-04-04 10:37:17 +0000      643 byte  src/runtime/modules/typeof.js</tspan>
+<tspan x="10" y="9242">459.  2017-04-04 10:37:17 +0000      827 byte  src/runtime/new-unique-string.js</tspan>
+<tspan x="10" y="9258">460.  2017-04-04 10:37:17 +0000     1015 byte  src/runtime/polyfills-imports.js</tspan>
+<tspan x="10" y="9274">461.  2017-04-04 10:37:17 +0000     4340 byte  src/runtime/polyfills/Array.js</tspan>
+<tspan x="10" y="9290">462.  2017-04-04 10:37:17 +0000     2419 byte  src/runtime/polyfills/ArrayIterator.js</tspan>
+<tspan x="10" y="9306">463.  2017-04-04 10:37:17 +0000     5799 byte  src/runtime/polyfills/Map.js</tspan>
+<tspan x="10" y="9322">464.  2017-04-04 10:37:17 +0000     5814 byte  src/runtime/polyfills/Math.js</tspan>
+<tspan x="10" y="9338">465.  2017-04-04 10:37:17 +0000     1869 byte  src/runtime/polyfills/Number.js</tspan>
+<tspan x="10" y="9354">466.  2017-04-04 10:37:17 +0000     1583 byte  src/runtime/polyfills/Object.js</tspan>
+<tspan x="10" y="9370">467.  2017-04-04 10:37:17 +0000     7349 byte  src/runtime/polyfills/Promise.js</tspan>
+<tspan x="10" y="9386">468.  2017-04-04 10:37:17 +0000     2394 byte  src/runtime/polyfills/Set.js</tspan>
+<tspan x="10" y="9402">469.  2017-04-04 10:37:17 +0000     7146 byte  src/runtime/polyfills/String.js</tspan>
+<tspan x="10" y="9418">470.  2017-04-04 10:37:17 +0000     1979 byte  src/runtime/polyfills/StringIterator.js</tspan>
+<tspan x="10" y="9434">471.  2017-04-04 10:37:17 +0000     2403 byte  src/runtime/polyfills/WeakMap.js</tspan>
+<tspan x="10" y="9450">472.  2017-04-04 10:37:17 +0000     2188 byte  src/runtime/polyfills/WeakSet.js</tspan>
+<tspan x="10" y="9466">473.  2017-04-04 10:37:17 +0000      978 byte  src/runtime/polyfills/assign.js</tspan>
+<tspan x="10" y="9482">474.  2017-04-04 10:37:17 +0000     3617 byte  src/runtime/polyfills/fround.js</tspan>
+<tspan x="10" y="9498">475.  2017-04-04 10:37:17 +0000      921 byte  src/runtime/polyfills/polyfills.js</tspan>
+<tspan x="10" y="9514">476.  2017-04-04 10:37:17 +0000     3635 byte  src/runtime/polyfills/utils.js</tspan>
+<tspan x="10" y="9530">477.  2017-04-04 10:37:17 +0000     2156 byte  src/runtime/private-symbol.js</tspan>
+<tspan x="10" y="9546">478.  2017-04-04 10:37:17 +0000     1085 byte  src/runtime/private-weak-map.js</tspan>
+<tspan x="10" y="9562">479.  2017-04-04 10:37:17 +0000     1058 byte  src/runtime/private.js</tspan>
+<tspan x="10" y="9578">480.  2017-04-04 10:37:17 +0000     1000 byte  src/runtime/properTailCalls.js</tspan>
+<tspan x="10" y="9594">481.  2017-04-04 10:37:17 +0000     1503 byte  src/runtime/relativeRequire.js</tspan>
+<tspan x="10" y="9610">482.  2017-04-04 10:37:17 +0000      972 byte  src/runtime/runtime-modules.js</tspan>
+<tspan x="10" y="9626">483.  2017-04-04 10:37:17 +0000     1274 byte  src/runtime/runtime.js</tspan>
+<tspan x="10" y="9642">484.  2017-04-04 10:37:17 +0000      665 byte  src/runtime/spawn.js</tspan>
+<tspan x="10" y="9658">485.  2017-04-04 10:37:17 +0000      670 byte  src/runtime/spread.js</tspan>
+<tspan x="10" y="9674">486.  2017-04-04 10:37:17 +0000      660 byte  src/runtime/symbols.js</tspan>
+<tspan x="10" y="9690">487.  2017-04-04 10:37:17 +0000      714 byte  src/runtime/template.js</tspan>
+<tspan x="10" y="9706">488.  2017-04-04 10:37:17 +0000     9839 byte  src/runtime/url.js</tspan>
+<tspan x="10" y="9722">489.  2017-04-04 10:37:17 +0000     2656 byte  src/semantics/ConstChecker.js</tspan>
+<tspan x="10" y="9738">490.  2017-04-04 10:37:17 +0000     2029 byte  src/semantics/ConstructorValidator.js</tspan>
+<tspan x="10" y="9754">491.  2017-04-04 10:37:17 +0000     1347 byte  src/semantics/FreeVariableChecker.js</tspan>
+<tspan x="10" y="9770">492.  2017-04-04 10:37:17 +0000     4965 byte  src/semantics/Scope.js</tspan>
+<tspan x="10" y="9786">493.  2017-04-04 10:37:17 +0000     3397 byte  src/semantics/ScopeChainBuilder.js</tspan>
+<tspan x="10" y="9802">494.  2017-04-04 10:37:17 +0000     2417 byte  src/semantics/ScopeChainBuilderWithReferences.js</tspan>
+<tspan x="10" y="9818">495.  2017-04-04 10:37:17 +0000     1062 byte  src/semantics/ScopeReferences.js</tspan>
+<tspan x="10" y="9834">496.  2017-04-04 10:37:17 +0000     5028 byte  src/semantics/ScopeVisitor.js</tspan>
+<tspan x="10" y="9850">497.  2017-04-04 10:37:17 +0000     3201 byte  src/semantics/VariableBinder.js</tspan>
+<tspan x="10" y="9866">498.  2017-04-04 10:37:17 +0000     1309 byte  src/semantics/bindingsInDestructuringPattern.js</tspan>
+<tspan x="10" y="9882">499.  2017-04-04 10:37:17 +0000     1540 byte  src/semantics/isTreeStrict.js</tspan>
+<tspan x="10" y="9898">500.  2017-04-04 10:37:17 +0000     2025 byte  src/semantics/util.js</tspan>
+<tspan x="10" y="9914">501.  2017-04-04 10:37:17 +0000     1490 byte  src/staticsemantics/PropName.js</tspan>
+<tspan x="10" y="9930">502.  2017-04-04 10:37:17 +0000     1361 byte  src/staticsemantics/isValidSimpleAssignmentTarget\</tspan>
 <tspan x="10" y="9946">.js</tspan>
-<tspan x="10" y="9962">503.  2017-04-04 10:35:55 +0000     3497 byte  src/staticsemantics/validateParameters.js</tspan>
-<tspan x="10" y="9978">504.  2017-04-04 10:35:55 +0000      978 byte  src/syntax/IdentifierToken.js</tspan>
-<tspan x="10" y="9994">505.  2017-04-04 10:35:55 +0000      989 byte  src/syntax/JsxIdentifierToken.js</tspan>
-<tspan x="10" y="10010">506.  2017-04-04 10:35:55 +0000     1074 byte  src/syntax/KeywordToken.js</tspan>
-<tspan x="10" y="10026">507.  2017-04-04 10:35:55 +0000     1791 byte  src/syntax/Keywords.js</tspan>
-<tspan x="10" y="10042">508.  2017-04-04 10:35:55 +0000     3224 byte  src/syntax/LineNumberTable.js</tspan>
-<tspan x="10" y="10058">509.  2017-04-04 10:35:55 +0000     4641 byte  src/syntax/LiteralToken.js</tspan>
-<tspan x="10" y="10074">510.  2017-04-04 10:35:55 +0000    32570 byte  src/syntax/ParseTreeValidator.js</tspan>
-<tspan x="10" y="10090">511.  2017-04-04 10:35:55 +0000    12155 byte  src/syntax/ParseTreeVisitor.js</tspan>
-<tspan x="10" y="10106">512.  2017-04-04 10:35:55 +0000   131388 byte  src/syntax/Parser.js</tspan>
-<tspan x="10" y="10122">513.  2017-04-04 10:35:55 +0000     1930 byte  src/syntax/PredefinedName.js</tspan>
-<tspan x="10" y="10138">514.  2017-04-04 10:35:55 +0000    32657 byte  src/syntax/Scanner.js</tspan>
-<tspan x="10" y="10154">515.  2017-04-04 10:35:55 +0000      930 byte  src/syntax/SourceFile.js</tspan>
-<tspan x="10" y="10170">516.  2017-04-04 10:35:55 +0000     1827 byte  src/syntax/Token.js</tspan>
-<tspan x="10" y="10186">517.  2017-04-04 10:35:55 +0000     4198 byte  src/syntax/TokenType.js</tspan>
-<tspan x="10" y="10202">518.  2017-04-04 10:35:55 +0000    11685 byte  src/syntax/trees/ParseTree.js</tspan>
-<tspan x="10" y="10218">519.  2017-04-04 10:35:55 +0000     7199 byte  src/syntax/trees/ParseTreeType.js</tspan>
-<tspan x="10" y="10234">520.  2017-04-04 10:35:55 +0000    88530 byte  src/syntax/trees/ParseTrees.js</tspan>
-<tspan x="10" y="10250">521.  2017-04-04 10:35:55 +0000     5897 byte  src/syntax/trees/StateMachine.js</tspan>
-<tspan x="10" y="10266">522.  2017-04-04 10:35:55 +0000    20199 byte  src/syntax/trees/trees.json</tspan>
-<tspan x="10" y="10282">523.  2017-04-04 10:35:55 +0000    16770 byte  src/syntax/unicode-tables.js</tspan>
-<tspan x="10" y="10298">524.  2017-04-04 10:35:55 +0000      846 byte  src/traceur-import.js</tspan>
-<tspan x="10" y="10314">525.  2017-04-04 10:35:55 +0000      713 byte  src/traceur.js</tspan>
-<tspan x="10" y="10330">526.  2017-04-04 10:35:55 +0000     1092 byte  src/util-imports.js</tspan>
-<tspan x="10" y="10346">527.  2017-04-04 10:35:55 +0000     1240 byte  src/util/CollectingErrorReporter.js</tspan>
-<tspan x="10" y="10362">528.  2017-04-04 10:35:55 +0000     2184 byte  src/util/ErrorReporter.js</tspan>
-<tspan x="10" y="10378">529.  2017-04-04 10:35:55 +0000     1362 byte  src/util/JSON.js</tspan>
-<tspan x="10" y="10394">530.  2017-04-04 10:35:55 +0000     1044 byte  src/util/MutedErrorReporter.js</tspan>
-<tspan x="10" y="10410">531.  2017-04-04 10:35:55 +0000     1326 byte  src/util/SourcePosition.js</tspan>
-<tspan x="10" y="10426">532.  2017-04-04 10:35:55 +0000      990 byte  src/util/SourceRange.js</tspan>
-<tspan x="10" y="10442">533.  2017-04-04 10:35:55 +0000     1398 byte  src/util/StringMap.js</tspan>
-<tspan x="10" y="10458">534.  2017-04-04 10:35:55 +0000     1268 byte  src/util/StringSet.js</tspan>
-<tspan x="10" y="10474">535.  2017-04-04 10:35:55 +0000     1025 byte  src/util/SyntaxErrorReporter.js</tspan>
-<tspan x="10" y="10490">536.  2017-04-04 10:35:55 +0000      705 byte  src/util/assert.js</tspan>
-<tspan x="10" y="10506">537.  2017-04-04 10:35:55 +0000     2080 byte  src/util/parseProlog.js</tspan>
-<tspan x="10" y="10522">538.  2017-04-04 10:35:55 +0000      835 byte  src/util/url.js</tspan>
-<tspan x="10" y="10538">539.  2017-04-04 10:35:55 +0000       55 byte  traceur</tspan>
+<tspan x="10" y="9962">503.  2017-04-04 10:37:17 +0000     3497 byte  src/staticsemantics/validateParameters.js</tspan>
+<tspan x="10" y="9978">504.  2017-04-04 10:37:17 +0000      978 byte  src/syntax/IdentifierToken.js</tspan>
+<tspan x="10" y="9994">505.  2017-04-04 10:37:17 +0000      989 byte  src/syntax/JsxIdentifierToken.js</tspan>
+<tspan x="10" y="10010">506.  2017-04-04 10:37:17 +0000     1074 byte  src/syntax/KeywordToken.js</tspan>
+<tspan x="10" y="10026">507.  2017-04-04 10:37:17 +0000     1791 byte  src/syntax/Keywords.js</tspan>
+<tspan x="10" y="10042">508.  2017-04-04 10:37:17 +0000     3224 byte  src/syntax/LineNumberTable.js</tspan>
+<tspan x="10" y="10058">509.  2017-04-04 10:37:17 +0000     4641 byte  src/syntax/LiteralToken.js</tspan>
+<tspan x="10" y="10074">510.  2017-04-04 10:37:17 +0000    32570 byte  src/syntax/ParseTreeValidator.js</tspan>
+<tspan x="10" y="10090">511.  2017-04-04 10:37:17 +0000    12155 byte  src/syntax/ParseTreeVisitor.js</tspan>
+<tspan x="10" y="10106">512.  2017-04-04 10:37:17 +0000   131388 byte  src/syntax/Parser.js</tspan>
+<tspan x="10" y="10122">513.  2017-04-04 10:37:17 +0000     1930 byte  src/syntax/PredefinedName.js</tspan>
+<tspan x="10" y="10138">514.  2017-04-04 10:37:17 +0000    32657 byte  src/syntax/Scanner.js</tspan>
+<tspan x="10" y="10154">515.  2017-04-04 10:37:17 +0000      930 byte  src/syntax/SourceFile.js</tspan>
+<tspan x="10" y="10170">516.  2017-04-04 10:37:17 +0000     1827 byte  src/syntax/Token.js</tspan>
+<tspan x="10" y="10186">517.  2017-04-04 10:37:17 +0000     4198 byte  src/syntax/TokenType.js</tspan>
+<tspan x="10" y="10202">518.  2017-04-04 10:37:17 +0000    11685 byte  src/syntax/trees/ParseTree.js</tspan>
+<tspan x="10" y="10218">519.  2017-04-04 10:37:17 +0000     7199 byte  src/syntax/trees/ParseTreeType.js</tspan>
+<tspan x="10" y="10234">520.  2017-04-04 10:37:17 +0000    88530 byte  src/syntax/trees/ParseTrees.js</tspan>
+<tspan x="10" y="10250">521.  2017-04-04 10:37:17 +0000     5897 byte  src/syntax/trees/StateMachine.js</tspan>
+<tspan x="10" y="10266">522.  2017-04-04 10:37:17 +0000    20199 byte  src/syntax/trees/trees.json</tspan>
+<tspan x="10" y="10282">523.  2017-04-04 10:37:17 +0000    16770 byte  src/syntax/unicode-tables.js</tspan>
+<tspan x="10" y="10298">524.  2017-04-04 10:37:17 +0000      846 byte  src/traceur-import.js</tspan>
+<tspan x="10" y="10314">525.  2017-04-04 10:37:17 +0000      713 byte  src/traceur.js</tspan>
+<tspan x="10" y="10330">526.  2017-04-04 10:37:17 +0000     1092 byte  src/util-imports.js</tspan>
+<tspan x="10" y="10346">527.  2017-04-04 10:37:17 +0000     1240 byte  src/util/CollectingErrorReporter.js</tspan>
+<tspan x="10" y="10362">528.  2017-04-04 10:37:17 +0000     2184 byte  src/util/ErrorReporter.js</tspan>
+<tspan x="10" y="10378">529.  2017-04-04 10:37:17 +0000     1362 byte  src/util/JSON.js</tspan>
+<tspan x="10" y="10394">530.  2017-04-04 10:37:17 +0000     1044 byte  src/util/MutedErrorReporter.js</tspan>
+<tspan x="10" y="10410">531.  2017-04-04 10:37:17 +0000     1326 byte  src/util/SourcePosition.js</tspan>
+<tspan x="10" y="10426">532.  2017-04-04 10:37:17 +0000      990 byte  src/util/SourceRange.js</tspan>
+<tspan x="10" y="10442">533.  2017-04-04 10:37:17 +0000     1398 byte  src/util/StringMap.js</tspan>
+<tspan x="10" y="10458">534.  2017-04-04 10:37:17 +0000     1268 byte  src/util/StringSet.js</tspan>
+<tspan x="10" y="10474">535.  2017-04-04 10:37:17 +0000     1025 byte  src/util/SyntaxErrorReporter.js</tspan>
+<tspan x="10" y="10490">536.  2017-04-04 10:37:17 +0000      705 byte  src/util/assert.js</tspan>
+<tspan x="10" y="10506">537.  2017-04-04 10:37:17 +0000     2080 byte  src/util/parseProlog.js</tspan>
+<tspan x="10" y="10522">538.  2017-04-04 10:37:17 +0000      835 byte  src/util/url.js</tspan>
+<tspan x="10" y="10538">539.  2017-04-04 10:37:17 +0000       55 byte  traceur</tspan>
 </text>
 </svg>
