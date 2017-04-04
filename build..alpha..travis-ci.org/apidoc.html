@@ -1,0 +1,498 @@
+<div class="apidocDiv">
+<style>
+/*csslint
+*/
+.apidocDiv {
+    background: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.apidocDiv a[href] {
+    color: #33f;
+    font-weight: bold;
+    text-decoration: none;
+}
+.apidocDiv a[href]:hover {
+    text-decoration: underline;
+}
+.apidocCodeCommentSpan {
+    background: #bbf;
+    color: #000;
+    display: block;
+}
+.apidocCodeKeywordSpan {
+    color: #d00;
+    font-weight: bold;
+}
+.apidocCodePre {
+    background: #eef;
+    border: 1px solid;
+    color: #777;
+    padding: 5px;
+    white-space: pre-wrap;
+}
+.apidocFooterDiv {
+    margin-top: 20px;
+    text-align: center;
+}
+.apidocModuleLi {
+    margin-top: 10px;
+}
+.apidocSectionDiv {
+    border-top: 1px solid;
+    margin-top: 20px;
+}
+.apidocSignatureSpan {
+    color: #777;
+    font-weight: bold;
+}
+</style>
+<h1>api documentation for
+    <a
+
+        href="https://github.com/google/traceur-compiler"
+
+    >traceur (v0.0.111)</a>
+</h1>
+<h4>ES6 to ES5 compiler</h4>
+<div class="apidocSectionDiv"><a
+    href="#apidoc.tableOfContents"
+    id="apidoc.tableOfContents"
+><h1>table of contents</h1></a><ol>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.traceur">module traceur</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.traceur.NodeCompiler">
+            function <span class="apidocSignatureSpan">traceur.</span>NodeCompiler
+            <span class="apidocSignatureSpan">(options, sourceRoot)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.traceur.amdOptions">
+            function <span class="apidocSignatureSpan">traceur.</span>amdOptions
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.traceur.closureOptions">
+            function <span class="apidocSignatureSpan">traceur.</span>closureOptions
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.traceur.commonJSOptions">
+            function <span class="apidocSignatureSpan">traceur.</span>commonJSOptions
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.traceur.compile">
+            function <span class="apidocSignatureSpan">traceur.</span>compile
+            <span class="apidocSignatureSpan">(src, options, sourceName, outputName)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.traceur.compileAllJsFilesInDir">
+            function <span class="apidocSignatureSpan">traceur.</span>compileAllJsFilesInDir
+            <span class="apidocSignatureSpan">(inputDir, outputDir, options)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.traceur.forEachRecursiveModuleCompile">
+            function <span class="apidocSignatureSpan">traceur.</span>forEachRecursiveModuleCompile
+            <span class="apidocSignatureSpan">(outputDir, includes, options)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.traceur.recursiveModuleCompileToSingleFile">
+            function <span class="apidocSignatureSpan">traceur.</span>recursiveModuleCompileToSingleFile
+            <span class="apidocSignatureSpan">(outputFile, includes, options)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">traceur.</span>NodeCompiler.prototype</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">string <span class="apidocSignatureSpan">traceur.</span>RUNTIME_PATH</span>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.traceur.NodeCompiler">module traceur.NodeCompiler</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.traceur.NodeCompiler.NodeCompiler">
+            function <span class="apidocSignatureSpan">traceur.</span>NodeCompiler
+            <span class="apidocSignatureSpan">(options, sourceRoot)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.traceur.NodeCompiler.prototype">module traceur.NodeCompiler.prototype</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.traceur.NodeCompiler.prototype.compileSingleFile">
+            function <span class="apidocSignatureSpan">traceur.NodeCompiler.prototype.</span>compileSingleFile
+            <span class="apidocSignatureSpan">(inputFilePath, outputFilePath, errback)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.traceur.NodeCompiler.prototype.sourceMappingURL">
+            function <span class="apidocSignatureSpan">traceur.NodeCompiler.prototype.</span>sourceMappingURL
+            <span class="apidocSignatureSpan">(filename)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.traceur.NodeCompiler.prototype.writeTreeToFile">
+            function <span class="apidocSignatureSpan">traceur.NodeCompiler.prototype.</span>writeTreeToFile
+            <span class="apidocSignatureSpan">(tree, filename)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+</ol></div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.traceur" id="apidoc.module.traceur">module traceur</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.traceur.NodeCompiler" id="apidoc.element.traceur.NodeCompiler">
+        function <span class="apidocSignatureSpan">traceur.</span>NodeCompiler
+        <span class="apidocSignatureSpan">(options, sourceRoot)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function NodeCompiler(options, sourceRoot) {
+  sourceRoot = sourceRoot || process.cwd();
+  Compiler.call(this, options, sourceRoot);
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.traceur.amdOptions" id="apidoc.element.traceur.amdOptions">
+        function <span class="apidocSignatureSpan">traceur.</span>amdOptions
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">amdOptions = function () {
+  var options = arguments[0] !== (void 0) ? arguments[0] : {};
+  var amdOptions = {
+    modules: &#x27;amd&#x27;,
+    sourceMaps: false,
+    moduleName: false
+  };
+  return merge(amdOptions, options);
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.traceur.closureOptions" id="apidoc.element.traceur.closureOptions">
+        function <span class="apidocSignatureSpan">traceur.</span>closureOptions
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">closureOptions = function () {
+  var options = arguments[0] !== (void 0) ? arguments[0] : {};
+  var closureOptions = {
+    modules: &#x27;closure&#x27;,
+    sourceMaps: false,
+    moduleName: true
+  };
+  return merge(closureOptions, options);
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.traceur.commonJSOptions" id="apidoc.element.traceur.commonJSOptions">
+        function <span class="apidocSignatureSpan">traceur.</span>commonJSOptions
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">commonJSOptions = function () {
+  var options = arguments[0] !== (void 0) ? arguments[0] : {};
+  var commonjsOptions = {
+    modules: &#x27;commonjs&#x27;,
+    sourceMaps: false,
+    moduleName: false
+  };
+  return merge(commonjsOptions, options);
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.traceur.compile" id="apidoc.element.traceur.compile">
+        function <span class="apidocSignatureSpan">traceur.</span>compile
+        <span class="apidocSignatureSpan">(src, options, sourceName, outputName)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function compile(src, options, sourceName, outputName) {
+  sourceName = sourceName || &#x27;&#x3c;compile-source&#x3e;&#x27;;
+  outputName = outputName || &#x27;&#x3c;compile-output&#x3e;&#x27;;
+  return new NodeCompiler(Compiler.commonJSOptions(options)).
+      compile(src, sourceName, outputName);
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.traceur.compileAllJsFilesInDir" id="apidoc.element.traceur.compileAllJsFilesInDir">
+        function <span class="apidocSignatureSpan">traceur.</span>compileAllJsFilesInDir
+        <span class="apidocSignatureSpan">(inputDir, outputDir, options)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function compileAllJsFilesInDir(inputDir, outputDir, options) {
+  inputDir = path.normalize(inputDir).replace(/\\/g, &#x27;/&#x27;);
+  outputDir = path.normalize(outputDir).replace(/\\/g, &#x27;/&#x27;);
+  glob(inputDir + &#x27;/**/*.js&#x27;, {}, function (er, files) {
+    if (er)
+      throw new Error(&#x27;While scanning &#x27; + inputDir + &#x27;: &#x27; + er);
+
+    files.forEach(function(inputFilePath) {
+      var outputFilePath = inputFilePath.replace(inputDir, outputDir);
+      var compiler = new NodeCompiler(options);
+      compiler.compileSingleFile(inputFilePath, outputFilePath, function(err) {
+        throw new Error(&#x27;While reading &#x27; + inputFilePath + &#x27;: &#x27; + err);
+      });
+    });
+  });
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.traceur.forEachRecursiveModuleCompile" id="apidoc.element.traceur.forEachRecursiveModuleCompile">
+        function <span class="apidocSignatureSpan">traceur.</span>forEachRecursiveModuleCompile
+        <span class="apidocSignatureSpan">(outputDir, includes, options)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function forEachRecursiveModuleCompile(outputDir, includes, options) {
+  var outputDir = path.resolve(outputDir);
+  var compiler = new NodeCompiler(options);
+  function getPromise (input) {
+    return recursiveModuleCompile([input], options).then(function(tree) {
+      var outputFileName = path.join(outputDir, input.name);
+      compiler.writeTreeToFile(tree, outputFileName);
+    });
+  }
+  return Promise.all(includes.map(getPromise));
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.traceur.recursiveModuleCompileToSingleFile" id="apidoc.element.traceur.recursiveModuleCompileToSingleFile">
+        function <span class="apidocSignatureSpan">traceur.</span>recursiveModuleCompileToSingleFile
+        <span class="apidocSignatureSpan">(outputFile, includes, options)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function recursiveModuleCompileToSingleFile(outputFile, includes, options) {
+  var resolvedOutputFile = path.resolve(outputFile);
+  var outputDir = path.dirname(resolvedOutputFile);
+
+  // Resolve includes before changing directory.
+  var resolvedIncludes = includes.map(function(include) {
+    include.name = path.resolve(include.name);
+    include.rootModule = true;
+    return include;
+  });
+
+  options.bundle = includes.length &#x3e; 1;
+  var compiler = new NodeCompiler(options);
+
+  mkdirRecursive(outputDir);
+  process.chdir(outputDir);
+  // Make includes relative to output dir so that sourcemap paths are correct.
+  resolvedIncludes = resolvedIncludes.map(function(include) {
+    include.name = normalizePath(path.relative(outputDir, include.name));
+    return include;
+  });
+
+  return recursiveModuleCompile(resolvedIncludes, options)
+      .then(function(tree) {
+        compiler.writeTreeToFile(tree, resolvedOutputFile);
+      }).then(revertCwd, function(err) {
+        revertCwd();
+        throw err;
+      });
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.traceur.NodeCompiler" id="apidoc.module.traceur.NodeCompiler">module traceur.NodeCompiler</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.traceur.NodeCompiler.NodeCompiler" id="apidoc.element.traceur.NodeCompiler.NodeCompiler">
+        function <span class="apidocSignatureSpan">traceur.</span>NodeCompiler
+        <span class="apidocSignatureSpan">(options, sourceRoot)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function NodeCompiler(options, sourceRoot) {
+  sourceRoot = sourceRoot || process.cwd();
+  Compiler.call(this, options, sourceRoot);
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.traceur.NodeCompiler.prototype" id="apidoc.module.traceur.NodeCompiler.prototype">module traceur.NodeCompiler.prototype</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.traceur.NodeCompiler.prototype.compileSingleFile" id="apidoc.element.traceur.NodeCompiler.prototype.compileSingleFile">
+        function <span class="apidocSignatureSpan">traceur.NodeCompiler.prototype.</span>compileSingleFile
+        <span class="apidocSignatureSpan">(inputFilePath, outputFilePath, errback)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">compileSingleFile = function (inputFilePath, outputFilePath, errback) {
+  inputFilePath = this.normalize(inputFilePath);
+  outputFilePath = this.normalize(outputFilePath);
+  fs.readFile(inputFilePath, function(err, contents) {
+    if (err) {
+      errback(err);
+      return;
+    }
+
+    var parsed = this.parse(contents.toString(), inputFilePath);
+    this.writeTreeToFile(this.transform(parsed, inputFilePath),
+                         outputFilePath);
+  }.bind(this));
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.traceur.NodeCompiler.prototype.sourceMappingURL" id="apidoc.element.traceur.NodeCompiler.prototype.sourceMappingURL">
+        function <span class="apidocSignatureSpan">traceur.NodeCompiler.prototype.</span>sourceMappingURL
+        <span class="apidocSignatureSpan">(filename)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">sourceMappingURL = function (filename) {
+  if (this.options_.sourceMaps === &#x27;inline&#x27;) {
+    var base64sm = new Buffer(this.getSourceMap()).toString(&#x27;base64&#x27;);
+    return &#x27;data:application/json;base64,&#x27; + base64sm;
+  }
+  return Compiler.prototype.sourceMappingURL.call(this, filename);
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.traceur.NodeCompiler.prototype.writeTreeToFile" id="apidoc.element.traceur.NodeCompiler.prototype.writeTreeToFile">
+        function <span class="apidocSignatureSpan">traceur.NodeCompiler.prototype.</span>writeTreeToFile
+        <span class="apidocSignatureSpan">(tree, filename)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">writeTreeToFile = function (tree, filename) {
+  filename = this.normalize(filename);
+  var compiledCode = this.write(tree, filename);
+  if (this.options_.sourceMaps === &#x27;file&#x27;) {
+    var sourcemap = this.getSourceMap();
+    if (sourcemap) {
+      var mapName = this.sourceMappingURL(filename);
+      // Write the map file next to the output file.
+      mapName = path.resolve(path.dirname(filename), mapName);
+      writeFile(mapName, sourcemap);
+    }
+  }
+
+  writeFile(filename, compiledCode);
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocFooterDiv">
+    [ this document was created with
+    <a href="https://github.com/kaizhu256/node-utility2" target="_blank">utility2</a>
+    ]
+</div>
+</div>
