@@ -1,9 +1,14 @@
-# api documentation for  [traceur (v0.0.111)](https://github.com/google/traceur-compiler)  [![npm package](https://img.shields.io/npm/v/npmdoc-traceur.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-traceur) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-traceur.svg)](https://travis-ci.org/npmdoc/node-npmdoc-traceur)
+# npmdoc-traceur
+
+#### api documentation for  [traceur (v0.0.111)](https://github.com/google/traceur-compiler)  [![npm package](https://img.shields.io/npm/v/npmdoc-traceur.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-traceur) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-traceur.svg)](https://travis-ci.org/npmdoc/node-npmdoc-traceur)
+
 #### ES6 to ES5 compiler
 
-[![NPM](https://nodei.co/npm/traceur.png?downloads=true)](https://www.npmjs.com/package/traceur)
+[![NPM](https://nodei.co/npm/traceur.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/traceur)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-traceur/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-traceur_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-traceur/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-traceur/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-traceur/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-traceur/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-traceur/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-traceur/build/screenCapture.npmPackageListing.svg)
 
@@ -27,212 +32,160 @@
     },
     "contributors": [
         {
-            "name": "The Chromium Authors",
-            "email": "*@chromium.org"
+            "name": "The Chromium Authors"
         },
         {
-            "name": "Google Inc.",
-            "email": "*@google.com"
+            "name": "Google Inc."
         },
         {
-            "name": "Viktor Kronvall",
-            "email": "viktor.kronvall@gmail.com"
+            "name": "Viktor Kronvall"
         },
         {
-            "name": "Ben Chan",
-            "email": "usrbincc@yahoo.com"
+            "name": "Ben Chan"
         },
         {
-            "name": "Eduard Burtescu",
-            "email": "edy.burt@gmail.com"
+            "name": "Eduard Burtescu"
         },
         {
-            "name": "Peter Hallam",
-            "email": "peter@peterhallam.com"
+            "name": "Peter Hallam"
         },
         {
-            "name": "Nick Schonning",
-            "email": "nschonni@gmail.com"
+            "name": "Nick Schonning"
         },
         {
-            "name": "Kinya TERASAKA",
-            "email": "terasaka.k@gmail.com"
+            "name": "Kinya TERASAKA"
         },
         {
-            "name": "Sean Middleditch",
-            "email": "sean@seanmiddleditch.com"
+            "name": "Sean Middleditch"
         },
         {
-            "name": "Ross Hadden",
-            "email": "ross@rhadden.com"
+            "name": "Ross Hadden"
         },
         {
-            "name": "Stephan Seidt",
-            "email": "stephan.seidt@gmail.com"
+            "name": "Stephan Seidt"
         },
         {
-            "name": "Mathias Bynens",
-            "email": "mathias@qiwi.be"
+            "name": "Mathias Bynens"
         },
         {
-            "name": "Tommy Odom",
-            "email": "tommy.odom@gmail.com"
+            "name": "Tommy Odom"
         },
         {
-            "name": "Rolf Timmermans",
-            "email": "r.w.timmermans@gmail.com"
+            "name": "Rolf Timmermans"
         },
         {
-            "name": "Tomi Belan",
-            "email": "tomi.belan@gmail.com"
+            "name": "Tomi Belan"
         },
         {
-            "name": "James Lal",
-            "email": "james@lightsofapollo.com"
+            "name": "James Lal"
         },
         {
-            "name": "Galimzyanov Dmitry",
-            "email": "dmt021@gmail.com"
+            "name": "Galimzyanov Dmitry"
         },
         {
-            "name": "Rick Waldron",
-            "email": "waldron.rick@gmail.com"
+            "name": "Rick Waldron"
         },
         {
-            "name": "A. Matías Quezada",
-            "email": "amatiasq@gmail.com"
+            "name": "A. Matías Quezada"
         },
         {
-            "name": "Sam Day",
-            "email": "sday@atlassian.com"
+            "name": "Sam Day"
         },
         {
-            "name": "Guy Bedford",
-            "email": "guybedford@gmail.com"
+            "name": "Guy Bedford"
         },
         {
-            "name": "Jeff McRiffey",
-            "email": "jmcriffey@gmail.com"
+            "name": "Jeff McRiffey"
         },
         {
-            "name": "Marius Nita",
-            "email": "m@mariusnita.com"
+            "name": "Marius Nita"
         },
         {
-            "name": "Nick Fitzgerald",
-            "email": "fitzgen@mozilla.com"
+            "name": "Nick Fitzgerald"
         },
         {
-            "name": "Gil Tayar",
-            "email": "gil@tayar.org"
+            "name": "Gil Tayar"
         },
         {
-            "name": "Aleksander Heintz",
-            "email": "alxandr@alxandr.me"
+            "name": "Aleksander Heintz"
         },
         {
-            "name": "Ulrik de Muelenaere",
-            "email": "ulrikdem@gmail.com"
+            "name": "Ulrik de Muelenaere"
         },
         {
-            "name": "Maël Nison",
-            "email": "nison.mael@gmail.com"
+            "name": "Maël Nison"
         },
         {
-            "name": "Shinnosuke Watanabe",
-            "email": "snnskwtnb@gmail.com"
+            "name": "Shinnosuke Watanabe"
         },
         {
-            "name": "Vyacheslav Shebanov",
-            "email": "terminal2010@gmail.com"
+            "name": "Vyacheslav Shebanov"
         },
         {
-            "name": "Fabrício Matté",
-            "email": "ultcombo@gmail.com"
+            "name": "Fabrício Matté"
         },
         {
-            "name": "Jordan Harband",
-            "email": "ljharb@gmail.com"
+            "name": "Jordan Harband"
         },
         {
-            "name": "Martín Ciparelli",
-            "email": "mciparelli@gmail.com"
+            "name": "Martín Ciparelli"
         },
         {
-            "name": "David Håsäther",
-            "email": "hasather@gmail.com"
+            "name": "David Håsäther"
         },
         {
-            "name": "Amjad Masad",
-            "email": "amjad.masad@gmail.com"
+            "name": "Amjad Masad"
         },
         {
-            "name": "Peter Flannery",
-            "email": "flannery.peter@ntlworld.com"
+            "name": "Peter Flannery"
         },
         {
-            "name": "Liubomyr Mykhalchenko",
-            "email": "liubko.qwert@gmail.com"
+            "name": "Liubomyr Mykhalchenko"
         },
         {
-            "name": "Dmitry Soshnikov",
-            "email": "dmitry.soshnikov@gmail.com"
+            "name": "Dmitry Soshnikov"
         },
         {
-            "name": "Victor Berchet",
-            "email": "victor@suumit.com"
+            "name": "Victor Berchet"
         },
         {
-            "name": "Paul Selden",
-            "email": "pselden4@gmail.com"
+            "name": "Paul Selden"
         },
         {
-            "name": "Steven Vachon",
-            "email": "contact@svachon.com"
+            "name": "Steven Vachon"
         },
         {
-            "name": "Maga D. Zandaqo",
-            "email": "denelxan@gmail.com"
+            "name": "Maga D. Zandaqo"
         },
         {
-            "name": "Valeriy Sorokobatko",
-            "email": "valeriy.sorokobatko@gmail.com"
+            "name": "Valeriy Sorokobatko"
         },
         {
-            "name": "Ivan Willig",
-            "email": "iwillig@gmail.com"
+            "name": "Ivan Willig"
         },
         {
-            "name": "Oliver Joseph Ash",
-            "email": "oliverjash@gmail.com"
+            "name": "Oliver Joseph Ash"
         },
         {
-            "name": "Chris Truter",
-            "email": "jeffpalentine@gmail.com"
+            "name": "Chris Truter"
         },
         {
-            "name": "Marc Nieper-Wißkirchen",
-            "email": "marc.nieper@gmail.com"
+            "name": "Marc Nieper-Wißkirchen"
         },
         {
-            "name": "Rogério Yokomizo",
-            "email": "me@ro.ger.io"
+            "name": "Rogério Yokomizo"
         },
         {
-            "name": "Caitlin Potter",
-            "email": "caitpotter88@gmail.com"
+            "name": "Caitlin Potter"
         },
         {
-            "name": "Srinivasan Sekar",
-            "email": "srinivasan.sekar1990@gmail.com"
+            "name": "Srinivasan Sekar"
         },
         {
-            "name": "Jeff Shen",
-            "email": "jeffshen86@gmail.com"
+            "name": "Jeff Shen"
         },
         {
-            "name": "Erik Arvidsson",
-            "email": "erik.arvidsson@gmail.com"
+            "name": "Erik Arvidsson"
         }
     ],
     "dependencies": {
@@ -293,17 +246,14 @@
     "main": "./src/node/api.js",
     "maintainers": [
         {
-            "name": "arv",
-            "email": "arv@chromium.org"
+            "name": "arv"
         },
         {
-            "name": "johnjbarton",
-            "email": "johnjbarton@johnjbarton.com"
+            "name": "johnjbarton"
         }
     ],
     "name": "traceur",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/google/traceur-compiler.git"
@@ -338,284 +288,6 @@
     "subdomain": "traceur",
     "version": "0.0.111"
 }
-```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module traceur](#apidoc.module.traceur)
-1.  [function <span class="apidocSignatureSpan">traceur.</span>NodeCompiler (options, sourceRoot)](#apidoc.element.traceur.NodeCompiler)
-1.  [function <span class="apidocSignatureSpan">traceur.</span>amdOptions ()](#apidoc.element.traceur.amdOptions)
-1.  [function <span class="apidocSignatureSpan">traceur.</span>closureOptions ()](#apidoc.element.traceur.closureOptions)
-1.  [function <span class="apidocSignatureSpan">traceur.</span>commonJSOptions ()](#apidoc.element.traceur.commonJSOptions)
-1.  [function <span class="apidocSignatureSpan">traceur.</span>compile (src, options, sourceName, outputName)](#apidoc.element.traceur.compile)
-1.  [function <span class="apidocSignatureSpan">traceur.</span>compileAllJsFilesInDir (inputDir, outputDir, options)](#apidoc.element.traceur.compileAllJsFilesInDir)
-1.  [function <span class="apidocSignatureSpan">traceur.</span>forEachRecursiveModuleCompile (outputDir, includes, options)](#apidoc.element.traceur.forEachRecursiveModuleCompile)
-1.  [function <span class="apidocSignatureSpan">traceur.</span>recursiveModuleCompileToSingleFile (outputFile, includes, options)](#apidoc.element.traceur.recursiveModuleCompileToSingleFile)
-1.  object <span class="apidocSignatureSpan">traceur.</span>NodeCompiler.prototype
-1.  string <span class="apidocSignatureSpan">traceur.</span>RUNTIME_PATH
-
-#### [module traceur.NodeCompiler](#apidoc.module.traceur.NodeCompiler)
-1.  [function <span class="apidocSignatureSpan">traceur.</span>NodeCompiler (options, sourceRoot)](#apidoc.element.traceur.NodeCompiler.NodeCompiler)
-
-#### [module traceur.NodeCompiler.prototype](#apidoc.module.traceur.NodeCompiler.prototype)
-1.  [function <span class="apidocSignatureSpan">traceur.NodeCompiler.prototype.</span>compileSingleFile (inputFilePath, outputFilePath, errback)](#apidoc.element.traceur.NodeCompiler.prototype.compileSingleFile)
-1.  [function <span class="apidocSignatureSpan">traceur.NodeCompiler.prototype.</span>sourceMappingURL (filename)](#apidoc.element.traceur.NodeCompiler.prototype.sourceMappingURL)
-1.  [function <span class="apidocSignatureSpan">traceur.NodeCompiler.prototype.</span>writeTreeToFile (tree, filename)](#apidoc.element.traceur.NodeCompiler.prototype.writeTreeToFile)
-
-
-
-# <a name="apidoc.module.traceur"></a>[module traceur](#apidoc.module.traceur)
-
-#### <a name="apidoc.element.traceur.NodeCompiler"></a>[function <span class="apidocSignatureSpan">traceur.</span>NodeCompiler (options, sourceRoot)](#apidoc.element.traceur.NodeCompiler)
-- description and source-code
-```javascript
-function NodeCompiler(options, sourceRoot) {
-  sourceRoot = sourceRoot || process.cwd();
-  Compiler.call(this, options, sourceRoot);
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.traceur.amdOptions"></a>[function <span class="apidocSignatureSpan">traceur.</span>amdOptions ()](#apidoc.element.traceur.amdOptions)
-- description and source-code
-```javascript
-amdOptions = function () {
-  var options = arguments[0] !== (void 0) ? arguments[0] : {};
-  var amdOptions = {
-    modules: 'amd',
-    sourceMaps: false,
-    moduleName: false
-  };
-  return merge(amdOptions, options);
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.traceur.closureOptions"></a>[function <span class="apidocSignatureSpan">traceur.</span>closureOptions ()](#apidoc.element.traceur.closureOptions)
-- description and source-code
-```javascript
-closureOptions = function () {
-  var options = arguments[0] !== (void 0) ? arguments[0] : {};
-  var closureOptions = {
-    modules: 'closure',
-    sourceMaps: false,
-    moduleName: true
-  };
-  return merge(closureOptions, options);
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.traceur.commonJSOptions"></a>[function <span class="apidocSignatureSpan">traceur.</span>commonJSOptions ()](#apidoc.element.traceur.commonJSOptions)
-- description and source-code
-```javascript
-commonJSOptions = function () {
-  var options = arguments[0] !== (void 0) ? arguments[0] : {};
-  var commonjsOptions = {
-    modules: 'commonjs',
-    sourceMaps: false,
-    moduleName: false
-  };
-  return merge(commonjsOptions, options);
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.traceur.compile"></a>[function <span class="apidocSignatureSpan">traceur.</span>compile (src, options, sourceName, outputName)](#apidoc.element.traceur.compile)
-- description and source-code
-```javascript
-function compile(src, options, sourceName, outputName) {
-  sourceName = sourceName || '<compile-source>';
-  outputName = outputName || '<compile-output>';
-  return new NodeCompiler(Compiler.commonJSOptions(options)).
-      compile(src, sourceName, outputName);
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.traceur.compileAllJsFilesInDir"></a>[function <span class="apidocSignatureSpan">traceur.</span>compileAllJsFilesInDir (inputDir, outputDir, options)](#apidoc.element.traceur.compileAllJsFilesInDir)
-- description and source-code
-```javascript
-function compileAllJsFilesInDir(inputDir, outputDir, options) {
-  inputDir = path.normalize(inputDir).replace(/\\/g, '/');
-  outputDir = path.normalize(outputDir).replace(/\\/g, '/');
-  glob(inputDir + '/**/*.js', {}, function (er, files) {
-    if (er)
-      throw new Error('While scanning ' + inputDir + ': ' + er);
-
-    files.forEach(function(inputFilePath) {
-      var outputFilePath = inputFilePath.replace(inputDir, outputDir);
-      var compiler = new NodeCompiler(options);
-      compiler.compileSingleFile(inputFilePath, outputFilePath, function(err) {
-        throw new Error('While reading ' + inputFilePath + ': ' + err);
-      });
-    });
-  });
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.traceur.forEachRecursiveModuleCompile"></a>[function <span class="apidocSignatureSpan">traceur.</span>forEachRecursiveModuleCompile (outputDir, includes, options)](#apidoc.element.traceur.forEachRecursiveModuleCompile)
-- description and source-code
-```javascript
-function forEachRecursiveModuleCompile(outputDir, includes, options) {
-  var outputDir = path.resolve(outputDir);
-  var compiler = new NodeCompiler(options);
-  function getPromise (input) {
-    return recursiveModuleCompile([input], options).then(function(tree) {
-      var outputFileName = path.join(outputDir, input.name);
-      compiler.writeTreeToFile(tree, outputFileName);
-    });
-  }
-  return Promise.all(includes.map(getPromise));
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.traceur.recursiveModuleCompileToSingleFile"></a>[function <span class="apidocSignatureSpan">traceur.</span>recursiveModuleCompileToSingleFile (outputFile, includes, options)](#apidoc.element.traceur.recursiveModuleCompileToSingleFile)
-- description and source-code
-```javascript
-function recursiveModuleCompileToSingleFile(outputFile, includes, options) {
-  var resolvedOutputFile = path.resolve(outputFile);
-  var outputDir = path.dirname(resolvedOutputFile);
-
-  // Resolve includes before changing directory.
-  var resolvedIncludes = includes.map(function(include) {
-    include.name = path.resolve(include.name);
-    include.rootModule = true;
-    return include;
-  });
-
-  options.bundle = includes.length > 1;
-  var compiler = new NodeCompiler(options);
-
-  mkdirRecursive(outputDir);
-  process.chdir(outputDir);
-  // Make includes relative to output dir so that sourcemap paths are correct.
-  resolvedIncludes = resolvedIncludes.map(function(include) {
-    include.name = normalizePath(path.relative(outputDir, include.name));
-    return include;
-  });
-
-  return recursiveModuleCompile(resolvedIncludes, options)
-      .then(function(tree) {
-        compiler.writeTreeToFile(tree, resolvedOutputFile);
-      }).then(revertCwd, function(err) {
-        revertCwd();
-        throw err;
-      });
-}
-```
-- example usage
-```shell
-n/a
-```
-
-
-
-# <a name="apidoc.module.traceur.NodeCompiler"></a>[module traceur.NodeCompiler](#apidoc.module.traceur.NodeCompiler)
-
-#### <a name="apidoc.element.traceur.NodeCompiler.NodeCompiler"></a>[function <span class="apidocSignatureSpan">traceur.</span>NodeCompiler (options, sourceRoot)](#apidoc.element.traceur.NodeCompiler.NodeCompiler)
-- description and source-code
-```javascript
-function NodeCompiler(options, sourceRoot) {
-  sourceRoot = sourceRoot || process.cwd();
-  Compiler.call(this, options, sourceRoot);
-}
-```
-- example usage
-```shell
-n/a
-```
-
-
-
-# <a name="apidoc.module.traceur.NodeCompiler.prototype"></a>[module traceur.NodeCompiler.prototype](#apidoc.module.traceur.NodeCompiler.prototype)
-
-#### <a name="apidoc.element.traceur.NodeCompiler.prototype.compileSingleFile"></a>[function <span class="apidocSignatureSpan">traceur.NodeCompiler.prototype.</span>compileSingleFile (inputFilePath, outputFilePath, errback)](#apidoc.element.traceur.NodeCompiler.prototype.compileSingleFile)
-- description and source-code
-```javascript
-compileSingleFile = function (inputFilePath, outputFilePath, errback) {
-  inputFilePath = this.normalize(inputFilePath);
-  outputFilePath = this.normalize(outputFilePath);
-  fs.readFile(inputFilePath, function(err, contents) {
-    if (err) {
-      errback(err);
-      return;
-    }
-
-    var parsed = this.parse(contents.toString(), inputFilePath);
-    this.writeTreeToFile(this.transform(parsed, inputFilePath),
-                         outputFilePath);
-  }.bind(this));
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.traceur.NodeCompiler.prototype.sourceMappingURL"></a>[function <span class="apidocSignatureSpan">traceur.NodeCompiler.prototype.</span>sourceMappingURL (filename)](#apidoc.element.traceur.NodeCompiler.prototype.sourceMappingURL)
-- description and source-code
-```javascript
-sourceMappingURL = function (filename) {
-  if (this.options_.sourceMaps === 'inline') {
-    var base64sm = new Buffer(this.getSourceMap()).toString('base64');
-    return 'data:application/json;base64,' + base64sm;
-  }
-  return Compiler.prototype.sourceMappingURL.call(this, filename);
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.traceur.NodeCompiler.prototype.writeTreeToFile"></a>[function <span class="apidocSignatureSpan">traceur.NodeCompiler.prototype.</span>writeTreeToFile (tree, filename)](#apidoc.element.traceur.NodeCompiler.prototype.writeTreeToFile)
-- description and source-code
-```javascript
-writeTreeToFile = function (tree, filename) {
-  filename = this.normalize(filename);
-  var compiledCode = this.write(tree, filename);
-  if (this.options_.sourceMaps === 'file') {
-    var sourcemap = this.getSourceMap();
-    if (sourcemap) {
-      var mapName = this.sourceMappingURL(filename);
-      // Write the map file next to the output file.
-      mapName = path.resolve(path.dirname(filename), mapName);
-      writeFile(mapName, sourcemap);
-    }
-  }
-
-  writeFile(filename, compiledCode);
-}
-```
-- example usage
-```shell
-n/a
 ```
 
 
