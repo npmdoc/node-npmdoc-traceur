@@ -289,7 +289,23 @@
   return new NodeCompiler(Compiler.commonJSOptions(options)).
       compile(src, sourceName, outputName);
 }</pre></li>
-    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+    return name &#x26;&#x26; name.replace(/\\/g, &#x27;/&#x27;);
+  }
+}, {
+  script: function(content) {
+    var options = arguments[1] !== (void 0) ? arguments[1] : {};
+    options = new Options(options);
+    options.script = true;
+    return new Compiler(options).<span class="apidocCodeKeywordSpan">compile</span>(content);
+  },
+  module: function(content) {
+    var options = arguments[1] !== (void 0) ? arguments[1] : {};
+    options = new Options(options);
+    options.modules = &#x27;bootstrap&#x27;;
+    return new Compiler(options).compile(content);
+  },
+...</pre></li>
     </ul>
 
 
@@ -457,7 +473,24 @@
   }
   return Compiler.prototype.sourceMappingURL.call(this, filename);
 }</pre></li>
-    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+  return compiledCode;
+},
+debuggerLink: function(sourceURL, outputName) {
+  if (this.sourceMapConfiguration_) {
+    if (this.options_.sourceMaps === &#x27;memory&#x27;) {
+      return;
+    }
+    var sourceMappingURL = this.<span class="apidocCodeKeywordSpan">sourceMappingURL</span>(sourceURL || outputName || &#x27;unnamed
+.js&#x27;);
+    return &#x27;//# sourceMappingURL=&#x27; + sourceMappingURL + &#x27;\n&#x27;;
+  } else {
+    if (sourceURL) {
+      return &#x27;//# sourceURL=&#x27; + sourceURL + &#x27;\n&#x27;;
+    }
+  }
+},
+...</pre></li>
     </ul>
 
 
